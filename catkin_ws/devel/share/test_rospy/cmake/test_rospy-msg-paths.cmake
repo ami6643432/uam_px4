@@ -1,0 +1,1 @@
+/home/husarion/catkin_ws/devel/.private/test_rospy/share/test_rospy/cmake/test_rospy-msg-paths.cmake

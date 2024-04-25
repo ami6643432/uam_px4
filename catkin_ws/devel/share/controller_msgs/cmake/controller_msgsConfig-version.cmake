@@ -1,0 +1,1 @@
+/home/husarion/catkin_ws/devel/.private/controller_msgs/share/controller_msgs/cmake/controller_msgsConfig-version.cmake

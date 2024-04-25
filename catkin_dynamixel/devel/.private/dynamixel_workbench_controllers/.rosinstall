@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/husarion/catkin_dynamixel/devel/.private/dynamixel_workbench_controllers/setup.sh

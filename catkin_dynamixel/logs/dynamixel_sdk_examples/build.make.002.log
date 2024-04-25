@@ -1,0 +1,221 @@
+-- Using CATKIN_DEVEL_PREFIX: /home/husarion/catkin_dynamixel/devel/.private/dynamixel_sdk_examples
+-- Using CMAKE_PREFIX_PATH: /home/husarion/catkin_dynamixel/devel;/home/husarion/catkin_ws/devel;/opt/ros/melodic
+-- This workspace overlays: /home/husarion/catkin_dynamixel/devel;/home/husarion/catkin_ws/devel;/opt/ros/melodic
+-- Found PythonInterp: /usr/bin/python2 (found suitable version "2.7.17", minimum required is "2") 
+-- Using PYTHON_EXECUTABLE: /usr/bin/python2
+-- Using Debian Python package layout
+-- Using empy: /usr/bin/empy
+-- Using CATKIN_ENABLE_TESTING: ON
+-- Call enable_testing()
+-- Using CATKIN_TEST_RESULTS_DIR: /home/husarion/catkin_dynamixel/build/dynamixel_sdk_examples/test_results
+-- Found gtest sources under '/usr/src/googletest': gtests will be built
+-- Found gmock sources under '/usr/src/googletest': gmock will be built
+-- Found PythonInterp: /usr/bin/python2 (found version "2.7.17") 
+-- Using Python nosetests: /usr/bin/nosetests-2.7
+-- catkin 0.7.26
+-- BUILD_SHARED_LIBS is on
+-- Using these message generators: gencpp;geneus;genlisp;gennodejs;genpy
+-- dynamixel_sdk_examples: 3 messages, 3 services
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/husarion/catkin_dynamixel/build/dynamixel_sdk_examples
+make[2]: Warning: File 'CMakeFiles/_dynamixel_sdk_examples_generate_messages_check_deps_SyncGetPosition.dir/build.make' has modification time 293 s in the future
+make[2]: Warning: File 'CMakeFiles/std_msgs_generate_messages_py.dir/build.make' has modification time 293 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: Warning: File 'CMakeFiles/_dynamixel_sdk_examples_generate_messages_check_deps_SyncGetPosition.dir/build.make' has modification time 293 s in the future
+make[2]: Warning: File 'CMakeFiles/_dynamixel_sdk_examples_generate_messages_check_deps_SyncSetPosition.dir/build.make' has modification time 293 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: Warning: File 'CMakeFiles/std_msgs_generate_messages_py.dir/build.make' has modification time 293 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: Warning: File 'CMakeFiles/_dynamixel_sdk_examples_generate_messages_check_deps_SyncSetPosition.dir/build.make' has modification time 292 s in the future
+[  0%] Built target std_msgs_generate_messages_py
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: Warning: File 'CMakeFiles/_dynamixel_sdk_examples_generate_messages_check_deps_SetPosition.dir/build.make' has modification time 292 s in the future
+[  0%] Built target _dynamixel_sdk_examples_generate_messages_check_deps_SyncGetPosition
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: Warning: File 'CMakeFiles/_dynamixel_sdk_examples_generate_messages_check_deps_SetPosition.dir/build.make' has modification time 292 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: Warning: File 'CMakeFiles/_dynamixel_sdk_examples_generate_messages_check_deps_BulkSetItem.dir/build.make' has modification time 292 s in the future
+[  0%] Built target _dynamixel_sdk_examples_generate_messages_check_deps_SyncSetPosition
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: Warning: File 'CMakeFiles/_dynamixel_sdk_examples_generate_messages_check_deps_BulkSetItem.dir/build.make' has modification time 292 s in the future
+make[2]: Warning: File 'CMakeFiles/_dynamixel_sdk_examples_generate_messages_check_deps_GetPosition.dir/build.make' has modification time 292 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[  0%] Built target _dynamixel_sdk_examples_generate_messages_check_deps_SetPosition
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: Warning: File 'CMakeFiles/_dynamixel_sdk_examples_generate_messages_check_deps_GetPosition.dir/build.make' has modification time 292 s in the future
+make[2]: Warning: File 'CMakeFiles/_dynamixel_sdk_examples_generate_messages_check_deps_BulkGetItem.dir/build.make' has modification time 292 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[  0%] Built target _dynamixel_sdk_examples_generate_messages_check_deps_BulkSetItem
+make[2]: Warning: File 'CMakeFiles/_dynamixel_sdk_examples_generate_messages_check_deps_BulkGetItem.dir/build.make' has modification time 292 s in the future
+make[2]: Warning: File 'CMakeFiles/std_msgs_generate_messages_nodejs.dir/build.make' has modification time 292 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: Warning: File 'CMakeFiles/std_msgs_generate_messages_nodejs.dir/build.make' has modification time 292 s in the future
+[  0%] Built target _dynamixel_sdk_examples_generate_messages_check_deps_GetPosition
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: Warning: File 'CMakeFiles/rosgraph_msgs_generate_messages_eus.dir/build.make' has modification time 292 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[  0%] Built target std_msgs_generate_messages_nodejs
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[  0%] Built target _dynamixel_sdk_examples_generate_messages_check_deps_BulkGetItem
+make[2]: Warning: File 'CMakeFiles/rosgraph_msgs_generate_messages_eus.dir/build.make' has modification time 292 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: Warning: File 'CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/build.make' has modification time 292 s in the future
+make[2]: Warning: File 'CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/build.make' has modification time 292 s in the future
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+make[2]: Warning: File 'CMakeFiles/roscpp_generate_messages_py.dir/build.make' has modification time 292 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: Warning: File 'CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/build.make' has modification time 292 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: Warning: File 'CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/build.make' has modification time 292 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: Warning: File 'CMakeFiles/roscpp_generate_messages_py.dir/build.make' has modification time 292 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+make[2]: Warning: File 'CMakeFiles/roscpp_generate_messages_nodejs.dir/build.make' has modification time 292 s in the future
+[  0%] Built target roscpp_generate_messages_py
+make[2]: Warning: File 'CMakeFiles/std_msgs_generate_messages_lisp.dir/build.make' has modification time 292 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: Warning: File 'CMakeFiles/roscpp_generate_messages_nodejs.dir/build.make' has modification time 292 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: Warning: File 'CMakeFiles/std_msgs_generate_messages_lisp.dir/build.make' has modification time 292 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[  0%] Built target roscpp_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_lisp
+make[2]: Warning: File 'CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/build.make' has modification time 292 s in the future
+make[2]: Warning: File 'CMakeFiles/std_msgs_generate_messages_eus.dir/build.make' has modification time 292 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: Warning: File 'CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/build.make' has modification time 292 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: Warning: File 'CMakeFiles/std_msgs_generate_messages_eus.dir/build.make' has modification time 292 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+make[2]: Warning: File 'CMakeFiles/roscpp_generate_messages_lisp.dir/build.make' has modification time 292 s in the future
+[  0%] Built target std_msgs_generate_messages_eus
+make[2]: Warning: File 'CMakeFiles/roscpp_generate_messages_eus.dir/build.make' has modification time 292 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: Warning: File 'CMakeFiles/roscpp_generate_messages_lisp.dir/build.make' has modification time 292 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: Warning: File 'CMakeFiles/roscpp_generate_messages_eus.dir/build.make' has modification time 292 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[  0%] Built target roscpp_generate_messages_lisp
+make[2]: Warning: File 'CMakeFiles/dynamixel_sdk_examples_generate_messages_nodejs.dir/build.make' has modification time 292 s in the future
+[  0%] Built target roscpp_generate_messages_eus
+make[2]: Warning: File 'CMakeFiles/std_msgs_generate_messages_cpp.dir/build.make' has modification time 292 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: Warning: File 'CMakeFiles/dynamixel_sdk_examples_generate_messages_nodejs.dir/build.make' has modification time 292 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: Warning: File 'CMakeFiles/std_msgs_generate_messages_cpp.dir/build.make' has modification time 291 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[  2%] [34m[1mGenerating Javascript code from dynamixel_sdk_examples/BulkSetItem.msg[0m
+[  2%] Built target std_msgs_generate_messages_cpp
+make[2]: Warning: File 'CMakeFiles/rosgraph_msgs_generate_messages_py.dir/build.make' has modification time 291 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: Warning: File 'CMakeFiles/rosgraph_msgs_generate_messages_py.dir/build.make' has modification time 291 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[  2%] Built target rosgraph_msgs_generate_messages_py
+make[2]: Warning: File 'CMakeFiles/dynamixel_sdk_examples_generate_messages_eus.dir/build.make' has modification time 291 s in the future
+[  4%] [34m[1mGenerating Javascript code from dynamixel_sdk_examples/SyncSetPosition.msg[0m
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: Warning: File 'CMakeFiles/dynamixel_sdk_examples_generate_messages_eus.dir/build.make' has modification time 291 s in the future
+[  7%] [34m[1mGenerating EusLisp code from dynamixel_sdk_examples/BulkSetItem.msg[0m
+[  9%] [34m[1mGenerating Javascript code from dynamixel_sdk_examples/SetPosition.msg[0m
+[ 12%] [34m[1mGenerating EusLisp code from dynamixel_sdk_examples/SyncSetPosition.msg[0m
+[ 14%] [34m[1mGenerating Javascript code from dynamixel_sdk_examples/BulkGetItem.srv[0m
+[ 17%] [34m[1mGenerating Javascript code from dynamixel_sdk_examples/SyncGetPosition.srv[0m
+[ 19%] [34m[1mGenerating EusLisp code from dynamixel_sdk_examples/SetPosition.msg[0m
+[ 21%] [34m[1mGenerating Javascript code from dynamixel_sdk_examples/GetPosition.srv[0m
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 24%] [34m[1mGenerating EusLisp code from dynamixel_sdk_examples/BulkGetItem.srv[0m
+[ 24%] Built target dynamixel_sdk_examples_generate_messages_nodejs
+[ 26%] [34m[1mGenerating EusLisp code from dynamixel_sdk_examples/SyncGetPosition.srv[0m
+make[2]: Warning: File 'CMakeFiles/dynamixel_sdk_examples_generate_messages_cpp.dir/build.make' has modification time 290 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: Warning: File 'CMakeFiles/dynamixel_sdk_examples_generate_messages_cpp.dir/build.make' has modification time 290 s in the future
+[ 29%] [34m[1mGenerating C++ code from dynamixel_sdk_examples/BulkSetItem.msg[0m
+[ 31%] [34m[1mGenerating EusLisp code from dynamixel_sdk_examples/GetPosition.srv[0m
+[ 34%] [34m[1mGenerating EusLisp manifest code for dynamixel_sdk_examples[0m
+[ 36%] [34m[1mGenerating C++ code from dynamixel_sdk_examples/SyncSetPosition.msg[0m
+[ 39%] [34m[1mGenerating C++ code from dynamixel_sdk_examples/SetPosition.msg[0m
+[ 41%] [34m[1mGenerating C++ code from dynamixel_sdk_examples/BulkGetItem.srv[0m
+[ 43%] [34m[1mGenerating C++ code from dynamixel_sdk_examples/SyncGetPosition.srv[0m
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 43%] Built target dynamixel_sdk_examples_generate_messages_eus
+[ 46%] [34m[1mGenerating C++ code from dynamixel_sdk_examples/GetPosition.srv[0m
+make[2]: Warning: File 'CMakeFiles/roscpp_generate_messages_cpp.dir/build.make' has modification time 286 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: Warning: File 'CMakeFiles/roscpp_generate_messages_cpp.dir/build.make' has modification time 286 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 46%] Built target roscpp_generate_messages_cpp
+make[2]: Warning: File 'CMakeFiles/dynamixel_sdk_examples_generate_messages_lisp.dir/build.make' has modification time 286 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: Warning: File 'CMakeFiles/dynamixel_sdk_examples_generate_messages_lisp.dir/build.make' has modification time 286 s in the future
+[ 48%] [34m[1mGenerating Lisp code from dynamixel_sdk_examples/BulkSetItem.msg[0m
+[ 51%] [34m[1mGenerating Lisp code from dynamixel_sdk_examples/SyncSetPosition.msg[0m
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 51%] Built target dynamixel_sdk_examples_generate_messages_cpp
+[ 53%] [34m[1mGenerating Lisp code from dynamixel_sdk_examples/SetPosition.msg[0m
+make[2]: Warning: File 'CMakeFiles/dynamixel_sdk_examples_generate_messages_py.dir/build.make' has modification time 285 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: Warning: File 'CMakeFiles/dynamixel_sdk_examples_generate_messages_py.dir/build.make' has modification time 285 s in the future
+[ 56%] [34m[1mGenerating Python from MSG dynamixel_sdk_examples/BulkSetItem[0m
+[ 58%] [34m[1mGenerating Lisp code from dynamixel_sdk_examples/BulkGetItem.srv[0m
+[ 60%] [34m[1mGenerating Lisp code from dynamixel_sdk_examples/SyncGetPosition.srv[0m
+[ 63%] [34m[1mGenerating Python from MSG dynamixel_sdk_examples/SyncSetPosition[0m
+[ 65%] [34m[1mGenerating Lisp code from dynamixel_sdk_examples/GetPosition.srv[0m
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 65%] Built target dynamixel_sdk_examples_generate_messages_lisp
+[ 68%] [34m[1mGenerating Python from MSG dynamixel_sdk_examples/SetPosition[0m
+[ 70%] [34m[1mGenerating Python code from SRV dynamixel_sdk_examples/BulkGetItem[0m
+[ 73%] [34m[1mGenerating Python code from SRV dynamixel_sdk_examples/SyncGetPosition[0m
+[ 75%] [34m[1mGenerating Python code from SRV dynamixel_sdk_examples/GetPosition[0m
+[ 78%] [34m[1mGenerating Python msg __init__.py for dynamixel_sdk_examples[0m
+[ 80%] [34m[1mGenerating Python srv __init__.py for dynamixel_sdk_examples[0m
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 80%] Built target dynamixel_sdk_examples_generate_messages_py
+make[2]: Warning: File 'CMakeFiles/indirect_address_node.dir/flags.make' has modification time 282 s in the future
+[35m[1mScanning dependencies of target indirect_address_node[0m
+make[2]: Warning: File 'CMakeFiles/sync_read_write_node.dir/flags.make' has modification time 282 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: Warning: File 'CMakeFiles/indirect_address_node.dir/flags.make' has modification time 282 s in the future
+[35m[1mScanning dependencies of target sync_read_write_node[0m
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: Warning: File 'CMakeFiles/sync_read_write_node.dir/flags.make' has modification time 282 s in the future
+make[2]: Warning: File 'CMakeFiles/read_write_node.dir/flags.make' has modification time 282 s in the future
+[ 82%] [32mBuilding CXX object CMakeFiles/indirect_address_node.dir/src/indirect_address_node.cpp.o[0m
+[35m[1mScanning dependencies of target read_write_node[0m
+[ 85%] [32mBuilding CXX object CMakeFiles/sync_read_write_node.dir/src/sync_read_write_node.cpp.o[0m
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: Warning: File 'CMakeFiles/read_write_node.dir/flags.make' has modification time 282 s in the future
+[ 87%] [32mBuilding CXX object CMakeFiles/read_write_node.dir/src/read_write_node.cpp.o[0m
+[ 90%] [32m[1mLinking CXX executable /home/husarion/catkin_dynamixel/devel/.private/dynamixel_sdk_examples/lib/dynamixel_sdk_examples/indirect_address_node[0m
+[ 92%] [32m[1mLinking CXX executable /home/husarion/catkin_dynamixel/devel/.private/dynamixel_sdk_examples/lib/dynamixel_sdk_examples/sync_read_write_node[0m
+[ 95%] [32m[1mLinking CXX executable /home/husarion/catkin_dynamixel/devel/.private/dynamixel_sdk_examples/lib/dynamixel_sdk_examples/read_write_node[0m
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 95%] Built target indirect_address_node
+[ 95%] Built target sync_read_write_node
+make[2]: Warning: File 'CMakeFiles/dynamixel_sdk_examples_generate_messages.dir/build.make' has modification time 273 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: Warning: File 'CMakeFiles/dynamixel_sdk_examples_generate_messages.dir/build.make' has modification time 273 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: Warning: File 'CMakeFiles/bulk_read_write_node.dir/flags.make' has modification time 273 s in the future
+[ 95%] Built target read_write_node
+[ 95%] Built target dynamixel_sdk_examples_generate_messages
+[35m[1mScanning dependencies of target bulk_read_write_node[0m
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: Warning: File 'CMakeFiles/bulk_read_write_node.dir/flags.make' has modification time 273 s in the future
+[ 97%] [32mBuilding CXX object CMakeFiles/bulk_read_write_node.dir/src/bulk_read_write_node.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/husarion/catkin_dynamixel/devel/.private/dynamixel_sdk_examples/lib/dynamixel_sdk_examples/bulk_read_write_node[0m
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[100%] Built target bulk_read_write_node

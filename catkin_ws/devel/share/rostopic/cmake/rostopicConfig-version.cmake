@@ -1,0 +1,1 @@
+/home/husarion/catkin_ws/devel/.private/rostopic/share/rostopic/cmake/rostopicConfig-version.cmake

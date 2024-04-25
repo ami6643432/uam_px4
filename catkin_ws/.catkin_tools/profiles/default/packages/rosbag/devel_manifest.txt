@@ -1,0 +1,12 @@
+ros_comm/tools/rosbag
+/home/husarion/catkin_ws/devel/.private/rosbag/cmake.lock /home/husarion/catkin_ws/devel/./cmake.lock
+/home/husarion/catkin_ws/devel/.private/rosbag/bin/rosbag /home/husarion/catkin_ws/devel/bin/rosbag
+/home/husarion/catkin_ws/devel/.private/rosbag/bin/cmake.lock /home/husarion/catkin_ws/devel/bin/cmake.lock
+/home/husarion/catkin_ws/devel/.private/rosbag/lib/librosbag.so /home/husarion/catkin_ws/devel/lib/librosbag.so
+/home/husarion/catkin_ws/devel/.private/rosbag/lib/pkgconfig/rosbag.pc /home/husarion/catkin_ws/devel/lib/pkgconfig/rosbag.pc
+/home/husarion/catkin_ws/devel/.private/rosbag/lib/python2.7/dist-packages/rosbag/__init__.py /home/husarion/catkin_ws/devel/lib/python2.7/dist-packages/rosbag/__init__.py
+/home/husarion/catkin_ws/devel/.private/rosbag/lib/rosbag/play /home/husarion/catkin_ws/devel/lib/rosbag/play
+/home/husarion/catkin_ws/devel/.private/rosbag/lib/rosbag/encrypt /home/husarion/catkin_ws/devel/lib/rosbag/encrypt
+/home/husarion/catkin_ws/devel/.private/rosbag/lib/rosbag/record /home/husarion/catkin_ws/devel/lib/rosbag/record
+/home/husarion/catkin_ws/devel/.private/rosbag/share/rosbag/cmake/rosbagConfig-version.cmake /home/husarion/catkin_ws/devel/share/rosbag/cmake/rosbagConfig-version.cmake
+/home/husarion/catkin_ws/devel/.private/rosbag/share/rosbag/cmake/rosbagConfig.cmake /home/husarion/catkin_ws/devel/share/rosbag/cmake/rosbagConfig.cmake

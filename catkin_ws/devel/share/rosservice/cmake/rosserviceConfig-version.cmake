@@ -1,0 +1,1 @@
+/home/husarion/catkin_ws/devel/.private/rosservice/share/rosservice/cmake/rosserviceConfig-version.cmake

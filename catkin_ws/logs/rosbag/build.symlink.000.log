@@ -1,0 +1,9 @@
+Symlinking /home/husarion/catkin_ws/devel/bin/rosbag
+Symlinking /home/husarion/catkin_ws/devel/lib/librosbag.so
+Symlinking /home/husarion/catkin_ws/devel/lib/pkgconfig/rosbag.pc
+Symlinking /home/husarion/catkin_ws/devel/lib/python2.7/dist-packages/rosbag/__init__.py
+Symlinking /home/husarion/catkin_ws/devel/lib/rosbag/play
+Symlinking /home/husarion/catkin_ws/devel/lib/rosbag/encrypt
+Symlinking /home/husarion/catkin_ws/devel/lib/rosbag/record
+Symlinking /home/husarion/catkin_ws/devel/share/rosbag/cmake/rosbagConfig-version.cmake
+Symlinking /home/husarion/catkin_ws/devel/share/rosbag/cmake/rosbagConfig.cmake

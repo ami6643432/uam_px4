@@ -1,0 +1,1 @@
+/home/husarion/catkin_ws/devel/.private/test_rosbag_storage/lib/pkgconfig/test_rosbag_storage.pc

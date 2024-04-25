@@ -1,0 +1,8 @@
+prefix=/home/husarion/catkin_ws/devel/.private/test_rosservice
+
+Name: test_rosservice
+Description: Description of test_rosservice
+Version: 1.14.12
+Cflags: -I/home/husarion/catkin_ws/devel/.private/test_rosservice/include
+Libs: -L${prefix}/lib 
+Requires: 

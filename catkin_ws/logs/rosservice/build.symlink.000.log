@@ -1,0 +1,5 @@
+Symlinking /home/husarion/catkin_ws/devel/bin/rosservice
+Symlinking /home/husarion/catkin_ws/devel/lib/pkgconfig/rosservice.pc
+Symlinking /home/husarion/catkin_ws/devel/lib/python2.7/dist-packages/rosservice/__init__.py
+Symlinking /home/husarion/catkin_ws/devel/share/rosservice/cmake/rosserviceConfig.cmake
+Symlinking /home/husarion/catkin_ws/devel/share/rosservice/cmake/rosserviceConfig-version.cmake

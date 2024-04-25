@@ -1,0 +1,623 @@
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target _tf_generate_messages_check_deps_tfMessage[0m
+[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target _tf_generate_messages_check_deps_FrameGraph[0m
+[  0%] Built target _tf_generate_messages_check_deps_tfMessage
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[  0%] Built target _tf_generate_messages_check_deps_FrameGraph
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_py
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[  0%] Built target roscpp_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_nodejs[0m
+[  0%] Built target tf2_msgs_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_py
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[  0%] Built target roscpp_generate_messages_lisp
+[  0%] Built target roscpp_generate_messages_nodejs
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_eus[0m
+[  0%] Built target roscpp_generate_messages_cpp
+[  0%] Built target tf2_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target actionlib_generate_messages_py[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[  0%] Built target actionlib_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_cpp[0m
+[  0%] Built target tf2_msgs_generate_messages_cpp
+[  0%] Built target tf2_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target actionlib_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
+[  0%] Built target actionlib_generate_messages_lisp
+[  0%] Built target actionlib_msgs_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_generate_messages_eus[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_cpp[0m
+[  0%] Built target actionlib_generate_messages_eus
+[  0%] Built target actionlib_generate_messages_cpp
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
+[  0%] Built target tf2_msgs_generate_messages_py
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[  0%] Built target actionlib_generate_messages_nodejs
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target gtest[0m
+[35m[1mScanning dependencies of target tf_generate_messages_cpp[0m
+[  2%] [34m[1mGenerating C++ code from tf/tfMessage.msg[0m
+[  5%] [32mBuilding CXX object gtest/googlemock/gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o[0m
+[  8%] [34m[1mGenerating C++ code from tf/FrameGraph.srv[0m
+[  8%] Built target tf_generate_messages_cpp
+[35m[1mScanning dependencies of target tf_generate_messages_eus[0m
+[ 11%] [34m[1mGenerating EusLisp code from tf/tfMessage.msg[0m
+[ 13%] [34m[1mGenerating EusLisp code from tf/FrameGraph.srv[0m
+[ 16%] [34m[1mGenerating EusLisp manifest code for tf[0m
+[ 16%] Built target tf_generate_messages_eus
+[35m[1mScanning dependencies of target tf_generate_messages_py[0m
+[ 19%] [34m[1mGenerating Python from MSG tf/tfMessage[0m
+[ 22%] [34m[1mGenerating Python code from SRV tf/FrameGraph[0m
+[ 25%] [34m[1mGenerating Python msg __init__.py for tf[0m
+[ 27%] [34m[1mGenerating Python srv __init__.py for tf[0m
+[ 27%] Built target tf_generate_messages_py
+[35m[1mScanning dependencies of target tf_generate_messages_lisp[0m
+[ 30%] [34m[1mGenerating Lisp code from tf/tfMessage.msg[0m
+[ 33%] [34m[1mGenerating Lisp code from tf/FrameGraph.srv[0m
+[ 33%] Built target tf_generate_messages_lisp
+[35m[1mScanning dependencies of target tf_generate_messages_nodejs[0m
+[ 36%] [34m[1mGenerating Javascript code from tf/tfMessage.msg[0m
+[ 38%] [34m[1mGenerating Javascript code from tf/FrameGraph.srv[0m
+[ 38%] Built target tf_generate_messages_nodejs
+[35m[1mScanning dependencies of target tf[0m
+[ 41%] [32mBuilding CXX object CMakeFiles/tf.dir/src/cache.cpp.o[0m
+In file included from [01m[K/usr/include/c++/7/vector:64:0[m[K,
+                 from [01m[K/usr/src/googletest/googletest/include/gtest/gtest.h:56[m[K,
+                 from [01m[K/usr/src/googletest/googletest/src/gtest-all.cc:39[m[K:
+[01m[K/usr/include/c++/7/bits/stl_vector.h:[m[K In copy constructor '[01m[Kstd::vector<_Tp, _Alloc>::vector(const std::vector<_Tp, _Alloc>&) [with _Tp = double; _Alloc = std::allocator<double>][m[K':
+[01m[K/usr/include/c++/7/bits/stl_vector.h:331:31:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[K__gnu_cxx::__normal_iterator<const double*, std::vector<double> >[m[K' changed in GCC 7.1
+    [01;36m[Kstd::__uninitialized_copy_a(__x.begin(), __x.end(),[m[K
+    [01;36m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~[m[K
+ [01;36m[K          this->_M_impl._M_start,[m[K
+           [01;36m[K~~~~~~~~~~~~~~~~~~~~~~~[m[K
+ [01;36m[K          _M_get_Tp_allocator())[m[K;
+           [01;36m[K~~~~~~~~~~~~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/c++/7/vector:63:0[m[K,
+                 from [01m[K/usr/src/googletest/googletest/include/gtest/gtest.h:56[m[K,
+                 from [01m[K/usr/src/googletest/googletest/src/gtest-all.cc:39[m[K:
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:[m[K In function '[01m[K_ForwardIterator std::__uninitialized_copy_a(_InputIterator, _InputIterator, _ForwardIterator, std::allocator<_Tp>&) [with _InputIterator = __gnu_cxx::__normal_iterator<const double*, std::vector<double> >; _ForwardIterator = double*; _Tp = double][m[K':
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:287:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[K__gnu_cxx::__normal_iterator<const double*, std::vector<double> >[m[K' changed in GCC 7.1
+     [01;36m[K__uninitialized_copy_a[m[K(_InputIterator __first, _InputIterator __last,
+     [01;36m[K^~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:287:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[K__gnu_cxx::__normal_iterator<const double*, std::vector<double> >[m[K' changed in GCC 7.1
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:289:63:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[K__gnu_cxx::__normal_iterator<const double*, std::vector<double> >[m[K' changed in GCC 7.1
+     { return std::uninitialized_copy(__first, __last, __result[01;36m[K)[m[K; }
+                                                               [01;36m[K^[m[K
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:[m[K In function '[01m[K_ForwardIterator std::uninitialized_copy(_InputIterator, _InputIterator, _ForwardIterator) [with _InputIterator = __gnu_cxx::__normal_iterator<const double*, std::vector<double> >; _ForwardIterator = double*][m[K':
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:115:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[K__gnu_cxx::__normal_iterator<const double*, std::vector<double> >[m[K' changed in GCC 7.1
+     [01;36m[Kuninitialized_copy[m[K(_InputIterator __first, _InputIterator __last,
+     [01;36m[K^~~~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:115:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[K__gnu_cxx::__normal_iterator<const double*, std::vector<double> >[m[K' changed in GCC 7.1
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:134:41:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[K__gnu_cxx::__normal_iterator<const double*, std::vector<double> >[m[K' changed in GCC 7.1
+  __uninit_copy(__first, __last, __result[01;36m[K)[m[K;
+                                         [01;36m[K^[m[K
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:[m[K In static member function '[01m[Kstatic _ForwardIterator std::__uninitialized_copy<true>::__uninit_copy(_InputIterator, _InputIterator, _ForwardIterator) [with _InputIterator = __gnu_cxx::__normal_iterator<const double*, std::vector<double> >; _ForwardIterator = double*][m[K':
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:99:9:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[K__gnu_cxx::__normal_iterator<const double*, std::vector<double> >[m[K' changed in GCC 7.1
+         [01;36m[K__uninit_copy[m[K(_InputIterator __first, _InputIterator __last,
+         [01;36m[K^~~~~~~~~~~~~[m[K
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:99:9:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[K__gnu_cxx::__normal_iterator<const double*, std::vector<double> >[m[K' changed in GCC 7.1
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:101:53:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[K__gnu_cxx::__normal_iterator<const double*, std::vector<double> >[m[K' changed in GCC 7.1
+         { return std::copy(__first, __last, __result[01;36m[K)[m[K; }
+                                                     [01;36m[K^[m[K
+In file included from [01m[K/usr/include/c++/7/bits/char_traits.h:39:0[m[K,
+                 from [01m[K/usr/include/c++/7/ios:40[m[K,
+                 from [01m[K/usr/include/c++/7/ostream:38[m[K,
+                 from [01m[K/usr/src/googletest/googletest/include/gtest/gtest.h:55[m[K,
+                 from [01m[K/usr/src/googletest/googletest/src/gtest-all.cc:39[m[K:
+[01m[K/usr/include/c++/7/bits/stl_algobase.h:[m[K In function '[01m[K_OI std::copy(_II, _II, _OI) [with _II = __gnu_cxx::__normal_iterator<const double*, std::vector<double> >; _OI = double*][m[K':
+[01m[K/usr/include/c++/7/bits/stl_algobase.h:446:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[K__gnu_cxx::__normal_iterator<const double*, std::vector<double> >[m[K' changed in GCC 7.1
+     [01;36m[Kcopy[m[K(_II __first, _II __last, _OI __result)
+     [01;36m[K^~~~[m[K
+[01m[K/usr/include/c++/7/bits/stl_algobase.h:446:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[K__gnu_cxx::__normal_iterator<const double*, std::vector<double> >[m[K' changed in GCC 7.1
+[01m[K/usr/include/c++/7/bits/stl_algobase.h:456:18:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[K__gnu_cxx::__normal_iterator<const double*, std::vector<double> >[m[K' changed in GCC 7.1
+         __result)[01;36m[K)[m[K;
+                  [01;36m[K^[m[K
+In file included from [01m[K/usr/include/c++/7/bits/stl_algobase.h:61:0[m[K,
+                 from [01m[K/usr/include/c++/7/bits/char_traits.h:39[m[K,
+                 from [01m[K/usr/include/c++/7/ios:40[m[K,
+                 from [01m[K/usr/include/c++/7/ostream:38[m[K,
+                 from [01m[K/usr/src/googletest/googletest/include/gtest/gtest.h:55[m[K,
+                 from [01m[K/usr/src/googletest/googletest/src/gtest-all.cc:39[m[K:
+[01m[K/usr/include/c++/7/bits/cpp_type_traits.h:[m[K In function '[01m[K_Iterator std::__miter_base(_Iterator) [with _Iterator = __gnu_cxx::__normal_iterator<const double*, std::vector<double> >][m[K':
+[01m[K/usr/include/c++/7/bits/cpp_type_traits.h:408:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[K__gnu_cxx::__normal_iterator<const double*, std::vector<double> >[m[K' changed in GCC 7.1
+     [01;36m[K__miter_base[m[K(_Iterator __it)
+     [01;36m[K^~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/c++/7/bits/char_traits.h:39:0[m[K,
+                 from [01m[K/usr/include/c++/7/ios:40[m[K,
+                 from [01m[K/usr/include/c++/7/ostream:38[m[K,
+                 from [01m[K/usr/src/googletest/googletest/include/gtest/gtest.h:55[m[K,
+                 from [01m[K/usr/src/googletest/googletest/src/gtest-all.cc:39[m[K:
+[01m[K/usr/include/c++/7/bits/stl_algobase.h:[m[K In function '[01m[K_OI std::__copy_move_a2(_II, _II, _OI) [with bool _IsMove = false; _II = __gnu_cxx::__normal_iterator<const double*, std::vector<double> >; _OI = double*][m[K':
+[01m[K/usr/include/c++/7/bits/stl_algobase.h:420:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[K__gnu_cxx::__normal_iterator<const double*, std::vector<double> >[m[K' changed in GCC 7.1
+     [01;36m[K__copy_move_a2[m[K(_II __first, _II __last, _OI __result)
+     [01;36m[K^~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/c++/7/bits/stl_algobase.h:420:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[K__gnu_cxx::__normal_iterator<const double*, std::vector<double> >[m[K' changed in GCC 7.1
+In file included from [01m[K/usr/include/c++/7/bits/stl_algobase.h:67:0[m[K,
+                 from [01m[K/usr/include/c++/7/bits/char_traits.h:39[m[K,
+                 from [01m[K/usr/include/c++/7/ios:40[m[K,
+                 from [01m[K/usr/include/c++/7/ostream:38[m[K,
+                 from [01m[K/usr/src/googletest/googletest/include/gtest/gtest.h:55[m[K,
+                 from [01m[K/usr/src/googletest/googletest/src/gtest-all.cc:39[m[K:
+[01m[K/usr/include/c++/7/bits/stl_iterator.h:[m[K In function '[01m[K_Iterator std::__niter_base(__gnu_cxx::__normal_iterator<_Iterator, _Container>) [with _Iterator = const double*; _Container = std::vector<double>][m[K':
+[01m[K/usr/include/c++/7/bits/stl_iterator.h:986:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[K__gnu_cxx::__normal_iterator<const double*, std::vector<double> >[m[K' changed in GCC 7.1
+     [01;36m[K__niter_base[m[K(__gnu_cxx::__normal_iterator<_Iterator, _Container> __it)
+     [01;36m[K^~~~~~~~~~~~[m[K
+[ 44%] [32m[1mLinking CXX shared library libgtest.so[0m
+[ 44%] Built target gtest
+[35m[1mScanning dependencies of target tf_generate_messages[0m
+[ 44%] Built target tf_generate_messages
+[ 47%] [32mBuilding CXX object CMakeFiles/tf.dir/src/tf.cpp.o[0m
+[01m[K/home/husarion/catkin_ws/src/geometry/tf/src/cache.cpp:[m[K In member function '[01m[Kbool tf::TimeCache::insertData(const tf::TransformStorage&)[m[K':
+[01m[K/home/husarion/catkin_ws/src/geometry/tf/src/cache.cpp:253:31:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::set<tf::TransformStorage>::iterator {aka std::_Rb_tree_const_iterator<tf::TransformStorage>}[m[K' changed in GCC 7.1
+                 [01;36m[Kstorage_.erase(storage_it)[m[K;
+                 [01;36m[K~~~~~~~~~~~~~~^~~~~~~~~~~~[m[K
+[01m[K/home/husarion/catkin_ws/src/geometry/tf/src/cache.cpp:257:18:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::_Rb_tree_const_iterator<tf::TransformStorage>[m[K' changed in GCC 7.1
+   [01;36m[Kstorage_.insert(storage_.end(), new_data)[m[K;
+   [01;36m[K~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/husarion/catkin_ws/src/geometry/tf/src/cache.cpp:[m[K In member function '[01m[Kvoid tf::TimeCache::pruneList()[m[K':
+[01m[K/home/husarion/catkin_ws/src/geometry/tf/src/cache.cpp:303:19:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::_Rb_tree_const_iterator<tf::TransformStorage>[m[K' changed in GCC 7.1
+     [01;36m[Kstorage_.erase(storage_.begin())[m[K;
+     [01;36m[K~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/c++/7/set:61:0[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/geometry/tf/include/tf/time_cache.h:35[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/geometry/tf/src/cache.cpp:32[m[K:
+[01m[K/usr/include/c++/7/bits/stl_set.h:[m[K In member function '[01m[Kstd::set<_Key, _Compare, _Alloc>::iterator std::set<_Key, _Compare, _Alloc>::erase(std::set<_Key, _Compare, _Alloc>::const_iterator) [with _Key = tf::TransformStorage; _Compare = std::less<tf::TransformStorage>; _Alloc = std::allocator<tf::TransformStorage>][m[K':
+[01m[K/usr/include/c++/7/bits/stl_set.h:644:7:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::set<tf::TransformStorage>::const_iterator {aka std::_Rb_tree_const_iterator<tf::TransformStorage>}[m[K' changed in GCC 7.1
+       [01;36m[Kerase[m[K(const_iterator __position)
+       [01;36m[K^~~~~[m[K
+[01m[K/usr/include/c++/7/bits/stl_set.h:645:37:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::set<tf::TransformStorage>::const_iterator {aka std::_Rb_tree_const_iterator<tf::TransformStorage>}[m[K' changed in GCC 7.1
+       { return _M_t.erase(__position[01;36m[K)[m[K; }
+                                     [01;36m[K^[m[K
+[01m[K/usr/include/c++/7/bits/stl_set.h:[m[K In member function '[01m[Kstd::set<_Key, _Compare, _Alloc>::iterator std::set<_Key, _Compare, _Alloc>::insert(std::set<_Key, _Compare, _Alloc>::const_iterator, const value_type&) [with _Key = tf::TransformStorage; _Compare = std::less<tf::TransformStorage>; _Alloc = std::allocator<tf::TransformStorage>][m[K':
+[01m[K/usr/include/c++/7/bits/stl_set.h:536:7:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::set<tf::TransformStorage>::const_iterator {aka std::_Rb_tree_const_iterator<tf::TransformStorage>}[m[K' changed in GCC 7.1
+       [01;36m[Kinsert[m[K(const_iterator __position, const value_type& __x)
+       [01;36m[K^~~~~~[m[K
+[01m[K/usr/include/c++/7/bits/stl_set.h:537:54:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::set<tf::TransformStorage>::const_iterator {aka std::_Rb_tree_const_iterator<tf::TransformStorage>}[m[K' changed in GCC 7.1
+       { return _M_t._M_insert_unique_(__position, __x[01;36m[K)[m[K; }
+                                                      [01;36m[K^[m[K
+In file included from [01m[K/usr/include/c++/7/set:60:0[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/geometry/tf/include/tf/time_cache.h:35[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/geometry/tf/src/cache.cpp:32[m[K:
+[01m[K/usr/include/c++/7/bits/stl_tree.h:[m[K In member function '[01m[Kstd::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::const_reverse_iterator std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::rbegin() const [with _Key = tf::TransformStorage; _Val = tf::TransformStorage; _KeyOfValue = std::_Identity<tf::TransformStorage>; _Compare = std::less<tf::TransformStorage>; _Alloc = std::allocator<tf::TransformStorage>][m[K':
+[01m[K/usr/include/c++/7/bits/stl_tree.h:981:44:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::_Rb_tree_const_iterator<tf::TransformStorage>[m[K' changed in GCC 7.1
+       { return const_reverse_iterator(end()[01;36m[K)[m[K; }
+                                            [01;36m[K^[m[K
+[01m[K/usr/include/c++/7/bits/stl_tree.h:[m[K In member function '[01m[Kstd::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::iterator std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::erase(std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::const_iterator) [with _Key = tf::TransformStorage; _Val = tf::TransformStorage; _KeyOfValue = std::_Identity<tf::TransformStorage>; _Compare = std::less<tf::TransformStorage>; _Alloc = std::allocator<tf::TransformStorage>][m[K':
+[01m[K/usr/include/c++/7/bits/stl_tree.h:1108:7:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::_Rb_tree<tf::TransformStorage, tf::TransformStorage, std::_Identity<tf::TransformStorage>, std::less<tf::TransformStorage>, std::allocator<tf::TransformStorage> >::const_iterator {aka std::_Rb_tree_const_iterator<tf::TransformStorage>}[m[K' changed in GCC 7.1
+       [01;36m[Kerase[m[K(const_iterator __position)
+       [01;36m[K^~~~~[m[K
+[01m[K/usr/include/c++/7/bits/stl_tree.h:1113:14:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::_Rb_tree<tf::TransformStorage, tf::TransformStorage, std::_Identity<tf::TransformStorage>, std::less<tf::TransformStorage>, std::allocator<tf::TransformStorage> >::const_iterator {aka std::_Rb_tree_const_iterator<tf::TransformStorage>}[m[K' changed in GCC 7.1
+  [01;36m[K_M_erase_aux(__position)[m[K;
+  [01;36m[K~~~~~~~~~~~~^~~~~~~~~~~~[m[K
+[01m[K/usr/include/c++/7/bits/stl_tree.h:[m[K In member function '[01m[Kstd::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::iterator std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::_M_insert_unique_(std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::const_iterator, _Arg&&) [with _Arg = const tf::TransformStorage&; _Key = tf::TransformStorage; _Val = tf::TransformStorage; _KeyOfValue = std::_Identity<tf::TransformStorage>; _Compare = std::less<tf::TransformStorage>; _Alloc = std::allocator<tf::TransformStorage>][m[K':
+[01m[K/usr/include/c++/7/bits/stl_tree.h:1023:2:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::_Rb_tree<tf::TransformStorage, tf::TransformStorage, std::_Identity<tf::TransformStorage>, std::less<tf::TransformStorage>, std::allocator<tf::TransformStorage> >::const_iterator {aka std::_Rb_tree_const_iterator<tf::TransformStorage>}[m[K' changed in GCC 7.1
+  [01;36m[K_M_insert_unique_[m[K(const_iterator __pos, _Arg&& __x)
+  [01;36m[K^~~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/c++/7/bits/stl_tree.h:1026:65:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::_Rb_tree<tf::TransformStorage, tf::TransformStorage, std::_Identity<tf::TransformStorage>, std::less<tf::TransformStorage>, std::allocator<tf::TransformStorage> >::const_iterator {aka std::_Rb_tree_const_iterator<tf::TransformStorage>}[m[K' changed in GCC 7.1
+    return _M_insert_unique_(__pos, std::forward<_Arg>(__x), __an[01;36m[K)[m[K;
+                                                                 [01;36m[K^[m[K
+In file included from [01m[K/usr/include/c++/7/bits/stl_algobase.h:67:0[m[K,
+                 from [01m[K/usr/include/c++/7/bits/stl_tree.h:63[m[K,
+                 from [01m[K/usr/include/c++/7/set:60[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/geometry/tf/include/tf/time_cache.h:35[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/geometry/tf/src/cache.cpp:32[m[K:
+[01m[K/usr/include/c++/7/bits/stl_iterator.h:[m[K In constructor '[01m[Kstd::reverse_iterator<_Iterator>::reverse_iterator(std::reverse_iterator<_Iterator>::iterator_type) [with _Iterator = std::_Rb_tree_const_iterator<tf::TransformStorage>][m[K':
+[01m[K/usr/include/c++/7/bits/stl_iterator.h:133:7:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::reverse_iterator<std::_Rb_tree_const_iterator<tf::TransformStorage> >::iterator_type {aka std::_Rb_tree_const_iterator<tf::TransformStorage>}[m[K' changed in GCC 7.1
+       [01;36m[Kreverse_iterator[m[K(iterator_type __x) : current(__x) { }
+       [01;36m[K^~~~~~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/c++/7/set:60:0[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/geometry/tf/include/tf/time_cache.h:35[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/geometry/tf/src/cache.cpp:32[m[K:
+[01m[K/usr/include/c++/7/bits/stl_tree.h:[m[K In member function '[01m[Kvoid std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::_M_erase_aux(std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::const_iterator) [with _Key = tf::TransformStorage; _Val = tf::TransformStorage; _KeyOfValue = std::_Identity<tf::TransformStorage>; _Compare = std::less<tf::TransformStorage>; _Alloc = std::allocator<tf::TransformStorage>][m[K':
+[01m[K/usr/include/c++/7/bits/stl_tree.h:2470:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::_Rb_tree<tf::TransformStorage, tf::TransformStorage, std::_Identity<tf::TransformStorage>, std::less<tf::TransformStorage>, std::allocator<tf::TransformStorage> >::const_iterator {aka std::_Rb_tree_const_iterator<tf::TransformStorage>}[m[K' changed in GCC 7.1
+     [01;36m[K_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>[m[K::
+     [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/c++/7/bits/stl_tree.h:[m[K In member function '[01m[Kstd::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::iterator std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::_M_insert_unique_(std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::const_iterator, _Arg&&, _NodeGen&) [with _Arg = const tf::TransformStorage&; _NodeGen = std::_Rb_tree<tf::TransformStorage, tf::TransformStorage, std::_Identity<tf::TransformStorage>, std::less<tf::TransformStorage>, std::allocator<tf::TransformStorage> >::_Alloc_node; _Key = tf::TransformStorage; _Val = tf::TransformStorage; _KeyOfValue = std::_Identity<tf::TransformStorage>; _Compare = std::less<tf::TransformStorage>; _Alloc = std::allocator<tf::TransformStorage>][m[K':
+[01m[K/usr/include/c++/7/bits/stl_tree.h:2191:7:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::_Rb_tree<tf::TransformStorage, tf::TransformStorage, std::_Identity<tf::TransformStorage>, std::less<tf::TransformStorage>, std::allocator<tf::TransformStorage> >::const_iterator {aka std::_Rb_tree_const_iterator<tf::TransformStorage>}[m[K' changed in GCC 7.1
+       [01;36m[K_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>[m[K::
+       [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/c++/7/bits/stl_tree.h:[m[K In member function '[01m[Kstd::pair<std::_Rb_tree_node_base*, std::_Rb_tree_node_base*> std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::_M_get_insert_hint_unique_pos(std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::const_iterator, const key_type&) [with _Key = tf::TransformStorage; _Val = tf::TransformStorage; _KeyOfValue = std::_Identity<tf::TransformStorage>; _Compare = std::less<tf::TransformStorage>; _Alloc = std::allocator<tf::TransformStorage>][m[K':
+[01m[K/usr/include/c++/7/bits/stl_tree.h:2130:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::_Rb_tree<tf::TransformStorage, tf::TransformStorage, std::_Identity<tf::TransformStorage>, std::less<tf::TransformStorage>, std::allocator<tf::TransformStorage> >::const_iterator {aka std::_Rb_tree_const_iterator<tf::TransformStorage>}[m[K' changed in GCC 7.1
+     [01;36m[K_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>[m[K::
+     [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[ 50%] [32mBuilding CXX object CMakeFiles/tf.dir/src/transform_broadcaster.cpp.o[0m
+[ 52%] [32mBuilding CXX object CMakeFiles/tf.dir/src/transform_listener.cpp.o[0m
+In file included from [01m[K/usr/include/c++/7/vector:64:0[m[K,
+                 from [01m[K/usr/include/boost/math/special_functions/math_fwd.hpp:26[m[K,
+                 from [01m[K/usr/include/boost/math/special_functions/round.hpp:15[m[K,
+                 from [01m[K/opt/ros/melodic/include/ros/time.h:58[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/include/ros/ros.h:38[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/geometry/tf/src/transform_broadcaster.cpp:34[m[K:
+[01m[K/usr/include/c++/7/bits/stl_vector.h:[m[K In member function '[01m[Kvoid std::vector<_Tp, _Alloc>::push_back(const value_type&) [with _Tp = geometry_msgs::TransformStamped_<std::allocator<void> >; _Alloc = std::allocator<geometry_msgs::TransformStamped_<std::allocator<void> > >][m[K':
+[01m[K/usr/include/c++/7/bits/stl_vector.h:948:21:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[K__gnu_cxx::__normal_iterator<geometry_msgs::TransformStamped_<std::allocator<void> >*, std::vector<geometry_msgs::TransformStamped_<std::allocator<void> > > >[m[K' changed in GCC 7.1
+    [01;36m[K_M_realloc_insert(end(), __x)[m[K;
+    [01;36m[K~~~~~~~~~~~~~~~~~^~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/c++/7/vector:69:0[m[K,
+                 from [01m[K/usr/include/boost/math/special_functions/math_fwd.hpp:26[m[K,
+                 from [01m[K/usr/include/boost/math/special_functions/round.hpp:15[m[K,
+                 from [01m[K/opt/ros/melodic/include/ros/time.h:58[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/include/ros/ros.h:38[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/geometry/tf/src/transform_broadcaster.cpp:34[m[K:
+[01m[K/usr/include/c++/7/bits/vector.tcc:[m[K In member function '[01m[Kvoid std::vector<_Tp, _Alloc>::_M_realloc_insert(std::vector<_Tp, _Alloc>::iterator, _Args&& ...) [with _Args = {const geometry_msgs::TransformStamped_<std::allocator<void> >&}; _Tp = geometry_msgs::TransformStamped_<std::allocator<void> >; _Alloc = std::allocator<geometry_msgs::TransformStamped_<std::allocator<void> > >][m[K':
+[01m[K/usr/include/c++/7/bits/vector.tcc:394:7:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::vector<geometry_msgs::TransformStamped_<std::allocator<void> > >::iterator {aka __gnu_cxx::__normal_iterator<geometry_msgs::TransformStamped_<std::allocator<void> >*, std::vector<geometry_msgs::TransformStamped_<std::allocator<void> > > >}[m[K' changed in GCC 7.1
+       [01;36m[Kvector<_Tp, _Alloc>[m[K::
+       [01;36m[K^~~~~~~~~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/c++/7/vector:63:0[m[K,
+                 from [01m[K/usr/include/boost/math/special_functions/math_fwd.hpp:26[m[K,
+                 from [01m[K/usr/include/boost/math/special_functions/round.hpp:15[m[K,
+                 from [01m[K/opt/ros/melodic/include/ros/time.h:58[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/include/ros/ros.h:38[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/geometry/tf/src/transform_broadcaster.cpp:34[m[K:
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:[m[K In function '[01m[K_ForwardIterator std::__uninitialized_move_if_noexcept_a(_InputIterator, _InputIterator, _ForwardIterator, _Allocator&) [with _InputIterator = geometry_msgs::TransformStamped_<std::allocator<void> >*; _ForwardIterator = geometry_msgs::TransformStamped_<std::allocator<void> >*; _Allocator = std::allocator<geometry_msgs::TransformStamped_<std::allocator<void> > >][m[K':
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:312:69:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<geometry_msgs::TransformStamped_<std::allocator<void> >*>[m[K' changed in GCC 7.1
+   _GLIBCXX_MAKE_MOVE_IF_NOEXCEPT_ITERATOR(__last), __result, __alloc[01;36m[K)[m[K;
+                                                                     [01;36m[K^[m[K
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:[m[K In function '[01m[K_ForwardIterator std::__uninitialized_copy_a(_InputIterator, _InputIterator, _ForwardIterator, std::allocator<_Tp>&) [with _InputIterator = std::move_iterator<geometry_msgs::TransformStamped_<std::allocator<void> >*>; _ForwardIterator = geometry_msgs::TransformStamped_<std::allocator<void> >*; _Tp = geometry_msgs::TransformStamped_<std::allocator<void> >][m[K':
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:287:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<geometry_msgs::TransformStamped_<std::allocator<void> >*>[m[K' changed in GCC 7.1
+     [01;36m[K__uninitialized_copy_a[m[K(_InputIterator __first, _InputIterator __last,
+     [01;36m[K^~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:287:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<geometry_msgs::TransformStamped_<std::allocator<void> >*>[m[K' changed in GCC 7.1
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:289:63:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<geometry_msgs::TransformStamped_<std::allocator<void> >*>[m[K' changed in GCC 7.1
+     { return std::uninitialized_copy(__first, __last, __result[01;36m[K)[m[K; }
+                                                               [01;36m[K^[m[K
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:[m[K In function '[01m[K_ForwardIterator std::uninitialized_copy(_InputIterator, _InputIterator, _ForwardIterator) [with _InputIterator = std::move_iterator<geometry_msgs::TransformStamped_<std::allocator<void> >*>; _ForwardIterator = geometry_msgs::TransformStamped_<std::allocator<void> >*][m[K':
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:115:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<geometry_msgs::TransformStamped_<std::allocator<void> >*>[m[K' changed in GCC 7.1
+     [01;36m[Kuninitialized_copy[m[K(_InputIterator __first, _InputIterator __last,
+     [01;36m[K^~~~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:115:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<geometry_msgs::TransformStamped_<std::allocator<void> >*>[m[K' changed in GCC 7.1
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:134:41:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<geometry_msgs::TransformStamped_<std::allocator<void> >*>[m[K' changed in GCC 7.1
+  __uninit_copy(__first, __last, __result[01;36m[K)[m[K;
+                                         [01;36m[K^[m[K
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:[m[K In static member function '[01m[Kstatic _ForwardIterator std::__uninitialized_copy<_TrivialValueTypes>::__uninit_copy(_InputIterator, _InputIterator, _ForwardIterator) [with _InputIterator = std::move_iterator<geometry_msgs::TransformStamped_<std::allocator<void> >*>; _ForwardIterator = geometry_msgs::TransformStamped_<std::allocator<void> >*; bool _TrivialValueTypes = false][m[K':
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:76:9:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<geometry_msgs::TransformStamped_<std::allocator<void> >*>[m[K' changed in GCC 7.1
+         [01;36m[K__uninit_copy[m[K(_InputIterator __first, _InputIterator __last,
+         [01;36m[K^~~~~~~~~~~~~[m[K
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:76:9:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<geometry_msgs::TransformStamped_<std::allocator<void> >*>[m[K' changed in GCC 7.1
+[ 55%] [32m[1mLinking CXX shared library /home/husarion/catkin_ws/devel/.private/tf/lib/libtf.so[0m
+[ 55%] Built target tf
+[35m[1mScanning dependencies of target testListener[0m
+[35m[1mScanning dependencies of target transform_listener_unittest[0m
+[ 58%] [32mBuilding CXX object CMakeFiles/transform_listener_unittest.dir/test/transform_listener_unittest.cpp.o[0m
+[ 61%] [32mBuilding CXX object CMakeFiles/testListener.dir/test/testListener.cpp.o[0m
+[ 63%] [32m[1mLinking CXX executable /home/husarion/catkin_ws/devel/.private/tf/lib/tf/testListener[0m
+[ 66%] [32m[1mLinking CXX executable /home/husarion/catkin_ws/devel/.private/tf/lib/tf/transform_listener_unittest[0m
+[ 66%] Built target testListener
+[ 66%] Built target transform_listener_unittest
+[35m[1mScanning dependencies of target tf_monitor[0m
+[35m[1mScanning dependencies of target testBroadcaster[0m
+[ 69%] [32mBuilding CXX object CMakeFiles/tf_monitor.dir/src/tf_monitor.cpp.o[0m
+[ 72%] [32mBuilding CXX object CMakeFiles/testBroadcaster.dir/test/testBroadcaster.cpp.o[0m
+In file included from [01m[K/usr/include/c++/7/vector:69:0[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/geometry/tf/include/tf/tf.h:38[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/geometry/tf/include/tf/transform_broadcaster.h:36[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/geometry/tf/test/testBroadcaster.cpp:30[m[K:
+[01m[K/usr/include/c++/7/bits/vector.tcc:[m[K In member function '[01m[Kvoid std::vector<_Tp, _Alloc>::emplace_back(_Args&& ...) [with _Args = {tf::StampedTransform}; _Tp = tf::StampedTransform; _Alloc = std::allocator<tf::StampedTransform>][m[K':
+[01m[K/usr/include/c++/7/bits/vector.tcc:105:21:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[K__gnu_cxx::__normal_iterator<tf::StampedTransform*, std::vector<tf::StampedTransform> >[m[K' changed in GCC 7.1
+    [01;36m[K_M_realloc_insert(end(), std::forward<_Args>(__args)...)[m[K;
+    [01;36m[K~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/c++/7/bits/vector.tcc:[m[K In member function '[01m[Kvoid std::vector<_Tp, _Alloc>::_M_realloc_insert(std::vector<_Tp, _Alloc>::iterator, _Args&& ...) [with _Args = {tf::StampedTransform}; _Tp = tf::StampedTransform; _Alloc = std::allocator<tf::StampedTransform>][m[K':
+[01m[K/usr/include/c++/7/bits/vector.tcc:394:7:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::vector<tf::StampedTransform>::iterator {aka __gnu_cxx::__normal_iterator<tf::StampedTransform*, std::vector<tf::StampedTransform> >}[m[K' changed in GCC 7.1
+       [01;36m[Kvector<_Tp, _Alloc>[m[K::
+       [01;36m[K^~~~~~~~~~~~~~~~~~~[m[K
+[ 75%] [32m[1mLinking CXX executable /home/husarion/catkin_ws/devel/.private/tf/lib/tf/testBroadcaster[0m
+[ 75%] Built target testBroadcaster
+[35m[1mScanning dependencies of target static_transform_publisher[0m
+[ 77%] [32mBuilding CXX object CMakeFiles/static_transform_publisher.dir/src/static_transform_publisher.cpp.o[0m
+[01m[K/home/husarion/catkin_ws/src/geometry/tf/src/tf_monitor.cpp:[m[K In member function '[01m[Kvoid TFMonitor::process_callback(const tfMessage&, const string&, bool)[m[K':
+[01m[K/home/husarion/catkin_ws/src/geometry/tf/src/tf_monitor.cpp:109:27:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::vector<double>::const_iterator {aka __gnu_cxx::__normal_iterator<const double*, std::vector<double> >}[m[K' changed in GCC 7.1
+           [01;36m[Kit->second.erase(it->second.begin())[m[K;
+           [01;36m[K~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/husarion/catkin_ws/src/geometry/tf/src/tf_monitor.cpp:126:26:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::vector<double>::const_iterator {aka __gnu_cxx::__normal_iterator<const double*, std::vector<double> >}[m[K' changed in GCC 7.1
+         [01;36m[Kit2->second.erase(it2->second.begin())[m[K;
+         [01;36m[K~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/husarion/catkin_ws/src/geometry/tf/src/tf_monitor.cpp:139:26:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::vector<double>::const_iterator {aka __gnu_cxx::__normal_iterator<const double*, std::vector<double> >}[m[K' changed in GCC 7.1
+         [01;36m[Kit3->second.erase(it3->second.begin())[m[K;
+         [01;36m[K~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/c++/7/vector:64:0[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/geometry/tf/include/tf/tf.h:38[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/geometry/tf/src/tf_monitor.cpp:35[m[K:
+[01m[K/usr/include/c++/7/bits/stl_vector.h:[m[K In member function '[01m[Kvoid std::vector<_Tp, _Alloc>::push_back(const value_type&) [with _Tp = double; _Alloc = std::allocator<double>][m[K':
+[01m[K/usr/include/c++/7/bits/stl_vector.h:948:21:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[K__gnu_cxx::__normal_iterator<double*, std::vector<double> >[m[K' changed in GCC 7.1
+    [01;36m[K_M_realloc_insert(end(), __x)[m[K;
+    [01;36m[K~~~~~~~~~~~~~~~~~^~~~~~~~~~~~[m[K
+[01m[K/usr/include/c++/7/bits/stl_vector.h:[m[K In member function '[01m[Kstd::vector<_Tp, _Alloc>::iterator std::vector<_Tp, _Alloc>::erase(std::vector<_Tp, _Alloc>::const_iterator) [with _Tp = double; _Alloc = std::allocator<double>][m[K':
+[01m[K/usr/include/c++/7/bits/stl_vector.h:1179:7:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::vector<double>::const_iterator {aka __gnu_cxx::__normal_iterator<const double*, std::vector<double> >}[m[K' changed in GCC 7.1
+       [01;36m[Kerase[m[K(const_iterator __position)
+       [01;36m[K^~~~~[m[K
+[01m[K/usr/include/c++/7/bits/stl_vector.h:1180:58:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[K__gnu_cxx::__normal_iterator<double*, std::vector<double> >[m[K' changed in GCC 7.1
+       { return _M_erase(begin() + (__position - cbegin())[01;36m[K)[m[K; }
+                                                          [01;36m[K^[m[K
+In file included from [01m[K/usr/include/c++/7/vector:69:0[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/geometry/tf/include/tf/tf.h:38[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/geometry/tf/src/tf_monitor.cpp:35[m[K:
+[01m[K/usr/include/c++/7/bits/vector.tcc:[m[K In member function '[01m[Kvoid std::vector<_Tp, _Alloc>::_M_realloc_insert(std::vector<_Tp, _Alloc>::iterator, _Args&& ...) [with _Args = {const double&}; _Tp = double; _Alloc = std::allocator<double>][m[K':
+[01m[K/usr/include/c++/7/bits/vector.tcc:394:7:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::vector<double>::iterator {aka __gnu_cxx::__normal_iterator<double*, std::vector<double> >}[m[K' changed in GCC 7.1
+       [01;36m[Kvector<_Tp, _Alloc>[m[K::
+       [01;36m[K^~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/c++/7/bits/vector.tcc:[m[K In member function '[01m[Kstd::vector<_Tp, _Alloc>::iterator std::vector<_Tp, _Alloc>::_M_erase(std::vector<_Tp, _Alloc>::iterator) [with _Tp = double; _Alloc = std::allocator<double>][m[K':
+[01m[K/usr/include/c++/7/bits/vector.tcc:153:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::vector<double>::iterator {aka __gnu_cxx::__normal_iterator<double*, std::vector<double> >}[m[K' changed in GCC 7.1
+     [01;36m[Kvector<_Tp, _Alloc>[m[K::
+     [01;36m[K^~~~~~~~~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/c++/7/bits/char_traits.h:39:0[m[K,
+                 from [01m[K/usr/include/c++/7/ios:40[m[K,
+                 from [01m[K/usr/include/c++/7/ostream:38[m[K,
+                 from [01m[K/usr/include/c++/7/iostream:39[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/geometry/tf/include/tf/tf.h:35[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/geometry/tf/src/tf_monitor.cpp:35[m[K:
+[01m[K/usr/include/c++/7/bits/vector.tcc:157:2:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[K__gnu_cxx::__normal_iterator<double*, std::vector<double> >[m[K' changed in GCC 7.1
+  [01;36m[K_[m[KGLIBCXX_MOVE3(__position + 1, end(), __position);
+  [01;36m[K^[m[K
+In file included from [01m[K/usr/include/c++/7/vector:69:0[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/geometry/tf/include/tf/tf.h:38[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/geometry/tf/src/tf_monitor.cpp:35[m[K:
+[01m[K/usr/include/c++/7/bits/vector.tcc:[m[K In member function '[01m[Kvoid std::vector<_Tp, _Alloc>::emplace_back(_Args&& ...) [with _Args = {double}; _Tp = double; _Alloc = std::allocator<double>][m[K':
+[01m[K/usr/include/c++/7/bits/vector.tcc:105:21:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[K__gnu_cxx::__normal_iterator<double*, std::vector<double> >[m[K' changed in GCC 7.1
+    [01;36m[K_M_realloc_insert(end(), std::forward<_Args>(__args)...)[m[K;
+    [01;36m[K~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/c++/7/vector:63:0[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/geometry/tf/include/tf/tf.h:38[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/geometry/tf/src/tf_monitor.cpp:35[m[K:
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:[m[K In function '[01m[K_ForwardIterator std::__uninitialized_move_if_noexcept_a(_InputIterator, _InputIterator, _ForwardIterator, _Allocator&) [with _InputIterator = double*; _ForwardIterator = double*; _Allocator = std::allocator<double>][m[K':
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:312:69:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<double*>[m[K' changed in GCC 7.1
+   _GLIBCXX_MAKE_MOVE_IF_NOEXCEPT_ITERATOR(__last), __result, __alloc[01;36m[K)[m[K;
+                                                                     [01;36m[K^[m[K
+In file included from [01m[K/usr/include/c++/7/bits/char_traits.h:39:0[m[K,
+                 from [01m[K/usr/include/c++/7/ios:40[m[K,
+                 from [01m[K/usr/include/c++/7/ostream:38[m[K,
+                 from [01m[K/usr/include/c++/7/iostream:39[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/geometry/tf/include/tf/tf.h:35[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/geometry/tf/src/tf_monitor.cpp:35[m[K:
+[01m[K/usr/include/c++/7/bits/stl_algobase.h:[m[K In function '[01m[K_OI std::move(_II, _II, _OI) [with _II = __gnu_cxx::__normal_iterator<double*, std::vector<double> >; _OI = __gnu_cxx::__normal_iterator<double*, std::vector<double> >][m[K':
+[01m[K/usr/include/c++/7/bits/stl_algobase.h:479:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[K__gnu_cxx::__normal_iterator<double*, std::vector<double> >[m[K' changed in GCC 7.1
+     [01;36m[Kmove[m[K(_II __first, _II __last, _OI __result)
+     [01;36m[K^~~~[m[K
+[01m[K/usr/include/c++/7/bits/stl_algobase.h:479:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[K__gnu_cxx::__normal_iterator<double*, std::vector<double> >[m[K' changed in GCC 7.1
+[01m[K/usr/include/c++/7/bits/stl_algobase.h:479:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[K__gnu_cxx::__normal_iterator<double*, std::vector<double> >[m[K' changed in GCC 7.1
+[01m[K/usr/include/c++/7/bits/stl_algobase.h:488:47:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[K__gnu_cxx::__normal_iterator<double*, std::vector<double> >[m[K' changed in GCC 7.1
+            std::__miter_base(__last), __result[01;36m[K)[m[K;
+                                               [01;36m[K^[m[K
+In file included from [01m[K/usr/include/c++/7/vector:69:0[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/geometry/tf/include/tf/tf.h:38[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/geometry/tf/src/tf_monitor.cpp:35[m[K:
+[01m[K/usr/include/c++/7/bits/vector.tcc:[m[K In member function '[01m[Kvoid std::vector<_Tp, _Alloc>::_M_realloc_insert(std::vector<_Tp, _Alloc>::iterator, _Args&& ...) [with _Args = {double}; _Tp = double; _Alloc = std::allocator<double>][m[K':
+[01m[K/usr/include/c++/7/bits/vector.tcc:394:7:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::vector<double>::iterator {aka __gnu_cxx::__normal_iterator<double*, std::vector<double> >}[m[K' changed in GCC 7.1
+       [01;36m[Kvector<_Tp, _Alloc>[m[K::
+       [01;36m[K^~~~~~~~~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/c++/7/vector:63:0[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/geometry/tf/include/tf/tf.h:38[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/geometry/tf/src/tf_monitor.cpp:35[m[K:
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:[m[K In function '[01m[K_ForwardIterator std::__uninitialized_copy_a(_InputIterator, _InputIterator, _ForwardIterator, std::allocator<_Tp>&) [with _InputIterator = std::move_iterator<double*>; _ForwardIterator = double*; _Tp = double][m[K':
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:287:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<double*>[m[K' changed in GCC 7.1
+     [01;36m[K__uninitialized_copy_a[m[K(_InputIterator __first, _InputIterator __last,
+     [01;36m[K^~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:287:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<double*>[m[K' changed in GCC 7.1
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:289:63:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<double*>[m[K' changed in GCC 7.1
+     { return std::uninitialized_copy(__first, __last, __result[01;36m[K)[m[K; }
+                                                               [01;36m[K^[m[K
+In file included from [01m[K/usr/include/c++/7/bits/stl_algobase.h:61:0[m[K,
+                 from [01m[K/usr/include/c++/7/bits/char_traits.h:39[m[K,
+                 from [01m[K/usr/include/c++/7/ios:40[m[K,
+                 from [01m[K/usr/include/c++/7/ostream:38[m[K,
+                 from [01m[K/usr/include/c++/7/iostream:39[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/geometry/tf/include/tf/tf.h:35[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/geometry/tf/src/tf_monitor.cpp:35[m[K:
+[01m[K/usr/include/c++/7/bits/cpp_type_traits.h:[m[K In function '[01m[K_Iterator std::__miter_base(_Iterator) [with _Iterator = __gnu_cxx::__normal_iterator<double*, std::vector<double> >][m[K':
+[01m[K/usr/include/c++/7/bits/cpp_type_traits.h:408:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[K__gnu_cxx::__normal_iterator<double*, std::vector<double> >[m[K' changed in GCC 7.1
+     [01;36m[K__miter_base[m[K(_Iterator __it)
+     [01;36m[K^~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/c++/7/bits/char_traits.h:39:0[m[K,
+                 from [01m[K/usr/include/c++/7/ios:40[m[K,
+                 from [01m[K/usr/include/c++/7/ostream:38[m[K,
+                 from [01m[K/usr/include/c++/7/iostream:39[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/geometry/tf/include/tf/tf.h:35[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/geometry/tf/src/tf_monitor.cpp:35[m[K:
+[01m[K/usr/include/c++/7/bits/stl_algobase.h:[m[K In function '[01m[K_OI std::__copy_move_a2(_II, _II, _OI) [with bool _IsMove = true; _II = __gnu_cxx::__normal_iterator<double*, std::vector<double> >; _OI = __gnu_cxx::__normal_iterator<double*, std::vector<double> >][m[K':
+[01m[K/usr/include/c++/7/bits/stl_algobase.h:420:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[K__gnu_cxx::__normal_iterator<double*, std::vector<double> >[m[K' changed in GCC 7.1
+     [01;36m[K__copy_move_a2[m[K(_II __first, _II __last, _OI __result)
+     [01;36m[K^~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/c++/7/bits/stl_algobase.h:420:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[K__gnu_cxx::__normal_iterator<double*, std::vector<double> >[m[K' changed in GCC 7.1
+[01m[K/usr/include/c++/7/bits/stl_algobase.h:420:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[K__gnu_cxx::__normal_iterator<double*, std::vector<double> >[m[K' changed in GCC 7.1
+In file included from [01m[K/usr/include/c++/7/vector:63:0[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/geometry/tf/include/tf/tf.h:38[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/geometry/tf/src/tf_monitor.cpp:35[m[K:
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:[m[K In function '[01m[K_ForwardIterator std::uninitialized_copy(_InputIterator, _InputIterator, _ForwardIterator) [with _InputIterator = std::move_iterator<double*>; _ForwardIterator = double*][m[K':
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:115:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<double*>[m[K' changed in GCC 7.1
+     [01;36m[Kuninitialized_copy[m[K(_InputIterator __first, _InputIterator __last,
+     [01;36m[K^~~~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:115:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<double*>[m[K' changed in GCC 7.1
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:134:41:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<double*>[m[K' changed in GCC 7.1
+  __uninit_copy(__first, __last, __result[01;36m[K)[m[K;
+                                         [01;36m[K^[m[K
+In file included from [01m[K/usr/include/c++/7/bits/stl_algobase.h:67:0[m[K,
+                 from [01m[K/usr/include/c++/7/bits/char_traits.h:39[m[K,
+                 from [01m[K/usr/include/c++/7/ios:40[m[K,
+                 from [01m[K/usr/include/c++/7/ostream:38[m[K,
+                 from [01m[K/usr/include/c++/7/iostream:39[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/geometry/tf/include/tf/tf.h:35[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/geometry/tf/src/tf_monitor.cpp:35[m[K:
+[01m[K/usr/include/c++/7/bits/stl_iterator.h:[m[K In function '[01m[K_Iterator std::__niter_base(__gnu_cxx::__normal_iterator<_Iterator, _Container>) [with _Iterator = double*; _Container = std::vector<double>][m[K':
+[01m[K/usr/include/c++/7/bits/stl_iterator.h:986:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[K__gnu_cxx::__normal_iterator<double*, std::vector<double> >[m[K' changed in GCC 7.1
+     [01;36m[K__niter_base[m[K(__gnu_cxx::__normal_iterator<_Iterator, _Container> __it)
+     [01;36m[K^~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/c++/7/vector:63:0[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/geometry/tf/include/tf/tf.h:38[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/geometry/tf/src/tf_monitor.cpp:35[m[K:
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:[m[K In static member function '[01m[Kstatic _ForwardIterator std::__uninitialized_copy<true>::__uninit_copy(_InputIterator, _InputIterator, _ForwardIterator) [with _InputIterator = std::move_iterator<double*>; _ForwardIterator = double*][m[K':
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:99:9:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<double*>[m[K' changed in GCC 7.1
+         [01;36m[K__uninit_copy[m[K(_InputIterator __first, _InputIterator __last,
+         [01;36m[K^~~~~~~~~~~~~[m[K
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:99:9:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<double*>[m[K' changed in GCC 7.1
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:101:53:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<double*>[m[K' changed in GCC 7.1
+         { return std::copy(__first, __last, __result[01;36m[K)[m[K; }
+                                                     [01;36m[K^[m[K
+In file included from [01m[K/usr/include/c++/7/bits/char_traits.h:39:0[m[K,
+                 from [01m[K/usr/include/c++/7/ios:40[m[K,
+                 from [01m[K/usr/include/c++/7/ostream:38[m[K,
+                 from [01m[K/usr/include/c++/7/iostream:39[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/geometry/tf/include/tf/tf.h:35[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/geometry/tf/src/tf_monitor.cpp:35[m[K:
+[01m[K/usr/include/c++/7/bits/stl_algobase.h:[m[K In function '[01m[K_OI std::copy(_II, _II, _OI) [with _II = std::move_iterator<double*>; _OI = double*][m[K':
+[01m[K/usr/include/c++/7/bits/stl_algobase.h:446:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<double*>[m[K' changed in GCC 7.1
+     [01;36m[Kcopy[m[K(_II __first, _II __last, _OI __result)
+     [01;36m[K^~~~[m[K
+[01m[K/usr/include/c++/7/bits/stl_algobase.h:446:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<double*>[m[K' changed in GCC 7.1
+In file included from [01m[K/usr/include/c++/7/bits/stl_algobase.h:67:0[m[K,
+                 from [01m[K/usr/include/c++/7/bits/char_traits.h:39[m[K,
+                 from [01m[K/usr/include/c++/7/ios:40[m[K,
+                 from [01m[K/usr/include/c++/7/ostream:38[m[K,
+                 from [01m[K/usr/include/c++/7/iostream:39[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/geometry/tf/include/tf/tf.h:35[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/geometry/tf/src/tf_monitor.cpp:35[m[K:
+[01m[K/usr/include/c++/7/bits/stl_iterator.h:[m[K In function '[01m[Kdecltype (std::__miter_base(__it.base())) std::__miter_base(std::move_iterator<_IteratorL>) [with _Iterator = double*][m[K':
+[01m[K/usr/include/c++/7/bits/stl_iterator.h:1244:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<double*>[m[K' changed in GCC 7.1
+     [01;36m[K__miter_base[m[K(move_iterator<_Iterator> __it)
+     [01;36m[K^~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/c++/7/vector:63:0[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/geometry/tf/include/tf/tf.h:38[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/geometry/tf/src/tf_monitor.cpp:35[m[K:
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:[m[K In function '[01m[K_ForwardIterator std::__uninitialized_move_if_noexcept_a(_InputIterator, _InputIterator, _ForwardIterator, _Allocator&) [with _InputIterator = geometry_msgs::TransformStamped_<std::allocator<void> >*; _ForwardIterator = geometry_msgs::TransformStamped_<std::allocator<void> >*; _Allocator = std::allocator<geometry_msgs::TransformStamped_<std::allocator<void> > >][m[K':
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:312:69:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<geometry_msgs::TransformStamped_<std::allocator<void> >*>[m[K' changed in GCC 7.1
+   _GLIBCXX_MAKE_MOVE_IF_NOEXCEPT_ITERATOR(__last), __result, __alloc[01;36m[K)[m[K;
+                                                                     [01;36m[K^[m[K
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:[m[K In function '[01m[K_ForwardIterator std::__uninitialized_copy_a(_InputIterator, _InputIterator, _ForwardIterator, std::allocator<_Tp>&) [with _InputIterator = std::move_iterator<geometry_msgs::TransformStamped_<std::allocator<void> >*>; _ForwardIterator = geometry_msgs::TransformStamped_<std::allocator<void> >*; _Tp = geometry_msgs::TransformStamped_<std::allocator<void> >][m[K':
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:287:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<geometry_msgs::TransformStamped_<std::allocator<void> >*>[m[K' changed in GCC 7.1
+     [01;36m[K__uninitialized_copy_a[m[K(_InputIterator __first, _InputIterator __last,
+     [01;36m[K^~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:287:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<geometry_msgs::TransformStamped_<std::allocator<void> >*>[m[K' changed in GCC 7.1
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:289:63:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<geometry_msgs::TransformStamped_<std::allocator<void> >*>[m[K' changed in GCC 7.1
+     { return std::uninitialized_copy(__first, __last, __result[01;36m[K)[m[K; }
+                                                               [01;36m[K^[m[K
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:[m[K In function '[01m[K_ForwardIterator std::uninitialized_copy(_InputIterator, _InputIterator, _ForwardIterator) [with _InputIterator = std::move_iterator<geometry_msgs::TransformStamped_<std::allocator<void> >*>; _ForwardIterator = geometry_msgs::TransformStamped_<std::allocator<void> >*][m[K':
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:115:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<geometry_msgs::TransformStamped_<std::allocator<void> >*>[m[K' changed in GCC 7.1
+     [01;36m[Kuninitialized_copy[m[K(_InputIterator __first, _InputIterator __last,
+     [01;36m[K^~~~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:115:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<geometry_msgs::TransformStamped_<std::allocator<void> >*>[m[K' changed in GCC 7.1
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:134:41:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<geometry_msgs::TransformStamped_<std::allocator<void> >*>[m[K' changed in GCC 7.1
+  __uninit_copy(__first, __last, __result[01;36m[K)[m[K;
+                                         [01;36m[K^[m[K
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:[m[K In static member function '[01m[Kstatic _ForwardIterator std::__uninitialized_copy<_TrivialValueTypes>::__uninit_copy(_InputIterator, _InputIterator, _ForwardIterator) [with _InputIterator = std::move_iterator<geometry_msgs::TransformStamped_<std::allocator<void> >*>; _ForwardIterator = geometry_msgs::TransformStamped_<std::allocator<void> >*; bool _TrivialValueTypes = false][m[K':
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:76:9:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<geometry_msgs::TransformStamped_<std::allocator<void> >*>[m[K' changed in GCC 7.1
+         [01;36m[K__uninit_copy[m[K(_InputIterator __first, _InputIterator __last,
+         [01;36m[K^~~~~~~~~~~~~[m[K
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:76:9:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<geometry_msgs::TransformStamped_<std::allocator<void> >*>[m[K' changed in GCC 7.1
+[ 80%] [32m[1mLinking CXX executable /home/husarion/catkin_ws/devel/.private/tf/lib/tf/tf_monitor[0m
+[ 80%] Built target tf_monitor
+[35m[1mScanning dependencies of target tf_echo[0m
+[ 83%] [32mBuilding CXX object CMakeFiles/tf_echo.dir/src/tf_echo.cpp.o[0m
+[ 86%] [32m[1mLinking CXX executable /home/husarion/catkin_ws/devel/.private/tf/lib/tf/static_transform_publisher[0m
+[ 86%] Built target static_transform_publisher
+[35m[1mScanning dependencies of target tf_empty_listener[0m
+[ 88%] [32mBuilding CXX object CMakeFiles/tf_empty_listener.dir/src/empty_listener.cpp.o[0m
+[ 91%] [32m[1mLinking CXX executable /home/husarion/catkin_ws/devel/.private/tf/lib/tf/tf_echo[0m
+[ 91%] Built target tf_echo
+[35m[1mScanning dependencies of target tf_change_notifier[0m
+[ 94%] [32mBuilding CXX object CMakeFiles/tf_change_notifier.dir/src/change_notifier.cpp.o[0m
+[ 97%] [32m[1mLinking CXX executable /home/husarion/catkin_ws/devel/.private/tf/lib/tf/tf_empty_listener[0m
+[ 97%] Built target tf_empty_listener
+In file included from [01m[K/usr/include/c++/7/vector:64:0[m[K,
+                 from [01m[K/usr/include/boost/math/special_functions/math_fwd.hpp:26[m[K,
+                 from [01m[K/usr/include/boost/math/special_functions/round.hpp:15[m[K,
+                 from [01m[K/opt/ros/melodic/include/ros/time.h:58[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/include/ros/ros.h:38[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/geometry/tf/src/change_notifier.cpp:32[m[K:
+[01m[K/usr/include/c++/7/bits/stl_vector.h:[m[K In member function '[01m[Kvoid std::vector<_Tp, _Alloc>::push_back(const value_type&) [with _Tp = geometry_msgs::TransformStamped_<std::allocator<void> >; _Alloc = std::allocator<geometry_msgs::TransformStamped_<std::allocator<void> > >][m[K':
+[01m[K/usr/include/c++/7/bits/stl_vector.h:948:21:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[K__gnu_cxx::__normal_iterator<geometry_msgs::TransformStamped_<std::allocator<void> >*, std::vector<geometry_msgs::TransformStamped_<std::allocator<void> >, std::allocator<geometry_msgs::TransformStamped_<std::allocator<void> > > > >[m[K' changed in GCC 7.1
+    [01;36m[K_M_realloc_insert(end(), __x)[m[K;
+    [01;36m[K~~~~~~~~~~~~~~~~~^~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/c++/7/vector:69:0[m[K,
+                 from [01m[K/usr/include/boost/math/special_functions/math_fwd.hpp:26[m[K,
+                 from [01m[K/usr/include/boost/math/special_functions/round.hpp:15[m[K,
+                 from [01m[K/opt/ros/melodic/include/ros/time.h:58[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/include/ros/ros.h:38[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/geometry/tf/src/change_notifier.cpp:32[m[K:
+[01m[K/usr/include/c++/7/bits/vector.tcc:[m[K In member function '[01m[Kvoid std::vector<_Tp, _Alloc>::emplace_back(_Args&& ...) [with _Args = {FramePair}; _Tp = FramePair; _Alloc = std::allocator<FramePair>][m[K':
+[01m[K/usr/include/c++/7/bits/vector.tcc:105:21:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[K__gnu_cxx::__normal_iterator<FramePair*, std::vector<FramePair> >[m[K' changed in GCC 7.1
+    [01;36m[K_M_realloc_insert(end(), std::forward<_Args>(__args)...)[m[K;
+    [01;36m[K~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/c++/7/bits/vector.tcc:[m[K In member function '[01m[Kvoid std::vector<_Tp, _Alloc>::_M_realloc_insert(std::vector<_Tp, _Alloc>::iterator, _Args&& ...) [with _Args = {const geometry_msgs::TransformStamped_<std::allocator<void> >&}; _Tp = geometry_msgs::TransformStamped_<std::allocator<void> >; _Alloc = std::allocator<geometry_msgs::TransformStamped_<std::allocator<void> > >][m[K':
+[01m[K/usr/include/c++/7/bits/vector.tcc:394:7:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::vector<geometry_msgs::TransformStamped_<std::allocator<void> >, std::allocator<geometry_msgs::TransformStamped_<std::allocator<void> > > >::iterator {aka __gnu_cxx::__normal_iterator<geometry_msgs::TransformStamped_<std::allocator<void> >*, std::vector<geometry_msgs::TransformStamped_<std::allocator<void> >, std::allocator<geometry_msgs::TransformStamped_<std::allocator<void> > > > >}[m[K' changed in GCC 7.1
+       [01;36m[Kvector<_Tp, _Alloc>[m[K::
+       [01;36m[K^~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/c++/7/bits/vector.tcc:[m[K In member function '[01m[Kvoid std::vector<_Tp, _Alloc>::_M_realloc_insert(std::vector<_Tp, _Alloc>::iterator, _Args&& ...) [with _Args = {FramePair}; _Tp = FramePair; _Alloc = std::allocator<FramePair>][m[K':
+[01m[K/usr/include/c++/7/bits/vector.tcc:394:7:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::vector<FramePair>::iterator {aka __gnu_cxx::__normal_iterator<FramePair*, std::vector<FramePair> >}[m[K' changed in GCC 7.1
+In file included from [01m[K/usr/include/c++/7/vector:63:0[m[K,
+                 from [01m[K/usr/include/boost/math/special_functions/math_fwd.hpp:26[m[K,
+                 from [01m[K/usr/include/boost/math/special_functions/round.hpp:15[m[K,
+                 from [01m[K/opt/ros/melodic/include/ros/time.h:58[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/include/ros/ros.h:38[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/geometry/tf/src/change_notifier.cpp:32[m[K:
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:[m[K In function '[01m[K_ForwardIterator std::__uninitialized_move_if_noexcept_a(_InputIterator, _InputIterator, _ForwardIterator, _Allocator&) [with _InputIterator = geometry_msgs::TransformStamped_<std::allocator<void> >*; _ForwardIterator = geometry_msgs::TransformStamped_<std::allocator<void> >*; _Allocator = std::allocator<geometry_msgs::TransformStamped_<std::allocator<void> > >][m[K':
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:312:69:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<geometry_msgs::TransformStamped_<std::allocator<void> >*>[m[K' changed in GCC 7.1
+   _GLIBCXX_MAKE_MOVE_IF_NOEXCEPT_ITERATOR(__last), __result, __alloc[01;36m[K)[m[K;
+                                                                     [01;36m[K^[m[K
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:[m[K In function '[01m[K_ForwardIterator std::__uninitialized_copy_a(_InputIterator, _InputIterator, _ForwardIterator, std::allocator<_Tp>&) [with _InputIterator = std::move_iterator<geometry_msgs::TransformStamped_<std::allocator<void> >*>; _ForwardIterator = geometry_msgs::TransformStamped_<std::allocator<void> >*; _Tp = geometry_msgs::TransformStamped_<std::allocator<void> >][m[K':
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:287:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<geometry_msgs::TransformStamped_<std::allocator<void> >*>[m[K' changed in GCC 7.1
+     [01;36m[K__uninitialized_copy_a[m[K(_InputIterator __first, _InputIterator __last,
+     [01;36m[K^~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:287:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<geometry_msgs::TransformStamped_<std::allocator<void> >*>[m[K' changed in GCC 7.1
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:289:63:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<geometry_msgs::TransformStamped_<std::allocator<void> >*>[m[K' changed in GCC 7.1
+     { return std::uninitialized_copy(__first, __last, __result[01;36m[K)[m[K; }
+                                                               [01;36m[K^[m[K
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:[m[K In function '[01m[K_ForwardIterator std::uninitialized_copy(_InputIterator, _InputIterator, _ForwardIterator) [with _InputIterator = std::move_iterator<geometry_msgs::TransformStamped_<std::allocator<void> >*>; _ForwardIterator = geometry_msgs::TransformStamped_<std::allocator<void> >*][m[K':
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:115:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<geometry_msgs::TransformStamped_<std::allocator<void> >*>[m[K' changed in GCC 7.1
+     [01;36m[Kuninitialized_copy[m[K(_InputIterator __first, _InputIterator __last,
+     [01;36m[K^~~~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:115:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<geometry_msgs::TransformStamped_<std::allocator<void> >*>[m[K' changed in GCC 7.1
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:134:41:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<geometry_msgs::TransformStamped_<std::allocator<void> >*>[m[K' changed in GCC 7.1
+  __uninit_copy(__first, __last, __result[01;36m[K)[m[K;
+                                         [01;36m[K^[m[K
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:[m[K In static member function '[01m[Kstatic _ForwardIterator std::__uninitialized_copy<_TrivialValueTypes>::__uninit_copy(_InputIterator, _InputIterator, _ForwardIterator) [with _InputIterator = std::move_iterator<geometry_msgs::TransformStamped_<std::allocator<void> >*>; _ForwardIterator = geometry_msgs::TransformStamped_<std::allocator<void> >*; bool _TrivialValueTypes = false][m[K':
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:76:9:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<geometry_msgs::TransformStamped_<std::allocator<void> >*>[m[K' changed in GCC 7.1
+         [01;36m[K__uninit_copy[m[K(_InputIterator __first, _InputIterator __last,
+         [01;36m[K^~~~~~~~~~~~~[m[K
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:76:9:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<geometry_msgs::TransformStamped_<std::allocator<void> >*>[m[K' changed in GCC 7.1
+[100%] [32m[1mLinking CXX executable /home/husarion/catkin_ws/devel/.private/tf/lib/tf/tf_change_notifier[0m
+[100%] Built target tf_change_notifier

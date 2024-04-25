@@ -1,0 +1,5 @@
+ros_comm/test/test_rosbag_storage
+/home/husarion/catkin_ws/devel/.private/test_rosbag_storage/cmake.lock /home/husarion/catkin_ws/devel/./cmake.lock
+/home/husarion/catkin_ws/devel/.private/test_rosbag_storage/lib/pkgconfig/test_rosbag_storage.pc /home/husarion/catkin_ws/devel/lib/pkgconfig/test_rosbag_storage.pc
+/home/husarion/catkin_ws/devel/.private/test_rosbag_storage/share/test_rosbag_storage/cmake/test_rosbag_storageConfig.cmake /home/husarion/catkin_ws/devel/share/test_rosbag_storage/cmake/test_rosbag_storageConfig.cmake
+/home/husarion/catkin_ws/devel/.private/test_rosbag_storage/share/test_rosbag_storage/cmake/test_rosbag_storageConfig-version.cmake /home/husarion/catkin_ws/devel/share/test_rosbag_storage/cmake/test_rosbag_storageConfig-version.cmake

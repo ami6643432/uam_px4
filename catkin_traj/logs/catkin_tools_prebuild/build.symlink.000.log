@@ -1,0 +1,12 @@
+Symlinking /home/husarion/catkin_traj/devel/./local_setup.bash
+Symlinking /home/husarion/catkin_traj/devel/./env.sh
+Symlinking /home/husarion/catkin_traj/devel/./_setup_util.py
+Symlinking /home/husarion/catkin_traj/devel/./setup.bash
+Symlinking /home/husarion/catkin_traj/devel/./local_setup.zsh
+Symlinking /home/husarion/catkin_traj/devel/./setup.sh
+Symlinking /home/husarion/catkin_traj/devel/./setup.zsh
+Symlinking /home/husarion/catkin_traj/devel/./local_setup.sh
+Symlinking /home/husarion/catkin_traj/devel/./cmake.lock
+Symlinking /home/husarion/catkin_traj/devel/lib/pkgconfig/catkin_tools_prebuild.pc
+Symlinking /home/husarion/catkin_traj/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/husarion/catkin_traj/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake

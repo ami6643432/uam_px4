@@ -1,0 +1,8 @@
+ros_comm/tools/rosservice
+/home/husarion/catkin_ws/devel/.private/rosservice/cmake.lock /home/husarion/catkin_ws/devel/./cmake.lock
+/home/husarion/catkin_ws/devel/.private/rosservice/bin/rosservice /home/husarion/catkin_ws/devel/bin/rosservice
+/home/husarion/catkin_ws/devel/.private/rosservice/bin/cmake.lock /home/husarion/catkin_ws/devel/bin/cmake.lock
+/home/husarion/catkin_ws/devel/.private/rosservice/lib/pkgconfig/rosservice.pc /home/husarion/catkin_ws/devel/lib/pkgconfig/rosservice.pc
+/home/husarion/catkin_ws/devel/.private/rosservice/lib/python2.7/dist-packages/rosservice/__init__.py /home/husarion/catkin_ws/devel/lib/python2.7/dist-packages/rosservice/__init__.py
+/home/husarion/catkin_ws/devel/.private/rosservice/share/rosservice/cmake/rosserviceConfig.cmake /home/husarion/catkin_ws/devel/share/rosservice/cmake/rosserviceConfig.cmake
+/home/husarion/catkin_ws/devel/.private/rosservice/share/rosservice/cmake/rosserviceConfig-version.cmake /home/husarion/catkin_ws/devel/share/rosservice/cmake/rosserviceConfig-version.cmake

@@ -1,0 +1,4 @@
+Symlinking /home/husarion/catkin_ws/devel/lib/librealtime_tools.so
+Symlinking /home/husarion/catkin_ws/devel/lib/pkgconfig/realtime_tools.pc
+Symlinking /home/husarion/catkin_ws/devel/share/realtime_tools/cmake/realtime_toolsConfig.cmake
+Symlinking /home/husarion/catkin_ws/devel/share/realtime_tools/cmake/realtime_toolsConfig-version.cmake

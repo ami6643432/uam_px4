@@ -1,0 +1,1 @@
+/home/husarion/catkin_ws/devel/.private/roslaunch/share/roslaunch/cmake/roslaunchConfig.cmake

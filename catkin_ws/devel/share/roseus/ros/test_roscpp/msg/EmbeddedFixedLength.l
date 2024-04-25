@@ -1,0 +1,1 @@
+/home/husarion/catkin_ws/devel/.private/test_roscpp/share/roseus/ros/test_roscpp/msg/EmbeddedFixedLength.l

@@ -1,0 +1,7 @@
+Symlinking /home/husarion/catkin_dynamixel/devel/lib/pkgconfig/dynamixel_workbench_controllers.pc
+Symlinking /home/husarion/catkin_dynamixel/devel/lib/dynamixel_workbench_controllers/torque_control
+Symlinking /home/husarion/catkin_dynamixel/devel/lib/dynamixel_workbench_controllers/multi_port
+Symlinking /home/husarion/catkin_dynamixel/devel/lib/dynamixel_workbench_controllers/position_control
+Symlinking /home/husarion/catkin_dynamixel/devel/lib/dynamixel_workbench_controllers/velocity_control
+Symlinking /home/husarion/catkin_dynamixel/devel/share/dynamixel_workbench_controllers/cmake/dynamixel_workbench_controllersConfig.cmake
+Symlinking /home/husarion/catkin_dynamixel/devel/share/dynamixel_workbench_controllers/cmake/dynamixel_workbench_controllersConfig-version.cmake

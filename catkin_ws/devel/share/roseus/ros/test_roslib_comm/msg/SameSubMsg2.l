@@ -1,0 +1,1 @@
+/home/husarion/catkin_ws/devel/.private/test_roslib_comm/share/roseus/ros/test_roslib_comm/msg/SameSubMsg2.l

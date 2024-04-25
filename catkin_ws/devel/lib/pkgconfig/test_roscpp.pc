@@ -1,0 +1,1 @@
+/home/husarion/catkin_ws/devel/.private/test_roscpp/lib/pkgconfig/test_roscpp.pc

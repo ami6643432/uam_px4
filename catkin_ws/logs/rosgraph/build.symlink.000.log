@@ -1,0 +1,6 @@
+Symlinking /home/husarion/catkin_ws/devel/bin/rosgraph
+Symlinking /home/husarion/catkin_ws/devel/bin/cmake.lock
+Symlinking /home/husarion/catkin_ws/devel/lib/pkgconfig/rosgraph.pc
+Symlinking /home/husarion/catkin_ws/devel/lib/python2.7/dist-packages/rosgraph/__init__.py
+Symlinking /home/husarion/catkin_ws/devel/share/rosgraph/cmake/rosgraphConfig.cmake
+Symlinking /home/husarion/catkin_ws/devel/share/rosgraph/cmake/rosgraphConfig-version.cmake

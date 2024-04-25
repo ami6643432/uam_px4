@@ -1,0 +1,1 @@
+/home/husarion/catkin_ws/devel/.private/roscpp/share/gennodejs/ros/roscpp/msg/Logger.js

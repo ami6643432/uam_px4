@@ -1,0 +1,221 @@
+[01m[K/home/husarion/catkin_ws/src/ros_comm/tools/rosbag_storage/src/bag.cpp:[m[K In member function '[01m[Kvoid rosbag::Bag::readTopicIndexRecord102()[m[K':
+[01m[K/home/husarion/catkin_ws/src/ros_comm/tools/rosbag_storage/src/bag.cpp:604:34:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::_Rb_tree_const_iterator<rosbag::IndexEntry>[m[K' changed in GCC 7.1
+           [01;36m[Kconnection_index.insert(connection_index.end(), index_entry)[m[K;
+           [01;36m[K~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/husarion/catkin_ws/src/ros_comm/tools/rosbag_storage/src/bag.cpp:[m[K In member function '[01m[Kvoid rosbag::Bag::readConnectionIndexRecord200()[m[K':
+[01m[K/home/husarion/catkin_ws/src/ros_comm/tools/rosbag_storage/src/bag.cpp:652:34:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::_Rb_tree_const_iterator<rosbag::IndexEntry>[m[K' changed in GCC 7.1
+           [01;36m[Kconnection_index.insert(connection_index.end(), index_entry)[m[K;
+           [01;36m[K~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/c++/7/vector:64:0[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/tools/rosbag_storage/include/rosbag/structures.h:39[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/tools/rosbag_storage/include/rosbag/encryptor.h:40[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/tools/rosbag_storage/include/rosbag/bag.h:43[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/tools/rosbag_storage/src/bag.cpp:28[m[K:
+[01m[K/usr/include/c++/7/bits/stl_vector.h:[m[K In member function '[01m[Kvoid std::vector<_Tp, _Alloc>::push_back(const value_type&) [with _Tp = rosbag::ChunkInfo; _Alloc = std::allocator<rosbag::ChunkInfo>][m[K':
+[01m[K/usr/include/c++/7/bits/stl_vector.h:948:21:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[K__gnu_cxx::__normal_iterator<rosbag::ChunkInfo*, std::vector<rosbag::ChunkInfo> >[m[K' changed in GCC 7.1
+    [01;36m[K_M_realloc_insert(end(), __x)[m[K;
+    [01;36m[K~~~~~~~~~~~~~~~~~^~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/c++/7/set:62:0[m[K,
+                 from [01m[K/opt/ros/melodic/include/ros/datatypes.h:34[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/tools/rosbag_storage/include/rosbag/structures.h:42[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/tools/rosbag_storage/include/rosbag/encryptor.h:40[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/tools/rosbag_storage/include/rosbag/bag.h:43[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/tools/rosbag_storage/src/bag.cpp:28[m[K:
+[01m[K/usr/include/c++/7/bits/stl_multiset.h:[m[K In member function '[01m[Kstd::multiset<_Key, _Compare, _Alloc>::iterator std::multiset<_Key, _Compare, _Alloc>::insert(std::multiset<_Key, _Compare, _Alloc>::const_iterator, const value_type&) [with _Key = rosbag::IndexEntry; _Compare = std::less<rosbag::IndexEntry>; _Alloc = std::allocator<rosbag::IndexEntry>][m[K':
+[01m[K/usr/include/c++/7/bits/stl_multiset.h:522:7:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::multiset<rosbag::IndexEntry>::const_iterator {aka std::_Rb_tree_const_iterator<rosbag::IndexEntry>}[m[K' changed in GCC 7.1
+       [01;36m[Kinsert[m[K(const_iterator __position, const value_type& __x)
+       [01;36m[K^~~~~~[m[K
+[01m[K/usr/include/c++/7/bits/stl_multiset.h:523:53:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::multiset<rosbag::IndexEntry>::const_iterator {aka std::_Rb_tree_const_iterator<rosbag::IndexEntry>}[m[K' changed in GCC 7.1
+       { return _M_t._M_insert_equal_(__position, __x[01;36m[K)[m[K; }
+                                                     [01;36m[K^[m[K
+In file included from [01m[K/usr/include/c++/7/vector:69:0[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/tools/rosbag_storage/include/rosbag/structures.h:39[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/tools/rosbag_storage/include/rosbag/encryptor.h:40[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/tools/rosbag_storage/include/rosbag/bag.h:43[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/tools/rosbag_storage/src/bag.cpp:28[m[K:
+[01m[K/usr/include/c++/7/bits/vector.tcc:[m[K In member function '[01m[Kvoid std::vector<_Tp, _Alloc>::_M_realloc_insert(std::vector<_Tp, _Alloc>::iterator, _Args&& ...) [with _Args = {const rosbag::ChunkInfo&}; _Tp = rosbag::ChunkInfo; _Alloc = std::allocator<rosbag::ChunkInfo>][m[K':
+[01m[K/usr/include/c++/7/bits/vector.tcc:394:7:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::vector<rosbag::ChunkInfo>::iterator {aka __gnu_cxx::__normal_iterator<rosbag::ChunkInfo*, std::vector<rosbag::ChunkInfo> >}[m[K' changed in GCC 7.1
+       [01;36m[Kvector<_Tp, _Alloc>[m[K::
+       [01;36m[K^~~~~~~~~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/c++/7/map:60:0[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/tools/rosbag_storage/include/rosbag/structures.h:38[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/tools/rosbag_storage/include/rosbag/encryptor.h:40[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/tools/rosbag_storage/include/rosbag/bag.h:43[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/tools/rosbag_storage/src/bag.cpp:28[m[K:
+[01m[K/usr/include/c++/7/bits/stl_tree.h:[m[K In member function '[01m[Kstd::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::iterator std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::_M_insert_equal_(std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::const_iterator, _Arg&&) [with _Arg = const rosbag::IndexEntry&; _Key = rosbag::IndexEntry; _Val = rosbag::IndexEntry; _KeyOfValue = std::_Identity<rosbag::IndexEntry>; _Compare = std::less<rosbag::IndexEntry>; _Alloc = std::allocator<rosbag::IndexEntry>][m[K':
+[01m[K/usr/include/c++/7/bits/stl_tree.h:1035:2:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::_Rb_tree<rosbag::IndexEntry, rosbag::IndexEntry, std::_Identity<rosbag::IndexEntry>, std::less<rosbag::IndexEntry>, std::allocator<rosbag::IndexEntry> >::const_iterator {aka std::_Rb_tree_const_iterator<rosbag::IndexEntry>}[m[K' changed in GCC 7.1
+  [01;36m[K_M_insert_equal_[m[K(const_iterator __pos, _Arg&& __x)
+  [01;36m[K^~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/c++/7/bits/stl_tree.h:1038:64:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::_Rb_tree<rosbag::IndexEntry, rosbag::IndexEntry, std::_Identity<rosbag::IndexEntry>, std::less<rosbag::IndexEntry>, std::allocator<rosbag::IndexEntry> >::const_iterator {aka std::_Rb_tree_const_iterator<rosbag::IndexEntry>}[m[K' changed in GCC 7.1
+    return _M_insert_equal_(__pos, std::forward<_Arg>(__x), __an[01;36m[K)[m[K;
+                                                                [01;36m[K^[m[K
+In file included from [01m[K/usr/include/c++/7/memory:65:0[m[K,
+                 from [01m[K/usr/include/boost/config/no_tr1/memory.hpp:21[m[K,
+                 from [01m[K/usr/include/boost/smart_ptr/shared_ptr.hpp:23[m[K,
+                 from [01m[K/usr/include/boost/shared_ptr.hpp:17[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/tools/rosbag_storage/include/rosbag/chunked_file.h:42[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/tools/rosbag_storage/include/rosbag/bag.h:41[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/tools/rosbag_storage/src/bag.cpp:28[m[K:
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:[m[K In function '[01m[K_ForwardIterator std::__uninitialized_move_if_noexcept_a(_InputIterator, _InputIterator, _ForwardIterator, _Allocator&) [with _InputIterator = rosbag::ChunkInfo*; _ForwardIterator = rosbag::ChunkInfo*; _Allocator = std::allocator<rosbag::ChunkInfo>][m[K':
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:312:69:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<rosbag::ChunkInfo*>[m[K' changed in GCC 7.1
+   _GLIBCXX_MAKE_MOVE_IF_NOEXCEPT_ITERATOR(__last), __result, __alloc[01;36m[K)[m[K;
+                                                                     [01;36m[K^[m[K
+In file included from [01m[K/usr/include/c++/7/map:60:0[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/tools/rosbag_storage/include/rosbag/structures.h:38[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/tools/rosbag_storage/include/rosbag/encryptor.h:40[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/tools/rosbag_storage/include/rosbag/bag.h:43[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/tools/rosbag_storage/src/bag.cpp:28[m[K:
+[01m[K/usr/include/c++/7/bits/stl_tree.h:[m[K In member function '[01m[Kstd::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::iterator std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::_M_insert_equal_(std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::const_iterator, _Arg&&, _NodeGen&) [with _Arg = const rosbag::IndexEntry&; _NodeGen = std::_Rb_tree<rosbag::IndexEntry, rosbag::IndexEntry, std::_Identity<rosbag::IndexEntry>, std::less<rosbag::IndexEntry>, std::allocator<rosbag::IndexEntry> >::_Alloc_node; _Key = rosbag::IndexEntry; _Val = rosbag::IndexEntry; _KeyOfValue = std::_Identity<rosbag::IndexEntry>; _Compare = std::less<rosbag::IndexEntry>; _Alloc = std::allocator<rosbag::IndexEntry>][m[K':
+[01m[K/usr/include/c++/7/bits/stl_tree.h:2273:7:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::_Rb_tree<rosbag::IndexEntry, rosbag::IndexEntry, std::_Identity<rosbag::IndexEntry>, std::less<rosbag::IndexEntry>, std::allocator<rosbag::IndexEntry> >::const_iterator {aka std::_Rb_tree_const_iterator<rosbag::IndexEntry>}[m[K' changed in GCC 7.1
+       [01;36m[K_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>[m[K::
+       [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/c++/7/memory:65:0[m[K,
+                 from [01m[K/usr/include/boost/config/no_tr1/memory.hpp:21[m[K,
+                 from [01m[K/usr/include/boost/smart_ptr/shared_ptr.hpp:23[m[K,
+                 from [01m[K/usr/include/boost/shared_ptr.hpp:17[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/tools/rosbag_storage/include/rosbag/chunked_file.h:42[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/tools/rosbag_storage/include/rosbag/bag.h:41[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/tools/rosbag_storage/src/bag.cpp:28[m[K:
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:[m[K In function '[01m[K_ForwardIterator std::__uninitialized_copy_a(_InputIterator, _InputIterator, _ForwardIterator, std::allocator<_Tp>&) [with _InputIterator = std::move_iterator<rosbag::ChunkInfo*>; _ForwardIterator = rosbag::ChunkInfo*; _Tp = rosbag::ChunkInfo][m[K':
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:287:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<rosbag::ChunkInfo*>[m[K' changed in GCC 7.1
+     [01;36m[K__uninitialized_copy_a[m[K(_InputIterator __first, _InputIterator __last,
+     [01;36m[K^~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:287:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<rosbag::ChunkInfo*>[m[K' changed in GCC 7.1
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:289:63:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<rosbag::ChunkInfo*>[m[K' changed in GCC 7.1
+     { return std::uninitialized_copy(__first, __last, __result[01;36m[K)[m[K; }
+                                                               [01;36m[K^[m[K
+In file included from [01m[K/usr/include/c++/7/map:60:0[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/tools/rosbag_storage/include/rosbag/structures.h:38[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/tools/rosbag_storage/include/rosbag/encryptor.h:40[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/tools/rosbag_storage/include/rosbag/bag.h:43[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/tools/rosbag_storage/src/bag.cpp:28[m[K:
+[01m[K/usr/include/c++/7/bits/stl_tree.h:[m[K In member function '[01m[Kstd::pair<std::_Rb_tree_node_base*, std::_Rb_tree_node_base*> std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::_M_get_insert_hint_equal_pos(std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::const_iterator, const key_type&) [with _Key = rosbag::IndexEntry; _Val = rosbag::IndexEntry; _KeyOfValue = std::_Identity<rosbag::IndexEntry>; _Compare = std::less<rosbag::IndexEntry>; _Alloc = std::allocator<rosbag::IndexEntry>][m[K':
+[01m[K/usr/include/c++/7/bits/stl_tree.h:2216:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::_Rb_tree<rosbag::IndexEntry, rosbag::IndexEntry, std::_Identity<rosbag::IndexEntry>, std::less<rosbag::IndexEntry>, std::allocator<rosbag::IndexEntry> >::const_iterator {aka std::_Rb_tree_const_iterator<rosbag::IndexEntry>}[m[K' changed in GCC 7.1
+     [01;36m[K_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>[m[K::
+     [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/c++/7/memory:65:0[m[K,
+                 from [01m[K/usr/include/boost/config/no_tr1/memory.hpp:21[m[K,
+                 from [01m[K/usr/include/boost/smart_ptr/shared_ptr.hpp:23[m[K,
+                 from [01m[K/usr/include/boost/shared_ptr.hpp:17[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/tools/rosbag_storage/include/rosbag/chunked_file.h:42[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/tools/rosbag_storage/include/rosbag/bag.h:41[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/tools/rosbag_storage/src/bag.cpp:28[m[K:
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:[m[K In function '[01m[K_ForwardIterator std::uninitialized_copy(_InputIterator, _InputIterator, _ForwardIterator) [with _InputIterator = std::move_iterator<rosbag::ChunkInfo*>; _ForwardIterator = rosbag::ChunkInfo*][m[K':
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:115:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<rosbag::ChunkInfo*>[m[K' changed in GCC 7.1
+     [01;36m[Kuninitialized_copy[m[K(_InputIterator __first, _InputIterator __last,
+     [01;36m[K^~~~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:115:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<rosbag::ChunkInfo*>[m[K' changed in GCC 7.1
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:134:41:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<rosbag::ChunkInfo*>[m[K' changed in GCC 7.1
+  __uninit_copy(__first, __last, __result[01;36m[K)[m[K;
+                                         [01;36m[K^[m[K
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:[m[K In static member function '[01m[Kstatic _ForwardIterator std::__uninitialized_copy<_TrivialValueTypes>::__uninit_copy(_InputIterator, _InputIterator, _ForwardIterator) [with _InputIterator = std::move_iterator<rosbag::ChunkInfo*>; _ForwardIterator = rosbag::ChunkInfo*; bool _TrivialValueTypes = false][m[K':
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:76:9:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<rosbag::ChunkInfo*>[m[K' changed in GCC 7.1
+         [01;36m[K__uninit_copy[m[K(_InputIterator __first, _InputIterator __last,
+         [01;36m[K^~~~~~~~~~~~~[m[K
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:76:9:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<rosbag::ChunkInfo*>[m[K' changed in GCC 7.1
+[01m[K/home/husarion/catkin_ws/src/ros_comm/tools/rosbag_storage/src/query.cpp:[m[K In constructor '[01m[Krosbag::ViewIterHelper::ViewIterHelper(std::multiset<rosbag::IndexEntry>::const_iterator, const rosbag::MessageRange*)[m[K':
+[01m[K/home/husarion/catkin_ws/src/ros_comm/tools/rosbag_storage/src/query.cpp:93:1:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::multiset<rosbag::IndexEntry>::const_iterator {aka std::_Rb_tree_const_iterator<rosbag::IndexEntry>}[m[K' changed in GCC 7.1
+ [01;36m[KViewIterHelper[m[K::ViewIterHelper(std::multiset<IndexEntry>::const_iterator _iter, MessageRange const* _range)
+ [01;36m[K^~~~~~~~~~~~~~[m[K
+[01m[K/home/husarion/catkin_ws/src/ros_comm/tools/rosbag_storage/src/view.cpp:[m[K In member function '[01m[Kvoid rosbag::View::iterator::populate()[m[K':
+[01m[K/home/husarion/catkin_ws/src/ros_comm/tools/rosbag_storage/src/view.cpp:78:30:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kconst std::_Rb_tree_const_iterator<rosbag::IndexEntry>[m[K' changed in GCC 7.1
+             iters_.push_back([01;36m[KViewIterHelper(range->begin, range)[m[K);
+                              [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/husarion/catkin_ws/src/ros_comm/tools/rosbag_storage/src/view.cpp:[m[K In member function '[01m[Kvoid rosbag::View::iterator::populateSeek(std::multiset<rosbag::IndexEntry>::const_iterator)[m[K':
+[01m[K/home/husarion/catkin_ws/src/ros_comm/tools/rosbag_storage/src/view.cpp:84:6:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::multiset<rosbag::IndexEntry>::const_iterator {aka std::_Rb_tree_const_iterator<rosbag::IndexEntry>}[m[K' changed in GCC 7.1
+ void [01;36m[KView[m[K::iterator::populateSeek(multiset<IndexEntry>::const_iterator iter) {
+      [01;36m[K^~~~[m[K
+[01m[K/home/husarion/catkin_ws/src/ros_comm/tools/rosbag_storage/src/view.cpp:89:128:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kconst std::_Rb_tree_const_iterator<rosbag::IndexEntry>[m[K' changed in GCC 7.1
+         multiset<IndexEntry>::const_iterator start = std::lower_bound(range->begin, range->end, iter->time, IndexEntryCompare()[01;36m[K)[m[K;
+                                                                                                                                [01;36m[K^[m[K
+[01m[K/home/husarion/catkin_ws/src/ros_comm/tools/rosbag_storage/src/view.cpp:91:30:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::multiset<rosbag::IndexEntry>::const_iterator {aka std::_Rb_tree_const_iterator<rosbag::IndexEntry>}[m[K' changed in GCC 7.1
+             iters_.push_back([01;36m[KViewIterHelper(start, range)[m[K);
+                              [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/husarion/catkin_ws/src/ros_comm/tools/rosbag_storage/src/view.cpp:[m[K In member function '[01m[Kvoid rosbag::View::iterator::increment()[m[K':
+[01m[K/home/husarion/catkin_ws/src/ros_comm/tools/rosbag_storage/src/view.cpp:130:21:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::multiset<rosbag::IndexEntry>::const_iterator {aka std::_Rb_tree_const_iterator<rosbag::IndexEntry>}[m[K' changed in GCC 7.1
+         [01;36m[KpopulateSeek(iters_.back().iter)[m[K;
+         [01;36m[K~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/husarion/catkin_ws/src/ros_comm/tools/rosbag_storage/src/view.cpp:[m[K In member function '[01m[Kuint32_t rosbag::View::size()[m[K':
+[01m[K/home/husarion/catkin_ws/src/ros_comm/tools/rosbag_storage/src/view.cpp:236:35:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::multiset<rosbag::IndexEntry>::const_iterator {aka std::_Rb_tree_const_iterator<rosbag::IndexEntry>}[m[K' changed in GCC 7.1
+       size_cache_ += [01;36m[Kstd::distance(range->begin, range->end)[m[K;
+                      [01;36m[K~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/c++/7/algorithm:62:0[m[K,
+                 from [01m[K/usr/include/boost/function/detail/prologue.hpp:13[m[K,
+                 from [01m[K/usr/include/boost/function.hpp:24[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/tools/rosbag_storage/include/rosbag/view.h:38[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/tools/rosbag_storage/src/view.cpp:28[m[K:
+[01m[K/usr/include/c++/7/bits/stl_algo.h:[m[K In function '[01m[K_FIter std::lower_bound(_FIter, _FIter, const _Tp&, _Compare) [with _FIter = std::_Rb_tree_const_iterator<rosbag::IndexEntry>; _Tp = ros::Time; _Compare = rosbag::IndexEntryCompare][m[K':
+[01m[K/usr/include/c++/7/bits/stl_algo.h:2023:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::_Rb_tree_const_iterator<rosbag::IndexEntry>[m[K' changed in GCC 7.1
+     [01;36m[Klower_bound[m[K(_ForwardIterator __first, _ForwardIterator __last,
+     [01;36m[K^~~~~~~~~~~[m[K
+[01m[K/usr/include/c++/7/bits/stl_algo.h:2023:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::_Rb_tree_const_iterator<rosbag::IndexEntry>[m[K' changed in GCC 7.1
+[01m[K/usr/include/c++/7/bits/stl_algo.h:2034:46:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::_Rb_tree_const_iterator<rosbag::IndexEntry>[m[K' changed in GCC 7.1
+     __gnu_cxx::__ops::__iter_comp_val(__comp)[01;36m[K)[m[K;
+                                              [01;36m[K^[m[K
+In file included from [01m[K/usr/include/c++/7/bits/stl_algobase.h:66:0[m[K,
+                 from [01m[K/usr/include/c++/7/bits/char_traits.h:39[m[K,
+                 from [01m[K/usr/include/c++/7/string:40[m[K,
+                 from [01m[K/usr/include/c++/7/stdexcept:39[m[K,
+                 from [01m[K/usr/include/c++/7/array:39[m[K,
+                 from [01m[K/usr/include/c++/7/tuple:39[m[K,
+                 from [01m[K/usr/include/c++/7/functional:54[m[K,
+                 from [01m[K/usr/include/boost/function.hpp:13[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/tools/rosbag_storage/include/rosbag/view.h:38[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/tools/rosbag_storage/src/view.cpp:28[m[K:
+[01m[K/usr/include/c++/7/bits/stl_iterator_base_funcs.h:[m[K In function '[01m[Ktypename std::iterator_traits<_Iterator>::difference_type std::distance(_InputIterator, _InputIterator) [with _InputIterator = std::_Rb_tree_const_iterator<rosbag::IndexEntry>][m[K':
+[01m[K/usr/include/c++/7/bits/stl_iterator_base_funcs.h:138:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::_Rb_tree_const_iterator<rosbag::IndexEntry>[m[K' changed in GCC 7.1
+     [01;36m[Kdistance[m[K(_InputIterator __first, _InputIterator __last)
+     [01;36m[K^~~~~~~~[m[K
+[01m[K/usr/include/c++/7/bits/stl_iterator_base_funcs.h:138:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::_Rb_tree_const_iterator<rosbag::IndexEntry>[m[K' changed in GCC 7.1
+[01m[K/usr/include/c++/7/bits/stl_iterator_base_funcs.h:142:42:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::_Rb_tree_const_iterator<rosbag::IndexEntry>[m[K' changed in GCC 7.1
+         std::__iterator_category(__first)[01;36m[K)[m[K;
+                                          [01;36m[K^[m[K
+In file included from [01m[K/usr/include/c++/7/bits/char_traits.h:39:0[m[K,
+                 from [01m[K/usr/include/c++/7/string:40[m[K,
+                 from [01m[K/usr/include/c++/7/stdexcept:39[m[K,
+                 from [01m[K/usr/include/c++/7/array:39[m[K,
+                 from [01m[K/usr/include/c++/7/tuple:39[m[K,
+                 from [01m[K/usr/include/c++/7/functional:54[m[K,
+                 from [01m[K/usr/include/boost/function.hpp:13[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/tools/rosbag_storage/include/rosbag/view.h:38[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/tools/rosbag_storage/src/view.cpp:28[m[K:
+[01m[K/usr/include/c++/7/bits/stl_algobase.h:[m[K In function '[01m[K_ForwardIterator std::__lower_bound(_ForwardIterator, _ForwardIterator, const _Tp&, _Compare) [with _ForwardIterator = std::_Rb_tree_const_iterator<rosbag::IndexEntry>; _Tp = ros::Time; _Compare = __gnu_cxx::__ops::_Iter_comp_val<rosbag::IndexEntryCompare>][m[K':
+[01m[K/usr/include/c++/7/bits/stl_algobase.h:946:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::_Rb_tree_const_iterator<rosbag::IndexEntry>[m[K' changed in GCC 7.1
+     [01;36m[K__lower_bound[m[K(_ForwardIterator __first, _ForwardIterator __last,
+     [01;36m[K^~~~~~~~~~~~~[m[K
+[01m[K/usr/include/c++/7/bits/stl_algobase.h:946:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::_Rb_tree_const_iterator<rosbag::IndexEntry>[m[K' changed in GCC 7.1
+[01m[K/usr/include/c++/7/bits/stl_algobase.h:952:21:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::_Rb_tree_const_iterator<rosbag::IndexEntry>[m[K' changed in GCC 7.1
+       _DistanceType [01;36m[K__len[m[K = std::distance(__first, __last);
+                     [01;36m[K^~~~~[m[K
+[01m[K/usr/include/c++/7/bits/stl_algobase.h:959:14:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::_Rb_tree_const_iterator<rosbag::IndexEntry>[m[K' changed in GCC 7.1
+    if ([01;36m[K__comp(__middle, __val)[m[K)
+        [01;36m[K~~~~~~^~~~~~~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/c++/7/bits/stl_algobase.h:66:0[m[K,
+                 from [01m[K/usr/include/c++/7/bits/char_traits.h:39[m[K,
+                 from [01m[K/usr/include/c++/7/string:40[m[K,
+                 from [01m[K/usr/include/c++/7/stdexcept:39[m[K,
+                 from [01m[K/usr/include/c++/7/array:39[m[K,
+                 from [01m[K/usr/include/c++/7/tuple:39[m[K,
+                 from [01m[K/usr/include/c++/7/functional:54[m[K,
+                 from [01m[K/usr/include/boost/function.hpp:13[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/tools/rosbag_storage/include/rosbag/view.h:38[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/tools/rosbag_storage/src/view.cpp:28[m[K:
+[01m[K/usr/include/c++/7/bits/stl_iterator_base_funcs.h:[m[K In function '[01m[Kconstexpr typename std::iterator_traits<_Iterator>::difference_type std::__distance(_InputIterator, _InputIterator, std::input_iterator_tag) [with _InputIterator = std::_Rb_tree_const_iterator<rosbag::IndexEntry>][m[K':
+[01m[K/usr/include/c++/7/bits/stl_iterator_base_funcs.h:80:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::_Rb_tree_const_iterator<rosbag::IndexEntry>[m[K' changed in GCC 7.1
+     [01;36m[K__distance[m[K(_InputIterator __first, _InputIterator __last,
+     [01;36m[K^~~~~~~~~~[m[K
+[01m[K/usr/include/c++/7/bits/stl_iterator_base_funcs.h:80:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::_Rb_tree_const_iterator<rosbag::IndexEntry>[m[K' changed in GCC 7.1
+In file included from [01m[K/usr/include/c++/7/bits/stl_algobase.h:71:0[m[K,
+                 from [01m[K/usr/include/c++/7/bits/char_traits.h:39[m[K,
+                 from [01m[K/usr/include/c++/7/string:40[m[K,
+                 from [01m[K/usr/include/c++/7/stdexcept:39[m[K,
+                 from [01m[K/usr/include/c++/7/array:39[m[K,
+                 from [01m[K/usr/include/c++/7/tuple:39[m[K,
+                 from [01m[K/usr/include/c++/7/functional:54[m[K,
+                 from [01m[K/usr/include/boost/function.hpp:13[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/tools/rosbag_storage/include/rosbag/view.h:38[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/tools/rosbag_storage/src/view.cpp:28[m[K:
+[01m[K/usr/include/c++/7/bits/predefined_ops.h:[m[K In member function '[01m[Kbool __gnu_cxx::__ops::_Iter_comp_val<_Compare>::operator()(_Iterator, _Value&) [with _Iterator = std::_Rb_tree_const_iterator<rosbag::IndexEntry>; _Value = const ros::Time; _Compare = rosbag::IndexEntryCompare][m[K':
+[01m[K/usr/include/c++/7/bits/predefined_ops.h:176:2:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::_Rb_tree_const_iterator<rosbag::IndexEntry>[m[K' changed in GCC 7.1
+  [01;36m[Koperator[m[K()(_Iterator __it, _Value& __val)
+  [01;36m[K^~~~~~~~[m[K

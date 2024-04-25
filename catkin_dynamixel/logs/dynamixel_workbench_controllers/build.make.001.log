@@ -1,0 +1,349 @@
+-- Using CATKIN_DEVEL_PREFIX: /home/husarion/catkin_dynamixel/devel/.private/dynamixel_workbench_controllers
+-- Using CMAKE_PREFIX_PATH: /home/husarion/catkin_dynamixel/devel;/home/husarion/catkin_ws/devel;/opt/ros/melodic
+-- This workspace overlays: /home/husarion/catkin_dynamixel/devel;/home/husarion/catkin_ws/devel;/opt/ros/melodic
+-- Found PythonInterp: /usr/bin/python2 (found suitable version "2.7.17", minimum required is "2") 
+-- Using PYTHON_EXECUTABLE: /usr/bin/python2
+-- Using Debian Python package layout
+-- Using empy: /usr/bin/empy
+-- Using CATKIN_ENABLE_TESTING: ON
+-- Call enable_testing()
+-- Using CATKIN_TEST_RESULTS_DIR: /home/husarion/catkin_dynamixel/build/dynamixel_workbench_controllers/test_results
+-- Found gtest sources under '/usr/src/googletest': gtests will be built
+-- Found gmock sources under '/usr/src/googletest': gmock will be built
+-- Found PythonInterp: /usr/bin/python2 (found version "2.7.17") 
+-- Using Python nosetests: /usr/bin/nosetests-2.7
+-- catkin 0.7.26
+-- BUILD_SHARED_LIBS is on
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/husarion/catkin_dynamixel/build/dynamixel_workbench_controllers
+make[2]: Warning: File 'CMakeFiles/dynamixel_workbench_msgs_generate_messages_lisp.dir/build.make' has modification time 627 s in the future
+make[2]: Warning: File 'CMakeFiles/std_msgs_generate_messages_nodejs.dir/build.make' has modification time 627 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: Warning: File 'CMakeFiles/std_msgs_generate_messages_nodejs.dir/build.make' has modification time 627 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: Warning: File 'CMakeFiles/dynamixel_workbench_msgs_generate_messages_lisp.dir/build.make' has modification time 627 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target dynamixel_workbench_msgs_generate_messages_lisp
+make[2]: Warning: File 'CMakeFiles/geometry_msgs_generate_messages_py.dir/build.make' has modification time 627 s in the future
+make[2]: Warning: File 'CMakeFiles/rosgraph_msgs_generate_messages_eus.dir/build.make' has modification time 627 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: Warning: File 'CMakeFiles/geometry_msgs_generate_messages_py.dir/build.make' has modification time 627 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: Warning: File 'CMakeFiles/rosgraph_msgs_generate_messages_eus.dir/build.make' has modification time 627 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+make[2]: Warning: File 'CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/build.make' has modification time 627 s in the future
+make[2]: Warning: File 'CMakeFiles/dynamixel_workbench_msgs_generate_messages_py.dir/build.make' has modification time 627 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: Warning: File 'CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/build.make' has modification time 627 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: Warning: File 'CMakeFiles/dynamixel_workbench_msgs_generate_messages_py.dir/build.make' has modification time 627 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target dynamixel_workbench_msgs_generate_messages_py
+make[2]: Warning: File 'CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/build.make' has modification time 627 s in the future
+make[2]: Warning: File 'CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/build.make' has modification time 627 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: Warning: File 'CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/build.make' has modification time 627 s in the future
+make[2]: Warning: File 'CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/build.make' has modification time 627 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+make[2]: Warning: File 'CMakeFiles/dynamixel_workbench_msgs_generate_messages_nodejs.dir/build.make' has modification time 627 s in the future
+make[2]: Warning: File 'CMakeFiles/roscpp_generate_messages_py.dir/build.make' has modification time 627 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: Warning: File 'CMakeFiles/roscpp_generate_messages_py.dir/build.make' has modification time 627 s in the future
+make[2]: Warning: File 'CMakeFiles/dynamixel_workbench_msgs_generate_messages_nodejs.dir/build.make' has modification time 627 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[  0%] Built target dynamixel_workbench_msgs_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_py
+make[2]: Warning: File 'CMakeFiles/roscpp_generate_messages_nodejs.dir/build.make' has modification time 627 s in the future
+make[2]: Warning: File 'CMakeFiles/std_msgs_generate_messages_lisp.dir/build.make' has modification time 627 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: Warning: File 'CMakeFiles/roscpp_generate_messages_nodejs.dir/build.make' has modification time 627 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: Warning: File 'CMakeFiles/std_msgs_generate_messages_lisp.dir/build.make' has modification time 627 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target roscpp_generate_messages_nodejs
+make[2]: Warning: File 'CMakeFiles/std_msgs_generate_messages_eus.dir/build.make' has modification time 627 s in the future
+make[2]: Warning: File 'CMakeFiles/roscpp_generate_messages_lisp.dir/build.make' has modification time 627 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: Warning: File 'CMakeFiles/std_msgs_generate_messages_eus.dir/build.make' has modification time 627 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: Warning: File 'CMakeFiles/roscpp_generate_messages_lisp.dir/build.make' has modification time 627 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[  0%] Built target roscpp_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_eus
+make[2]: Warning: File 'CMakeFiles/roscpp_generate_messages_cpp.dir/build.make' has modification time 627 s in the future
+make[2]: Warning: File 'CMakeFiles/roscpp_generate_messages_eus.dir/build.make' has modification time 627 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: Warning: File 'CMakeFiles/roscpp_generate_messages_eus.dir/build.make' has modification time 627 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: Warning: File 'CMakeFiles/roscpp_generate_messages_cpp.dir/build.make' has modification time 627 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[  0%] Built target roscpp_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_cpp
+make[2]: Warning: File 'CMakeFiles/std_msgs_generate_messages_cpp.dir/build.make' has modification time 627 s in the future
+make[2]: Warning: File 'CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/build.make' has modification time 627 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: Warning: File 'CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/build.make' has modification time 627 s in the future
+make[2]: Warning: File 'CMakeFiles/std_msgs_generate_messages_cpp.dir/build.make' has modification time 627 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+make[2]: Warning: File 'CMakeFiles/sensor_msgs_generate_messages_lisp.dir/build.make' has modification time 627 s in the future
+make[2]: Warning: File 'CMakeFiles/rosgraph_msgs_generate_messages_py.dir/build.make' has modification time 627 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: Warning: File 'CMakeFiles/sensor_msgs_generate_messages_lisp.dir/build.make' has modification time 627 s in the future
+make[2]: Warning: File 'CMakeFiles/rosgraph_msgs_generate_messages_py.dir/build.make' has modification time 627 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target rosgraph_msgs_generate_messages_py
+make[2]: Warning: File 'CMakeFiles/std_msgs_generate_messages_py.dir/build.make' has modification time 627 s in the future
+make[2]: Warning: File 'CMakeFiles/geometry_msgs_generate_messages_eus.dir/build.make' has modification time 627 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: Warning: File 'CMakeFiles/geometry_msgs_generate_messages_eus.dir/build.make' has modification time 627 s in the future
+make[2]: Warning: File 'CMakeFiles/std_msgs_generate_messages_py.dir/build.make' has modification time 627 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_py
+make[2]: Warning: File 'CMakeFiles/sensor_msgs_generate_messages_eus.dir/build.make' has modification time 627 s in the future
+make[2]: Warning: File 'CMakeFiles/sensor_msgs_generate_messages_py.dir/build.make' has modification time 627 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: Warning: File 'CMakeFiles/sensor_msgs_generate_messages_py.dir/build.make' has modification time 626 s in the future
+make[2]: Warning: File 'CMakeFiles/sensor_msgs_generate_messages_eus.dir/build.make' has modification time 626 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target sensor_msgs_generate_messages_eus
+make[2]: Warning: File 'CMakeFiles/geometry_msgs_generate_messages_lisp.dir/build.make' has modification time 626 s in the future
+make[2]: Warning: File 'CMakeFiles/geometry_msgs_generate_messages_nodejs.dir/build.make' has modification time 626 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: Warning: File 'CMakeFiles/geometry_msgs_generate_messages_lisp.dir/build.make' has modification time 626 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: Warning: File 'CMakeFiles/geometry_msgs_generate_messages_nodejs.dir/build.make' has modification time 626 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_lisp
+make[2]: Warning: File 'CMakeFiles/geometry_msgs_generate_messages_cpp.dir/build.make' has modification time 626 s in the future
+make[2]: Warning: File 'CMakeFiles/sensor_msgs_generate_messages_cpp.dir/build.make' has modification time 626 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: Warning: File 'CMakeFiles/geometry_msgs_generate_messages_cpp.dir/build.make' has modification time 626 s in the future
+make[2]: Warning: File 'CMakeFiles/sensor_msgs_generate_messages_cpp.dir/build.make' has modification time 626 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_cpp
+make[2]: Warning: File 'CMakeFiles/dynamixel_workbench_msgs_generate_messages_cpp.dir/build.make' has modification time 626 s in the future
+make[2]: Warning: File 'CMakeFiles/dynamixel_workbench_msgs_generate_messages_eus.dir/build.make' has modification time 626 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: Warning: File 'CMakeFiles/dynamixel_workbench_msgs_generate_messages_cpp.dir/build.make' has modification time 626 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: Warning: File 'CMakeFiles/dynamixel_workbench_msgs_generate_messages_eus.dir/build.make' has modification time 626 s in the future
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[  0%] Built target dynamixel_workbench_msgs_generate_messages_cpp
+[  0%] Built target dynamixel_workbench_msgs_generate_messages_eus
+make[2]: Warning: File 'CMakeFiles/torque_control.dir/flags.make' has modification time 626 s in the future
+make[2]: Warning: File 'CMakeFiles/multi_port.dir/flags.make' has modification time 626 s in the future
+[35m[1mScanning dependencies of target multi_port[0m
+[35m[1mScanning dependencies of target torque_control[0m
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: Warning: File 'CMakeFiles/multi_port.dir/flags.make' has modification time 626 s in the future
+make[2]: Warning: File 'CMakeFiles/torque_control.dir/flags.make' has modification time 626 s in the future
+[ 25%] [32mBuilding CXX object CMakeFiles/torque_control.dir/src/torque_control.cpp.o[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/multi_port.dir/src/multi_port.cpp.o[0m
+In file included from [01m[K/usr/include/c++/7/vector:69:0[m[K,
+                 from [01m[K/usr/include/boost/math/special_functions/math_fwd.hpp:26[m[K,
+                 from [01m[K/usr/include/boost/math/special_functions/round.hpp:15[m[K,
+                 from [01m[K/opt/ros/melodic/include/ros/time.h:58[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/include/ros/ros.h:38[m[K,
+                 from [01m[K/home/husarion/catkin_dynamixel/src/dynamixel-workbench/dynamixel_workbench_controllers/include/dynamixel_workbench_controllers/torque_control.h:22[m[K,
+                 from [01m[K/home/husarion/catkin_dynamixel/src/dynamixel-workbench/dynamixel_workbench_controllers/src/torque_control.cpp:19[m[K:
+[01m[K/usr/include/c++/7/bits/vector.tcc:[m[K In member function '[01m[Kvoid std::vector<_Tp, _Alloc>::emplace_back(_Args&& ...) [with _Args = {double}; _Tp = double; _Alloc = std::allocator<double>][m[K':
+[01m[K/usr/include/c++/7/bits/vector.tcc:105:21:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[K__gnu_cxx::__normal_iterator<double*, std::vector<double> >[m[K' changed in GCC 7.1
+    [01;36m[K_M_realloc_insert(end(), std::forward<_Args>(__args)...)[m[K;
+    [01;36m[K~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/c++/7/bits/vector.tcc:[m[K In member function '[01m[Kvoid std::vector<_Tp, _Alloc>::_M_realloc_insert(std::vector<_Tp, _Alloc>::iterator, _Args&& ...) [with _Args = {double}; _Tp = double; _Alloc = std::allocator<double>][m[K':
+[01m[K/usr/include/c++/7/bits/vector.tcc:394:7:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::vector<double>::iterator {aka __gnu_cxx::__normal_iterator<double*, std::vector<double> >}[m[K' changed in GCC 7.1
+       [01;36m[Kvector<_Tp, _Alloc>[m[K::
+       [01;36m[K^~~~~~~~~~~~~~~~~~~[m[K
+[ 37%] [32m[1mLinking CXX executable /home/husarion/catkin_dynamixel/devel/.private/dynamixel_workbench_controllers/lib/dynamixel_workbench_controllers/multi_port[0m
+In file included from [01m[K/usr/include/c++/7/vector:63:0[m[K,
+                 from [01m[K/usr/include/boost/math/special_functions/math_fwd.hpp:26[m[K,
+                 from [01m[K/usr/include/boost/math/special_functions/round.hpp:15[m[K,
+                 from [01m[K/opt/ros/melodic/include/ros/time.h:58[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/include/ros/ros.h:38[m[K,
+                 from [01m[K/home/husarion/catkin_dynamixel/src/dynamixel-workbench/dynamixel_workbench_controllers/include/dynamixel_workbench_controllers/torque_control.h:22[m[K,
+                 from [01m[K/home/husarion/catkin_dynamixel/src/dynamixel-workbench/dynamixel_workbench_controllers/src/torque_control.cpp:19[m[K:
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:[m[K In function '[01m[K_ForwardIterator std::__uninitialized_move_if_noexcept_a(_InputIterator, _InputIterator, _ForwardIterator, _Allocator&) [with _InputIterator = double*; _ForwardIterator = double*; _Allocator = std::allocator<double>][m[K':
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:312:69:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<double*>[m[K' changed in GCC 7.1
+   _GLIBCXX_MAKE_MOVE_IF_NOEXCEPT_ITERATOR(__last), __result, __alloc[01;36m[K)[m[K;
+                                                                     [01;36m[K^[m[K
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:[m[K In function '[01m[K_ForwardIterator std::__uninitialized_copy_a(_InputIterator, _InputIterator, _ForwardIterator, std::allocator<_Tp>&) [with _InputIterator = std::move_iterator<double*>; _ForwardIterator = double*; _Tp = double][m[K':
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:287:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<double*>[m[K' changed in GCC 7.1
+     [01;36m[K__uninitialized_copy_a[m[K(_InputIterator __first, _InputIterator __last,
+     [01;36m[K^~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:287:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<double*>[m[K' changed in GCC 7.1
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:289:63:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<double*>[m[K' changed in GCC 7.1
+     { return std::uninitialized_copy(__first, __last, __result[01;36m[K)[m[K; }
+                                                               [01;36m[K^[m[K
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:[m[K In function '[01m[K_ForwardIterator std::uninitialized_copy(_InputIterator, _InputIterator, _ForwardIterator) [with _InputIterator = std::move_iterator<double*>; _ForwardIterator = double*][m[K':
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:115:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<double*>[m[K' changed in GCC 7.1
+     [01;36m[Kuninitialized_copy[m[K(_InputIterator __first, _InputIterator __last,
+     [01;36m[K^~~~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:115:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<double*>[m[K' changed in GCC 7.1
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:134:41:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<double*>[m[K' changed in GCC 7.1
+  __uninit_copy(__first, __last, __result[01;36m[K)[m[K;
+                                         [01;36m[K^[m[K
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:[m[K In static member function '[01m[Kstatic _ForwardIterator std::__uninitialized_copy<true>::__uninit_copy(_InputIterator, _InputIterator, _ForwardIterator) [with _InputIterator = std::move_iterator<double*>; _ForwardIterator = double*][m[K':
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:99:9:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<double*>[m[K' changed in GCC 7.1
+         [01;36m[K__uninit_copy[m[K(_InputIterator __first, _InputIterator __last,
+         [01;36m[K^~~~~~~~~~~~~[m[K
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:99:9:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<double*>[m[K' changed in GCC 7.1
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:101:53:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<double*>[m[K' changed in GCC 7.1
+         { return std::copy(__first, __last, __result[01;36m[K)[m[K; }
+                                                     [01;36m[K^[m[K
+In file included from [01m[K/usr/include/c++/7/bits/char_traits.h:39:0[m[K,
+                 from [01m[K/usr/include/c++/7/string:40[m[K,
+                 from [01m[K/opt/ros/melodic/include/ros/platform.h:38[m[K,
+                 from [01m[K/opt/ros/melodic/include/ros/time.h:53[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/include/ros/ros.h:38[m[K,
+                 from [01m[K/home/husarion/catkin_dynamixel/src/dynamixel-workbench/dynamixel_workbench_controllers/include/dynamixel_workbench_controllers/torque_control.h:22[m[K,
+                 from [01m[K/home/husarion/catkin_dynamixel/src/dynamixel-workbench/dynamixel_workbench_controllers/src/torque_control.cpp:19[m[K:
+[01m[K/usr/include/c++/7/bits/stl_algobase.h:[m[K In function '[01m[K_OI std::copy(_II, _II, _OI) [with _II = std::move_iterator<double*>; _OI = double*][m[K':
+[01m[K/usr/include/c++/7/bits/stl_algobase.h:446:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<double*>[m[K' changed in GCC 7.1
+     [01;36m[Kcopy[m[K(_II __first, _II __last, _OI __result)
+     [01;36m[K^~~~[m[K
+[01m[K/usr/include/c++/7/bits/stl_algobase.h:446:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<double*>[m[K' changed in GCC 7.1
+In file included from [01m[K/usr/include/c++/7/bits/stl_algobase.h:67:0[m[K,
+                 from [01m[K/usr/include/c++/7/bits/char_traits.h:39[m[K,
+                 from [01m[K/usr/include/c++/7/string:40[m[K,
+                 from [01m[K/opt/ros/melodic/include/ros/platform.h:38[m[K,
+                 from [01m[K/opt/ros/melodic/include/ros/time.h:53[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/include/ros/ros.h:38[m[K,
+                 from [01m[K/home/husarion/catkin_dynamixel/src/dynamixel-workbench/dynamixel_workbench_controllers/include/dynamixel_workbench_controllers/torque_control.h:22[m[K,
+                 from [01m[K/home/husarion/catkin_dynamixel/src/dynamixel-workbench/dynamixel_workbench_controllers/src/torque_control.cpp:19[m[K:
+[01m[K/usr/include/c++/7/bits/stl_iterator.h:[m[K In function '[01m[Kdecltype (std::__miter_base(__it.base())) std::__miter_base(std::move_iterator<_IteratorL>) [with _Iterator = double*][m[K':
+[01m[K/usr/include/c++/7/bits/stl_iterator.h:1244:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<double*>[m[K' changed in GCC 7.1
+     [01;36m[K__miter_base[m[K(move_iterator<_Iterator> __it)
+     [01;36m[K^~~~~~~~~~~~[m[K
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 37%] Built target multi_port
+make[2]: Warning: File 'CMakeFiles/velocity_control.dir/flags.make' has modification time 619 s in the future
+[35m[1mScanning dependencies of target velocity_control[0m
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: Warning: File 'CMakeFiles/velocity_control.dir/flags.make' has modification time 619 s in the future
+[ 50%] [32mBuilding CXX object CMakeFiles/velocity_control.dir/src/velocity_control.cpp.o[0m
+[ 62%] [32m[1mLinking CXX executable /home/husarion/catkin_dynamixel/devel/.private/dynamixel_workbench_controllers/lib/dynamixel_workbench_controllers/torque_control[0m
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 62%] Built target torque_control
+make[2]: Warning: File 'CMakeFiles/position_control.dir/flags.make' has modification time 617 s in the future
+[35m[1mScanning dependencies of target position_control[0m
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+make[2]: Warning: File 'CMakeFiles/position_control.dir/flags.make' has modification time 617 s in the future
+[ 75%] [32mBuilding CXX object CMakeFiles/position_control.dir/src/position_control.cpp.o[0m
+[ 87%] [32m[1mLinking CXX executable /home/husarion/catkin_dynamixel/devel/.private/dynamixel_workbench_controllers/lib/dynamixel_workbench_controllers/velocity_control[0m
+In file included from [01m[K/usr/include/c++/7/vector:69:0[m[K,
+                 from [01m[K/usr/include/boost/math/special_functions/math_fwd.hpp:26[m[K,
+                 from [01m[K/usr/include/boost/math/special_functions/round.hpp:15[m[K,
+                 from [01m[K/opt/ros/melodic/include/ros/time.h:58[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/include/ros/ros.h:38[m[K,
+                 from [01m[K/home/husarion/catkin_dynamixel/src/dynamixel-workbench/dynamixel_workbench_controllers/include/dynamixel_workbench_controllers/position_control.h:22[m[K,
+                 from [01m[K/home/husarion/catkin_dynamixel/src/dynamixel-workbench/dynamixel_workbench_controllers/src/position_control.cpp:19[m[K:
+[01m[K/usr/include/c++/7/bits/vector.tcc:[m[K In member function '[01m[Kvoid std::vector<_Tp, _Alloc>::emplace_back(_Args&& ...) [with _Args = {double}; _Tp = double; _Alloc = std::allocator<double>][m[K':
+[01m[K/usr/include/c++/7/bits/vector.tcc:105:21:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[K__gnu_cxx::__normal_iterator<double*, std::vector<double> >[m[K' changed in GCC 7.1
+    [01;36m[K_M_realloc_insert(end(), std::forward<_Args>(__args)...)[m[K;
+    [01;36m[K~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/c++/7/bits/vector.tcc:[m[K In member function '[01m[Kvoid std::vector<_Tp, _Alloc>::_M_realloc_insert(std::vector<_Tp, _Alloc>::iterator, _Args&& ...) [with _Args = {double}; _Tp = double; _Alloc = std::allocator<double>][m[K':
+[01m[K/usr/include/c++/7/bits/vector.tcc:394:7:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::vector<double>::iterator {aka __gnu_cxx::__normal_iterator<double*, std::vector<double> >}[m[K' changed in GCC 7.1
+       [01;36m[Kvector<_Tp, _Alloc>[m[K::
+       [01;36m[K^~~~~~~~~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/c++/7/vector:63:0[m[K,
+                 from [01m[K/usr/include/boost/math/special_functions/math_fwd.hpp:26[m[K,
+                 from [01m[K/usr/include/boost/math/special_functions/round.hpp:15[m[K,
+                 from [01m[K/opt/ros/melodic/include/ros/time.h:58[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/include/ros/ros.h:38[m[K,
+                 from [01m[K/home/husarion/catkin_dynamixel/src/dynamixel-workbench/dynamixel_workbench_controllers/include/dynamixel_workbench_controllers/position_control.h:22[m[K,
+                 from [01m[K/home/husarion/catkin_dynamixel/src/dynamixel-workbench/dynamixel_workbench_controllers/src/position_control.cpp:19[m[K:
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:[m[K In function '[01m[K_ForwardIterator std::__uninitialized_move_if_noexcept_a(_InputIterator, _InputIterator, _ForwardIterator, _Allocator&) [with _InputIterator = double*; _ForwardIterator = double*; _Allocator = std::allocator<double>][m[K':
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:312:69:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<double*>[m[K' changed in GCC 7.1
+   _GLIBCXX_MAKE_MOVE_IF_NOEXCEPT_ITERATOR(__last), __result, __alloc[01;36m[K)[m[K;
+                                                                     [01;36m[K^[m[K
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:[m[K In function '[01m[K_ForwardIterator std::__uninitialized_copy_a(_InputIterator, _InputIterator, _ForwardIterator, std::allocator<_Tp>&) [with _InputIterator = std::move_iterator<double*>; _ForwardIterator = double*; _Tp = double][m[K':
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:287:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<double*>[m[K' changed in GCC 7.1
+     [01;36m[K__uninitialized_copy_a[m[K(_InputIterator __first, _InputIterator __last,
+     [01;36m[K^~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:287:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<double*>[m[K' changed in GCC 7.1
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:289:63:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<double*>[m[K' changed in GCC 7.1
+     { return std::uninitialized_copy(__first, __last, __result[01;36m[K)[m[K; }
+                                                               [01;36m[K^[m[K
+[ 87%] Built target velocity_control
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:[m[K In function '[01m[K_ForwardIterator std::uninitialized_copy(_InputIterator, _InputIterator, _ForwardIterator) [with _InputIterator = std::move_iterator<double*>; _ForwardIterator = double*][m[K':
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:115:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<double*>[m[K' changed in GCC 7.1
+     [01;36m[Kuninitialized_copy[m[K(_InputIterator __first, _InputIterator __last,
+     [01;36m[K^~~~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:115:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<double*>[m[K' changed in GCC 7.1
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:134:41:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<double*>[m[K' changed in GCC 7.1
+  __uninit_copy(__first, __last, __result[01;36m[K)[m[K;
+                                         [01;36m[K^[m[K
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:[m[K In static member function '[01m[Kstatic _ForwardIterator std::__uninitialized_copy<true>::__uninit_copy(_InputIterator, _InputIterator, _ForwardIterator) [with _InputIterator = std::move_iterator<double*>; _ForwardIterator = double*][m[K':
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:99:9:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<double*>[m[K' changed in GCC 7.1
+         [01;36m[K__uninit_copy[m[K(_InputIterator __first, _InputIterator __last,
+         [01;36m[K^~~~~~~~~~~~~[m[K
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:99:9:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<double*>[m[K' changed in GCC 7.1
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:101:53:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<double*>[m[K' changed in GCC 7.1
+         { return std::copy(__first, __last, __result[01;36m[K)[m[K; }
+                                                     [01;36m[K^[m[K
+In file included from [01m[K/usr/include/c++/7/bits/char_traits.h:39:0[m[K,
+                 from [01m[K/usr/include/c++/7/string:40[m[K,
+                 from [01m[K/opt/ros/melodic/include/ros/platform.h:38[m[K,
+                 from [01m[K/opt/ros/melodic/include/ros/time.h:53[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/include/ros/ros.h:38[m[K,
+                 from [01m[K/home/husarion/catkin_dynamixel/src/dynamixel-workbench/dynamixel_workbench_controllers/include/dynamixel_workbench_controllers/position_control.h:22[m[K,
+                 from [01m[K/home/husarion/catkin_dynamixel/src/dynamixel-workbench/dynamixel_workbench_controllers/src/position_control.cpp:19[m[K:
+[01m[K/usr/include/c++/7/bits/stl_algobase.h:[m[K In function '[01m[K_OI std::copy(_II, _II, _OI) [with _II = std::move_iterator<double*>; _OI = double*][m[K':
+[01m[K/usr/include/c++/7/bits/stl_algobase.h:446:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<double*>[m[K' changed in GCC 7.1
+     [01;36m[Kcopy[m[K(_II __first, _II __last, _OI __result)
+     [01;36m[K^~~~[m[K
+[01m[K/usr/include/c++/7/bits/stl_algobase.h:446:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<double*>[m[K' changed in GCC 7.1
+In file included from [01m[K/usr/include/c++/7/bits/stl_algobase.h:67:0[m[K,
+                 from [01m[K/usr/include/c++/7/bits/char_traits.h:39[m[K,
+                 from [01m[K/usr/include/c++/7/string:40[m[K,
+                 from [01m[K/opt/ros/melodic/include/ros/platform.h:38[m[K,
+                 from [01m[K/opt/ros/melodic/include/ros/time.h:53[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/include/ros/ros.h:38[m[K,
+                 from [01m[K/home/husarion/catkin_dynamixel/src/dynamixel-workbench/dynamixel_workbench_controllers/include/dynamixel_workbench_controllers/position_control.h:22[m[K,
+                 from [01m[K/home/husarion/catkin_dynamixel/src/dynamixel-workbench/dynamixel_workbench_controllers/src/position_control.cpp:19[m[K:
+[01m[K/usr/include/c++/7/bits/stl_iterator.h:[m[K In function '[01m[Kdecltype (std::__miter_base(__it.base())) std::__miter_base(std::move_iterator<_IteratorL>) [with _Iterator = double*][m[K':
+[01m[K/usr/include/c++/7/bits/stl_iterator.h:1244:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<double*>[m[K' changed in GCC 7.1
+     [01;36m[K__miter_base[m[K(move_iterator<_Iterator> __it)
+     [01;36m[K^~~~~~~~~~~~[m[K
+[100%] [32m[1mLinking CXX executable /home/husarion/catkin_dynamixel/devel/.private/dynamixel_workbench_controllers/lib/dynamixel_workbench_controllers/position_control[0m
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[100%] Built target position_control

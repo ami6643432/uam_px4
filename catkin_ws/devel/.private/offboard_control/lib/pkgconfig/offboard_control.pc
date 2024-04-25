@@ -1,0 +1,8 @@
+prefix=/home/husarion/catkin_ws/devel/.private/offboard_control
+
+Name: offboard_control
+Description: Description of offboard_control
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

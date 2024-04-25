@@ -1,0 +1,8 @@
+prefix=/home/husarion/catkin_ws/devel/.private/roswtf
+
+Name: roswtf
+Description: Description of roswtf
+Version: 1.14.12
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

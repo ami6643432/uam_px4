@@ -1,0 +1,1 @@
+/home/husarion/catkin_ws/devel/.private/test_rostopic/share/common-lisp/ros/test_rostopic/msg/Arrays.lisp

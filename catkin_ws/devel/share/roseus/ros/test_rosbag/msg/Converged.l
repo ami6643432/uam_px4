@@ -1,0 +1,1 @@
+/home/husarion/catkin_ws/devel/.private/test_rosbag/share/roseus/ros/test_rosbag/msg/Converged.l

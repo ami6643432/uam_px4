@@ -1,0 +1,8 @@
+prefix=/home/husarion/catkin_ws/devel/.private/test_rostopic
+
+Name: test_rostopic
+Description: Description of test_rostopic
+Version: 1.14.12
+Cflags: -I/home/husarion/catkin_ws/devel/.private/test_rostopic/include
+Libs: -L${prefix}/lib 
+Requires: 

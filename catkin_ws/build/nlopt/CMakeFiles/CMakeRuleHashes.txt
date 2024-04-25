@@ -1,0 +1,11 @@
+# Hashes of file build rules.
+936d9fb31e5433778af7a52a5669cbc8 CMakeFiles/clean_test_results
+b5409c0de2ac9de9546a62273c19ab20 CMakeFiles/nlopt_src
+b8fffeea029c0ee67df4ec03da12e6f0 CMakeFiles/nlopt_src-complete
+dd77f5c73f0a014e4f094c690620cbcb nlopt_src-prefix/src/nlopt_src-stamp/nlopt_src-build
+97239dc5c4ffdd55d237cdf760526f8d nlopt_src-prefix/src/nlopt_src-stamp/nlopt_src-configure
+006d83575dd55feaf57f78c46e0b45eb nlopt_src-prefix/src/nlopt_src-stamp/nlopt_src-download
+bec306b11f740e4f71c90be7287af564 nlopt_src-prefix/src/nlopt_src-stamp/nlopt_src-install
+573158b5c09b0f42e8a75a292886291c nlopt_src-prefix/src/nlopt_src-stamp/nlopt_src-mkdir
+73b1dd513b552c80e3a9f94f81a52e88 nlopt_src-prefix/src/nlopt_src-stamp/nlopt_src-patch
+1efe08a550baa24dcd395748e5741696 nlopt_src-prefix/src/nlopt_src-stamp/nlopt_src-update

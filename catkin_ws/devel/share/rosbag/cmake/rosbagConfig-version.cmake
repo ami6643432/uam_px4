@@ -1,0 +1,1 @@
+/home/husarion/catkin_ws/devel/.private/rosbag/share/rosbag/cmake/rosbagConfig-version.cmake

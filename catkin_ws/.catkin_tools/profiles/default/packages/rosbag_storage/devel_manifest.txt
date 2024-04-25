@@ -1,0 +1,7 @@
+ros_comm/tools/rosbag_storage
+/home/husarion/catkin_ws/devel/.private/rosbag_storage/cmake.lock /home/husarion/catkin_ws/devel/./cmake.lock
+/home/husarion/catkin_ws/devel/.private/rosbag_storage/lib/librosbag_storage.so /home/husarion/catkin_ws/devel/lib/librosbag_storage.so
+/home/husarion/catkin_ws/devel/.private/rosbag_storage/lib/librosbag_default_encryption_plugins.so /home/husarion/catkin_ws/devel/lib/librosbag_default_encryption_plugins.so
+/home/husarion/catkin_ws/devel/.private/rosbag_storage/lib/pkgconfig/rosbag_storage.pc /home/husarion/catkin_ws/devel/lib/pkgconfig/rosbag_storage.pc
+/home/husarion/catkin_ws/devel/.private/rosbag_storage/share/rosbag_storage/cmake/rosbag_storageConfig-version.cmake /home/husarion/catkin_ws/devel/share/rosbag_storage/cmake/rosbag_storageConfig-version.cmake
+/home/husarion/catkin_ws/devel/.private/rosbag_storage/share/rosbag_storage/cmake/rosbag_storageConfig.cmake /home/husarion/catkin_ws/devel/share/rosbag_storage/cmake/rosbag_storageConfig.cmake

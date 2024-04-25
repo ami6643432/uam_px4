@@ -1,0 +1,1 @@
+/home/husarion/catkin_ws/devel/.private/test_rostopic/share/roseus/ros/test_rostopic/msg/TVals.l

@@ -1,0 +1,5 @@
+Symlinking /home/husarion/catkin_dynamixel/devel/lib/libdynamixel_sdk.so
+Symlinking /home/husarion/catkin_dynamixel/devel/lib/pkgconfig/dynamixel_sdk.pc
+Symlinking /home/husarion/catkin_dynamixel/devel/lib/python2.7/dist-packages/dynamixel_sdk/__init__.py
+Symlinking /home/husarion/catkin_dynamixel/devel/share/dynamixel_sdk/cmake/dynamixel_sdkConfig-version.cmake
+Symlinking /home/husarion/catkin_dynamixel/devel/share/dynamixel_sdk/cmake/dynamixel_sdkConfig.cmake

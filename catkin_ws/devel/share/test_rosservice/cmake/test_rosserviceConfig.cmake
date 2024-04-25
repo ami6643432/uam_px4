@@ -1,0 +1,1 @@
+/home/husarion/catkin_ws/devel/.private/test_rosservice/share/test_rosservice/cmake/test_rosserviceConfig.cmake

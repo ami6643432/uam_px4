@@ -1,0 +1,8 @@
+prefix=/home/husarion/catkin_ws/devel/.private/roscpp
+
+Name: roscpp
+Description: Description of roscpp
+Version: 1.14.12
+Cflags: -I/home/husarion/catkin_ws/devel/.private/roscpp/include -I/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/include -I/home/husarion/catkin_ws/devel/.private/roscpp/include/ros -I/usr/include
+Libs: -L${prefix}/lib -lroscpp -lpthread /usr/lib/arm-linux-gnueabihf/libboost_chrono.so /usr/lib/arm-linux-gnueabihf/libboost_filesystem.so /usr/lib/arm-linux-gnueabihf/libboost_system.so
+Requires: cpp_common message_runtime rosconsole roscpp_serialization roscpp_traits rosgraph_msgs rostime std_msgs xmlrpcpp

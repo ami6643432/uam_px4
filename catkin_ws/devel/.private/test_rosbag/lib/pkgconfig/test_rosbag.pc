@@ -1,0 +1,8 @@
+prefix=/home/husarion/catkin_ws/devel/.private/test_rosbag
+
+Name: test_rosbag
+Description: Description of test_rosbag
+Version: 1.14.12
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

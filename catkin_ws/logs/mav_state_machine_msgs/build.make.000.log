@@ -1,0 +1,70 @@
+-- Using CATKIN_DEVEL_PREFIX: /home/husarion/catkin_ws/devel/.private/mav_state_machine_msgs
+-- Using CMAKE_PREFIX_PATH: /home/husarion/catkin_ws/devel;/opt/ros/melodic
+-- This workspace overlays: /home/husarion/catkin_ws/devel;/opt/ros/melodic
+-- Found PythonInterp: /usr/bin/python2 (found suitable version "2.7.17", minimum required is "2") 
+-- Using PYTHON_EXECUTABLE: /usr/bin/python2
+-- Using Debian Python package layout
+-- Using empy: /usr/bin/empy
+-- Using CATKIN_ENABLE_TESTING: ON
+-- Call enable_testing()
+-- Using CATKIN_TEST_RESULTS_DIR: /home/husarion/catkin_ws/build/mav_state_machine_msgs/test_results
+-- Found gtest sources under '/usr/src/googletest': gtests will be built
+-- Found gmock sources under '/usr/src/googletest': gmock will be built
+-- Found PythonInterp: /usr/bin/python2 (found version "2.7.17") 
+-- Using Python nosetests: /usr/bin/nosetests-2.7
+-- catkin 0.7.26
+-- BUILD_SHARED_LIBS is on
+-- Using these message generators: gencpp;geneus;genlisp;gennodejs;genpy
+-- mav_state_machine_msgs: 1 messages, 1 services
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/husarion/catkin_ws/build/mav_state_machine_msgs
+[35m[1mScanning dependencies of target _mav_state_machine_msgs_generate_messages_check_deps_StartStopTask[0m
+[  0%] Built target _mav_state_machine_msgs_generate_messages_check_deps_StartStopTask
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target _mav_state_machine_msgs_generate_messages_check_deps_RunTaskService[0m
+[  0%] Built target _mav_state_machine_msgs_generate_messages_check_deps_RunTaskService
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  0%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[  0%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target mav_state_machine_msgs_generate_messages_cpp[0m
+make[2]: Warning: File '/opt/ros/melodic/share/gencpp/msg.h.template' has modification time 66120796 s in the future
+[  7%] [34m[1mGenerating C++ code from mav_state_machine_msgs/StartStopTask.msg[0m
+[ 15%] [34m[1mGenerating C++ code from mav_state_machine_msgs/RunTaskService.srv[0m
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 15%] Built target mav_state_machine_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target mav_state_machine_msgs_generate_messages_nodejs[0m
+make[2]: Warning: File '/opt/ros/melodic/share/std_msgs/msg/Header.msg' has modification time 34588864 s in the future
+[ 23%] [34m[1mGenerating Javascript code from mav_state_machine_msgs/StartStopTask.msg[0m
+[ 30%] [34m[1mGenerating Javascript code from mav_state_machine_msgs/RunTaskService.srv[0m
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 30%] Built target mav_state_machine_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target mav_state_machine_msgs_generate_messages_lisp[0m
+make[2]: Warning: File '/opt/ros/melodic/share/std_msgs/msg/Header.msg' has modification time 34588864 s in the future
+[ 38%] [34m[1mGenerating Lisp code from mav_state_machine_msgs/StartStopTask.msg[0m
+[ 46%] [34m[1mGenerating Lisp code from mav_state_machine_msgs/RunTaskService.srv[0m
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 46%] Built target mav_state_machine_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target mav_state_machine_msgs_generate_messages_eus[0m
+make[2]: Warning: File '/opt/ros/melodic/share/std_msgs/msg/Header.msg' has modification time 34588863 s in the future
+[ 53%] [34m[1mGenerating EusLisp code from mav_state_machine_msgs/StartStopTask.msg[0m
+[ 61%] [34m[1mGenerating EusLisp code from mav_state_machine_msgs/RunTaskService.srv[0m
+[ 69%] [34m[1mGenerating EusLisp manifest code for mav_state_machine_msgs[0m
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 69%] Built target mav_state_machine_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target mav_state_machine_msgs_generate_messages_py[0m
+make[2]: Warning: File '/opt/ros/melodic/share/std_msgs/msg/Header.msg' has modification time 34588860 s in the future
+[ 76%] [34m[1mGenerating Python from MSG mav_state_machine_msgs/StartStopTask[0m
+[ 84%] [34m[1mGenerating Python code from SRV mav_state_machine_msgs/RunTaskService[0m
+[ 92%] [34m[1mGenerating Python msg __init__.py for mav_state_machine_msgs[0m
+[100%] [34m[1mGenerating Python srv __init__.py for mav_state_machine_msgs[0m
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[100%] Built target mav_state_machine_msgs_generate_messages_py
+[35m[1mScanning dependencies of target mav_state_machine_msgs_generate_messages[0m
+[100%] Built target mav_state_machine_msgs_generate_messages

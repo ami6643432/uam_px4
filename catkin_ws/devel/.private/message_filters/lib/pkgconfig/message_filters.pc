@@ -1,0 +1,8 @@
+prefix=/home/husarion/catkin_ws/devel/.private/message_filters
+
+Name: message_filters
+Description: Description of message_filters
+Version: 1.14.12
+Cflags: -I/home/husarion/catkin_ws/src/ros_comm/utilities/message_filters/include
+Libs: -L${prefix}/lib -lmessage_filters
+Requires: roscpp rosconsole

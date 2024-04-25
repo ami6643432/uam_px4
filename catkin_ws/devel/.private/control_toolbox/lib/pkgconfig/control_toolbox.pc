@@ -1,0 +1,8 @@
+prefix=/home/husarion/catkin_ws/devel/.private/control_toolbox
+
+Name: control_toolbox
+Description: Description of control_toolbox
+Version: 1.18.2
+Cflags: -I/home/husarion/catkin_ws/devel/.private/control_toolbox/include -I/home/husarion/catkin_ws/src/control_toolbox/include -I/usr/include
+Libs: -L${prefix}/lib -lcontrol_toolbox /usr/lib/arm-linux-gnueabihf/libtinyxml.so
+Requires: control_msgs dynamic_reconfigure message_runtime realtime_tools roscpp std_msgs

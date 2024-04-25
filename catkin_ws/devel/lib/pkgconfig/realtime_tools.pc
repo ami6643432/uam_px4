@@ -1,0 +1,1 @@
+/home/husarion/catkin_ws/devel/.private/realtime_tools/lib/pkgconfig/realtime_tools.pc

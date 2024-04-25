@@ -1,0 +1,6 @@
+devel_space: /home/husarion/catkin_traj/devel
+install: false
+install_space: /home/husarion/catkin_traj/install
+profile: default
+source_space: /home/husarion/catkin_traj/src
+workspace: /home/husarion/catkin_traj

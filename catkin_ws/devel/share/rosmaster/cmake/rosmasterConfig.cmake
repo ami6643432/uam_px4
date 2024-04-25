@@ -1,0 +1,1 @@
+/home/husarion/catkin_ws/devel/.private/rosmaster/share/rosmaster/cmake/rosmasterConfig.cmake

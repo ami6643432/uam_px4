@@ -1,0 +1,367 @@
+[35m[1mScanning dependencies of target _roscpp_generate_messages_check_deps_SetLoggerLevel[0m
+[  0%] Built target _roscpp_generate_messages_check_deps_SetLoggerLevel
+[35m[1mScanning dependencies of target _roscpp_generate_messages_check_deps_Empty[0m
+[  0%] Built target _roscpp_generate_messages_check_deps_Empty
+[35m[1mScanning dependencies of target _roscpp_generate_messages_check_deps_GetLoggers[0m
+[  0%] Built target _roscpp_generate_messages_check_deps_GetLoggers
+[35m[1mScanning dependencies of target _roscpp_generate_messages_check_deps_Logger[0m
+[  0%] Built target _roscpp_generate_messages_check_deps_Logger
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target _catkin_empty_exported_target[0m
+[  0%] Built target _catkin_empty_exported_target
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[  0%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  0%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[  1%] [34m[1mGenerating Javascript code from roscpp/Logger.msg[0m
+[  2%] [34m[1mGenerating Javascript code from roscpp/Empty.srv[0m
+[  4%] [34m[1mGenerating Javascript code from roscpp/GetLoggers.srv[0m
+[  5%] [34m[1mGenerating Javascript code from roscpp/SetLoggerLevel.srv[0m
+[  5%] Built target roscpp_generate_messages_nodejs
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[  6%] [34m[1mGenerating EusLisp code from roscpp/Logger.msg[0m
+[  8%] [34m[1mGenerating EusLisp code from roscpp/Empty.srv[0m
+[  9%] [34m[1mGenerating EusLisp code from roscpp/GetLoggers.srv[0m
+[ 11%] [34m[1mGenerating EusLisp code from roscpp/SetLoggerLevel.srv[0m
+[ 12%] [34m[1mGenerating EusLisp manifest code for roscpp[0m
+[ 12%] Built target roscpp_generate_messages_eus
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[ 13%] [34m[1mGenerating C++ code from roscpp/Logger.msg[0m
+[ 15%] [34m[1mGenerating C++ code from roscpp/Empty.srv[0m
+[ 16%] [34m[1mGenerating C++ code from roscpp/GetLoggers.srv[0m
+[ 18%] [34m[1mGenerating C++ code from roscpp/SetLoggerLevel.srv[0m
+[ 18%] Built target roscpp_generate_messages_cpp
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[ 19%] [34m[1mGenerating Python from MSG roscpp/Logger[0m
+[ 20%] [34m[1mGenerating Python code from SRV roscpp/Empty[0m
+[ 22%] [34m[1mGenerating Python code from SRV roscpp/GetLoggers[0m
+[ 23%] [34m[1mGenerating Python code from SRV roscpp/SetLoggerLevel[0m
+[ 25%] [34m[1mGenerating Python msg __init__.py for roscpp[0m
+[ 26%] [34m[1mGenerating Python srv __init__.py for roscpp[0m
+[ 26%] Built target roscpp_generate_messages_py
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[ 27%] [34m[1mGenerating Lisp code from roscpp/Logger.msg[0m
+[ 29%] [34m[1mGenerating Lisp code from roscpp/Empty.srv[0m
+[ 30%] [34m[1mGenerating Lisp code from roscpp/GetLoggers.srv[0m
+[ 31%] [34m[1mGenerating Lisp code from roscpp/SetLoggerLevel.srv[0m
+[ 31%] Built target roscpp_generate_messages_lisp
+[35m[1mScanning dependencies of target roscpp_generate_messages[0m
+[ 31%] Built target roscpp_generate_messages
+[35m[1mScanning dependencies of target roscpp[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/master.cpp.o[0m
+[ 34%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/network.cpp.o[0m
+[ 36%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/subscriber.cpp.o[0m
+[ 37%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/common.cpp.o[0m
+[ 38%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/publisher_link.cpp.o[0m
+[ 40%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/service_publication.cpp.o[0m
+[ 41%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/connection.cpp.o[0m
+[ 43%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/single_subscriber_publisher.cpp.o[0m
+[ 44%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/param.cpp.o[0m
+[ 45%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/service_server.cpp.o[0m
+In file included from [01m[K/usr/include/c++/7/map:61:0[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/include/ros/forwards.h:33[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/include/ros/param.h:31[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/src/libros/param.cpp:28[m[K:
+[01m[K/usr/include/c++/7/bits/stl_map.h:[m[K In member function '[01m[Kstd::map<_Key, _Tp, _Compare, _Alloc>::mapped_type& std::map<_Key, _Tp, _Compare, _Alloc>::operator[](const key_type&) [with _Key = std::__cxx11::basic_string<char>; _Tp = double; _Compare = std::less<std::__cxx11::basic_string<char> >; _Alloc = std::allocator<std::pair<const std::__cxx11::basic_string<char>, double> >][m[K':
+[01m[K/usr/include/c++/7/bits/stl_map.h:493:4:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::_Rb_tree<std::__cxx11::basic_string<char>, std::pair<const std::__cxx11::basic_string<char>, double>, std::_Select1st<std::pair<const std::__cxx11::basic_string<char>, double> >, std::less<std::__cxx11::basic_string<char> >, std::allocator<std::pair<const std::__cxx11::basic_string<char>, double> > >::const_iterator {aka std::_Rb_tree_const_iterator<std::pair<const std::__cxx11::basic_string<char>, double> >}[m[K' changed in GCC 7.1
+    [01;36m[K__i[m[K = _M_t._M_emplace_hint_unique(__i, std::piecewise_construct,
+    [01;36m[K^~~[m[K
+In file included from [01m[K/usr/include/c++/7/map:60:0[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/include/ros/forwards.h:33[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/include/ros/param.h:31[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/src/libros/param.cpp:28[m[K:
+[01m[K/usr/include/c++/7/bits/stl_tree.h:[m[K In member function '[01m[Kstd::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::iterator std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::_M_emplace_hint_unique(std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::const_iterator, _Args&& ...) [with _Args = {const std::piecewise_construct_t&, std::tuple<const std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >&>, std::tuple<>}; _Key = std::__cxx11::basic_string<char>; _Val = std::pair<const std::__cxx11::basic_string<char>, double>; _KeyOfValue = std::_Select1st<std::pair<const std::__cxx11::basic_string<char>, double> >; _Compare = std::less<std::__cxx11::basic_string<char> >; _Alloc = std::allocator<std::pair<const std::__cxx11::basic_string<char>, double> >][m[K':
+[01m[K/usr/include/c++/7/bits/stl_tree.h:2395:7:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::_Rb_tree<std::__cxx11::basic_string<char>, std::pair<const std::__cxx11::basic_string<char>, double>, std::_Select1st<std::pair<const std::__cxx11::basic_string<char>, double> >, std::less<std::__cxx11::basic_string<char> >, std::allocator<std::pair<const std::__cxx11::basic_string<char>, double> > >::const_iterator {aka std::_Rb_tree_const_iterator<std::pair<const std::__cxx11::basic_string<char>, double> >}[m[K' changed in GCC 7.1
+       [01;36m[K_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>[m[K::
+       [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/c++/7/vector:63:0[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/include/ros/forwards.h:32[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/include/ros/param.h:31[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/src/libros/param.cpp:28[m[K:
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:[m[K In function '[01m[K_ForwardIterator std::__uninitialized_move_if_noexcept_a(_InputIterator, _InputIterator, _ForwardIterator, _Allocator&) [with _InputIterator = double*; _ForwardIterator = double*; _Allocator = std::allocator<double>][m[K':
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:312:69:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<double*>[m[K' changed in GCC 7.1
+   _GLIBCXX_MAKE_MOVE_IF_NOEXCEPT_ITERATOR(__last), __result, __alloc[01;36m[K)[m[K;
+                                                                     [01;36m[K^[m[K
+In file included from [01m[K/usr/include/c++/7/map:60:0[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/include/ros/forwards.h:33[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/include/ros/param.h:31[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/src/libros/param.cpp:28[m[K:
+[01m[K/usr/include/c++/7/bits/stl_tree.h:[m[K In member function '[01m[Kstd::pair<std::_Rb_tree_node_base*, std::_Rb_tree_node_base*> std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::_M_get_insert_hint_unique_pos(std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::const_iterator, const key_type&) [with _Key = std::__cxx11::basic_string<char>; _Val = std::pair<const std::__cxx11::basic_string<char>, double>; _KeyOfValue = std::_Select1st<std::pair<const std::__cxx11::basic_string<char>, double> >; _Compare = std::less<std::__cxx11::basic_string<char> >; _Alloc = std::allocator<std::pair<const std::__cxx11::basic_string<char>, double> >][m[K':
+[01m[K/usr/include/c++/7/bits/stl_tree.h:2130:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::_Rb_tree<std::__cxx11::basic_string<char>, std::pair<const std::__cxx11::basic_string<char>, double>, std::_Select1st<std::pair<const std::__cxx11::basic_string<char>, double> >, std::less<std::__cxx11::basic_string<char> >, std::allocator<std::pair<const std::__cxx11::basic_string<char>, double> > >::const_iterator {aka std::_Rb_tree_const_iterator<std::pair<const std::__cxx11::basic_string<char>, double> >}[m[K' changed in GCC 7.1
+     [01;36m[K_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>[m[K::
+     [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/c++/7/vector:63:0[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/include/ros/forwards.h:32[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/include/ros/param.h:31[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/src/libros/param.cpp:28[m[K:
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:[m[K In function '[01m[K_ForwardIterator std::__uninitialized_copy_a(_InputIterator, _InputIterator, _ForwardIterator, std::allocator<_Tp>&) [with _InputIterator = std::move_iterator<double*>; _ForwardIterator = double*; _Tp = double][m[K':
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:287:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<double*>[m[K' changed in GCC 7.1
+     [01;36m[K__uninitialized_copy_a[m[K(_InputIterator __first, _InputIterator __last,
+     [01;36m[K^~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:287:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<double*>[m[K' changed in GCC 7.1
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:289:63:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<double*>[m[K' changed in GCC 7.1
+     { return std::uninitialized_copy(__first, __last, __result[01;36m[K)[m[K; }
+                                                               [01;36m[K^[m[K
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:[m[K In function '[01m[K_ForwardIterator std::uninitialized_copy(_InputIterator, _InputIterator, _ForwardIterator) [with _InputIterator = std::move_iterator<double*>; _ForwardIterator = double*][m[K':
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:115:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<double*>[m[K' changed in GCC 7.1
+     [01;36m[Kuninitialized_copy[m[K(_InputIterator __first, _InputIterator __last,
+     [01;36m[K^~~~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:115:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<double*>[m[K' changed in GCC 7.1
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:134:41:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<double*>[m[K' changed in GCC 7.1
+  __uninit_copy(__first, __last, __result[01;36m[K)[m[K;
+                                         [01;36m[K^[m[K
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:[m[K In static member function '[01m[Kstatic _ForwardIterator std::__uninitialized_copy<true>::__uninit_copy(_InputIterator, _InputIterator, _ForwardIterator) [with _InputIterator = std::move_iterator<double*>; _ForwardIterator = double*][m[K':
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:99:9:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<double*>[m[K' changed in GCC 7.1
+         [01;36m[K__uninit_copy[m[K(_InputIterator __first, _InputIterator __last,
+         [01;36m[K^~~~~~~~~~~~~[m[K
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:99:9:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<double*>[m[K' changed in GCC 7.1
+[01m[K/usr/include/c++/7/bits/stl_uninitialized.h:101:53:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<double*>[m[K' changed in GCC 7.1
+         { return std::copy(__first, __last, __result[01;36m[K)[m[K; }
+                                                     [01;36m[K^[m[K
+In file included from [01m[K/usr/include/c++/7/bits/char_traits.h:39:0[m[K,
+                 from [01m[K/usr/include/c++/7/string:40[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/include/ros/forwards.h:31[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/include/ros/param.h:31[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/src/libros/param.cpp:28[m[K:
+[01m[K/usr/include/c++/7/bits/stl_algobase.h:[m[K In function '[01m[K_OI std::copy(_II, _II, _OI) [with _II = std::move_iterator<double*>; _OI = double*][m[K':
+[01m[K/usr/include/c++/7/bits/stl_algobase.h:446:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<double*>[m[K' changed in GCC 7.1
+     [01;36m[Kcopy[m[K(_II __first, _II __last, _OI __result)
+     [01;36m[K^~~~[m[K
+[01m[K/usr/include/c++/7/bits/stl_algobase.h:446:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<double*>[m[K' changed in GCC 7.1
+In file included from [01m[K/usr/include/c++/7/bits/stl_algobase.h:67:0[m[K,
+                 from [01m[K/usr/include/c++/7/bits/char_traits.h:39[m[K,
+                 from [01m[K/usr/include/c++/7/string:40[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/include/ros/forwards.h:31[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/include/ros/param.h:31[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/src/libros/param.cpp:28[m[K:
+[01m[K/usr/include/c++/7/bits/stl_iterator.h:[m[K In function '[01m[Kdecltype (std::__miter_base(__it.base())) std::__miter_base(std::move_iterator<_IteratorL>) [with _Iterator = double*][m[K':
+[01m[K/usr/include/c++/7/bits/stl_iterator.h:1244:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::move_iterator<double*>[m[K' changed in GCC 7.1
+     [01;36m[K__miter_base[m[K(move_iterator<_Iterator> __it)
+     [01;36m[K^~~~~~~~~~~~[m[K
+[ 47%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/wall_timer.cpp.o[0m
+[ 48%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/xmlrpc_manager.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/publisher.cpp.o[0m
+[ 51%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/timer.cpp.o[0m
+[ 52%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/io.cpp.o[0m
+[ 54%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/names.cpp.o[0m
+[ 55%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/topic.cpp.o[0m
+[ 56%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/topic_manager.cpp.o[0m
+[ 58%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/poll_manager.cpp.o[0m
+[ 59%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/publication.cpp.o[0m
+[ 61%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/statistics.cpp.o[0m
+In file included from [01m[K/opt/ros/melodic/include/ros/assert.h:35:0[m[K,
+                 from [01m[K/home/husarion/catkin_ws/devel/.private/roscpp/include/ros/common.h:36[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/include/ros/io.h:45[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/include/ros/poll_set.h:39[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/include/ros/statistics.h:32[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/src/libros/statistics.cpp:28[m[K:
+[01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/src/libros/statistics.cpp:[m[K In member function '[01m[Kvoid ros::StatisticsLogger::callback(const boost::shared_ptr<std::map<std::__cxx11::basic_string<char>, std::__cxx11::basic_string<char> > >&, const string&, const string&, const ros::SerializedMessage&, const uint64_t&, const ros::Time&, bool)[m[K':
+[01m[K/opt/ros/melodic/include/ros/console.h:348:176:[m[K [01;35m[Kwarning: [m[Kformat '[01m[K%li[m[K' expects argument of type '[01m[Klong int[m[K', but argument 9 has type '[01m[Kunsigned int[m[K' [[01;35m[K-Wformat=[m[K]
+     ::ros::console::print(filter, __rosconsole_define_location__loc.logger_, __rosconsole_define_location__loc.level_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, __VA_ARGS__[01;35m[K)[m[K
+                                                                                                                                                                                [01;35m[K^[m[K
+[01m[K/opt/ros/melodic/include/ros/console.h:351:5:[m[K [01;36m[Knote: [m[Kin expansion of macro '[01m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K'
+     [01;36m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K(NULL, __VA_ARGS__)
+     [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/melodic/include/ros/console.h:387:7:[m[K [01;36m[Knote: [m[Kin expansion of macro '[01m[KROSCONSOLE_PRINT_AT_LOCATION[m[K'
+       [01;36m[KROSCONSOLE_PRINT_AT_LOCATION[m[K(__VA_ARGS__); \
+       [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/melodic/include/ros/console.h:572:35:[m[K [01;36m[Knote: [m[Kin expansion of macro '[01m[KROS_LOG_COND[m[K'
+ #define ROS_LOG(level, name, ...) [01;36m[KROS_LOG_COND[m[K(true, level, name, __VA_ARGS__)
+                                   [01;36m[K^~~~~~~~~~~~[m[K
+[01m[K/opt/ros/melodic/include/rosconsole/macros_generated.h:58:24:[m[K [01;36m[Knote: [m[Kin expansion of macro '[01m[KROS_LOG[m[K'
+ #define ROS_DEBUG(...) [01;36m[KROS_LOG[m[K(::ros::console::levels::Debug, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
+                        [01;36m[K^~~~~~~[m[K
+[01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/src/libros/statistics.cpp:110:7:[m[K [01;36m[Knote: [m[Kin expansion of macro '[01m[KROS_DEBUG[m[K'
+       [01;36m[KR[m[KOS_DEBUG("Error during header extraction for statistics (topic=%s, message_length=%li)", topic.c_str(), m.num_bytes - (m.message_start - m.buf.get()));
+       [01;36m[K^[m[K
+In file included from [01m[K/usr/include/c++/7/map:61:0[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/include/ros/forwards.h:33[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/include/ros/statistics.h:31[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/src/libros/statistics.cpp:28[m[K:
+[01m[K/usr/include/c++/7/bits/stl_map.h:[m[K In member function '[01m[Kstd::map<_Key, _Tp, _Compare, _Alloc>::mapped_type& std::map<_Key, _Tp, _Compare, _Alloc>::operator[](const key_type&) [with _Key = std::__cxx11::basic_string<char>; _Tp = ros::StatisticsLogger::StatData; _Compare = std::less<std::__cxx11::basic_string<char> >; _Alloc = std::allocator<std::pair<const std::__cxx11::basic_string<char>, ros::StatisticsLogger::StatData> >][m[K':
+[01m[K/usr/include/c++/7/bits/stl_map.h:493:4:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::_Rb_tree<std::__cxx11::basic_string<char>, std::pair<const std::__cxx11::basic_string<char>, ros::StatisticsLogger::StatData>, std::_Select1st<std::pair<const std::__cxx11::basic_string<char>, ros::StatisticsLogger::StatData> >, std::less<std::__cxx11::basic_string<char> >, std::allocator<std::pair<const std::__cxx11::basic_string<char>, ros::StatisticsLogger::StatData> > >::const_iterator {aka std::_Rb_tree_const_iterator<std::pair<const std::__cxx11::basic_string<char>, ros::StatisticsLogger::StatData> >}[m[K' changed in GCC 7.1
+    [01;36m[K__i[m[K = _M_t._M_emplace_hint_unique(__i, std::piecewise_construct,
+    [01;36m[K^~~[m[K
+In file included from [01m[K/usr/include/c++/7/map:60:0[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/include/ros/forwards.h:33[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/include/ros/statistics.h:31[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/src/libros/statistics.cpp:28[m[K:
+[01m[K/usr/include/c++/7/bits/stl_tree.h:[m[K In member function '[01m[Kstd::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::iterator std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::_M_emplace_hint_unique(std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::const_iterator, _Args&& ...) [with _Args = {const std::piecewise_construct_t&, std::tuple<const std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >&>, std::tuple<>}; _Key = std::__cxx11::basic_string<char>; _Val = std::pair<const std::__cxx11::basic_string<char>, ros::StatisticsLogger::StatData>; _KeyOfValue = std::_Select1st<std::pair<const std::__cxx11::basic_string<char>, ros::StatisticsLogger::StatData> >; _Compare = std::less<std::__cxx11::basic_string<char> >; _Alloc = std::allocator<std::pair<const std::__cxx11::basic_string<char>, ros::StatisticsLogger::StatData> >][m[K':
+[01m[K/usr/include/c++/7/bits/stl_tree.h:2395:7:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::_Rb_tree<std::__cxx11::basic_string<char>, std::pair<const std::__cxx11::basic_string<char>, ros::StatisticsLogger::StatData>, std::_Select1st<std::pair<const std::__cxx11::basic_string<char>, ros::StatisticsLogger::StatData> >, std::less<std::__cxx11::basic_string<char> >, std::allocator<std::pair<const std::__cxx11::basic_string<char>, ros::StatisticsLogger::StatData> > >::const_iterator {aka std::_Rb_tree_const_iterator<std::pair<const std::__cxx11::basic_string<char>, ros::StatisticsLogger::StatData> >}[m[K' changed in GCC 7.1
+       [01;36m[K_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>[m[K::
+       [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/c++/7/bits/stl_tree.h:[m[K In member function '[01m[Kstd::pair<std::_Rb_tree_node_base*, std::_Rb_tree_node_base*> std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::_M_get_insert_hint_unique_pos(std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::const_iterator, const key_type&) [with _Key = std::__cxx11::basic_string<char>; _Val = std::pair<const std::__cxx11::basic_string<char>, ros::StatisticsLogger::StatData>; _KeyOfValue = std::_Select1st<std::pair<const std::__cxx11::basic_string<char>, ros::StatisticsLogger::StatData> >; _Compare = std::less<std::__cxx11::basic_string<char> >; _Alloc = std::allocator<std::pair<const std::__cxx11::basic_string<char>, ros::StatisticsLogger::StatData> >][m[K':
+[01m[K/usr/include/c++/7/bits/stl_tree.h:2130:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::_Rb_tree<std::__cxx11::basic_string<char>, std::pair<const std::__cxx11::basic_string<char>, ros::StatisticsLogger::StatData>, std::_Select1st<std::pair<const std::__cxx11::basic_string<char>, ros::StatisticsLogger::StatData> >, std::less<std::__cxx11::basic_string<char> >, std::allocator<std::pair<const std::__cxx11::basic_string<char>, ros::StatisticsLogger::StatData> > >::const_iterator {aka std::_Rb_tree_const_iterator<std::pair<const std::__cxx11::basic_string<char>, ros::StatisticsLogger::StatData> >}[m[K' changed in GCC 7.1
+     [01;36m[K_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>[m[K::
+     [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[ 62%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/intraprocess_subscriber_link.cpp.o[0m
+[ 63%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/intraprocess_publisher_link.cpp.o[0m
+[ 65%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/callback_queue.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/service_server_link.cpp.o[0m
+[01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/src/libros/callback_queue.cpp:[m[K In member function '[01m[Kvirtual void ros::CallbackQueue::removeByID(uint64_t)[m[K':
+[01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/src/libros/callback_queue.cpp:182:34:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::deque<ros::CallbackQueue::CallbackInfo>::const_iterator {aka std::_Deque_iterator<ros::CallbackQueue::CallbackInfo, const ros::CallbackQueue::CallbackInfo&, const ros::CallbackQueue::CallbackInfo*>}[m[K' changed in GCC 7.1
+             it = [01;36m[Kcallbacks_.erase(it)[m[K;
+                  [01;36m[K~~~~~~~~~~~~~~~~^~~~[m[K
+[01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/src/libros/callback_queue.cpp:[m[K In member function '[01m[Kros::CallbackQueue::CallOneResult ros::CallbackQueue::callOne(ros::WallDuration)[m[K':
+[01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/src/libros/callback_queue.cpp:258:32:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::deque<ros::CallbackQueue::CallbackInfo>::const_iterator {aka std::_Deque_iterator<ros::CallbackQueue::CallbackInfo, const ros::CallbackQueue::CallbackInfo&, const ros::CallbackQueue::CallbackInfo*>}[m[K' changed in GCC 7.1
+           it = [01;36m[Kcallbacks_.erase(it)[m[K;
+                [01;36m[K~~~~~~~~~~~~~~~~^~~~[m[K
+[01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/src/libros/callback_queue.cpp:265:32:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::deque<ros::CallbackQueue::CallbackInfo>::const_iterator {aka std::_Deque_iterator<ros::CallbackQueue::CallbackInfo, const ros::CallbackQueue::CallbackInfo&, const ros::CallbackQueue::CallbackInfo*>}[m[K' changed in GCC 7.1
+           it = [01;36m[Kcallbacks_.erase(it)[m[K;
+                [01;36m[K~~~~~~~~~~~~~~~~^~~~[m[K
+[01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/src/libros/callback_queue.cpp:[m[K In member function '[01m[Kvoid ros::CallbackQueue::callAvailable(ros::WallDuration)[m[K':
+[01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/src/libros/callback_queue.cpp:346:26:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::deque<ros::CallbackQueue::CallbackInfo>::const_iterator {aka std::_Deque_iterator<ros::CallbackQueue::CallbackInfo, const ros::CallbackQueue::CallbackInfo&, const ros::CallbackQueue::CallbackInfo*>}[m[K' changed in GCC 7.1
+     [01;36m[Ktls->callbacks.insert(tls->callbacks.end(), callbacks_.begin(), callbacks_.end())[m[K;
+     [01;36m[K~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/src/libros/callback_queue.cpp:[m[K In member function '[01m[Kros::CallbackQueue::CallOneResult ros::CallbackQueue::callOneCB(ros::CallbackQueue::TLS*)[m[K':
+[01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/src/libros/callback_queue.cpp:415:42:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::deque<ros::CallbackQueue::CallbackInfo>::const_iterator {aka std::_Deque_iterator<ros::CallbackQueue::CallbackInfo, const ros::CallbackQueue::CallbackInfo&, const ros::CallbackQueue::CallbackInfo*>}[m[K' changed in GCC 7.1
+         tls->cb_it = [01;36m[Ktls->callbacks.erase(tls->cb_it)[m[K;
+                      [01;36m[K~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~[m[K
+[01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/src/libros/callback_queue.cpp:419:42:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::deque<ros::CallbackQueue::CallbackInfo>::const_iterator {aka std::_Deque_iterator<ros::CallbackQueue::CallbackInfo, const ros::CallbackQueue::CallbackInfo&, const ros::CallbackQueue::CallbackInfo*>}[m[K' changed in GCC 7.1
+         tls->cb_it = [01;36m[Ktls->callbacks.erase(tls->cb_it)[m[K;
+                      [01;36m[K~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~[m[K
+[01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/src/libros/callback_queue.cpp:441:38:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::deque<ros::CallbackQueue::CallbackInfo>::const_iterator {aka std::_Deque_iterator<ros::CallbackQueue::CallbackInfo, const ros::CallbackQueue::CallbackInfo&, const ros::CallbackQueue::CallbackInfo*>}[m[K' changed in GCC 7.1
+     tls->cb_it = [01;36m[Ktls->callbacks.erase(tls->cb_it)[m[K;
+                  [01;36m[K~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/c++/7/deque:64:0[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/include/ros/callback_queue.h:49[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/src/libros/callback_queue.cpp:35[m[K:
+[01m[K/usr/include/c++/7/bits/stl_deque.h:[m[K In member function '[01m[Kstd::deque<_Tp, _Alloc>::iterator std::deque<_Tp, _Alloc>::erase(std::deque<_Tp, _Alloc>::const_iterator) [with _Tp = ros::CallbackQueue::CallbackInfo; _Alloc = std::allocator<ros::CallbackQueue::CallbackInfo>][m[K':
+[01m[K/usr/include/c++/7/bits/stl_deque.h:1780:7:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::deque<ros::CallbackQueue::CallbackInfo>::const_iterator {aka std::_Deque_iterator<ros::CallbackQueue::CallbackInfo, const ros::CallbackQueue::CallbackInfo&, const ros::CallbackQueue::CallbackInfo*>}[m[K' changed in GCC 7.1
+       [01;36m[Kerase[m[K(const_iterator __position)
+       [01;36m[K^~~~~[m[K
+[01m[K/usr/include/c++/7/bits/stl_deque.h:[m[K In member function '[01m[Kstd::deque<_Tp, _Alloc>::iterator std::deque<_Tp, _Alloc>::insert(std::deque<_Tp, _Alloc>::const_iterator, _InputIterator, _InputIterator) [with _InputIterator = std::_Deque_iterator<ros::CallbackQueue::CallbackInfo, ros::CallbackQueue::CallbackInfo&, ros::CallbackQueue::CallbackInfo*>; <template-parameter-2-2> = void; _Tp = ros::CallbackQueue::CallbackInfo; _Alloc = std::allocator<ros::CallbackQueue::CallbackInfo>][m[K':
+[01m[K/usr/include/c++/7/bits/stl_deque.h:1735:2:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::deque<ros::CallbackQueue::CallbackInfo>::const_iterator {aka std::_Deque_iterator<ros::CallbackQueue::CallbackInfo, const ros::CallbackQueue::CallbackInfo&, const ros::CallbackQueue::CallbackInfo*>}[m[K' changed in GCC 7.1
+  [01;36m[Kinsert[m[K(const_iterator __position, _InputIterator __first,
+  [01;36m[K^~~~~~[m[K
+In file included from [01m[K/usr/include/c++/7/map:60:0[m[K,
+                 from [01m[K/opt/ros/melodic/include/ros/console.h:42[m[K,
+                 from [01m[K/opt/ros/melodic/include/ros/assert.h:35[m[K,
+                 from [01m[K/home/husarion/catkin_ws/devel/.private/roscpp/include/ros/common.h:36[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/include/ros/callback_queue_interface.h:39[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/include/ros/callback_queue.h:38[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/src/libros/callback_queue.cpp:35[m[K:
+[01m[K/usr/include/c++/7/bits/stl_tree.h:[m[K In member function '[01m[Kstd::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::size_type std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::erase(const _Key&) [with _Key = long long unsigned int; _Val = std::pair<const long long unsigned int, boost::shared_ptr<ros::CallbackQueue::IDInfo> >; _KeyOfValue = std::_Select1st<std::pair<const long long unsigned int, boost::shared_ptr<ros::CallbackQueue::IDInfo> > >; _Compare = std::less<long long unsigned int>; _Alloc = std::allocator<std::pair<const long long unsigned int, boost::shared_ptr<ros::CallbackQueue::IDInfo> > >][m[K':
+[01m[K/usr/include/c++/7/bits/stl_tree.h:2502:19:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::_Rb_tree<long long unsigned int, std::pair<const long long unsigned int, boost::shared_ptr<ros::CallbackQueue::IDInfo> >, std::_Select1st<std::pair<const long long unsigned int, boost::shared_ptr<ros::CallbackQueue::IDInfo> > >, std::less<long long unsigned int>, std::allocator<std::pair<const long long unsigned int, boost::shared_ptr<ros::CallbackQueue::IDInfo> > > >::const_iterator {aka std::_Rb_tree_const_iterator<std::pair<const long long unsigned int, boost::shared_ptr<ros::CallbackQueue::IDInfo> > >}[m[K' changed in GCC 7.1
+       [01;36m[K_M_erase_aux(__p.first, __p.second)[m[K;
+       [01;36m[K~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/c++/7/deque:64:0[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/include/ros/callback_queue.h:49[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/src/libros/callback_queue.cpp:35[m[K:
+[01m[K/usr/include/c++/7/bits/stl_deque.h:[m[K In function '[01m[Kstd::_Deque_iterator<_Tp, _Tp&, _Tp*> std::move_backward(std::_Deque_iterator<_Tp, _Tp&, _Tp*>, std::_Deque_iterator<_Tp, _Tp&, _Tp*>, std::_Deque_iterator<_Tp, _Tp&, _Tp*>) [with _Tp = ros::CallbackQueue::CallbackInfo][m[K':
+[01m[K/usr/include/c++/7/bits/stl_deque.h:446:13:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::_Deque_iterator<ros::CallbackQueue::CallbackInfo, const ros::CallbackQueue::CallbackInfo&, const ros::CallbackQueue::CallbackInfo*>[m[K' changed in GCC 7.1
+     __result[01;36m[K)[m[K; }
+             [01;36m[K^[m[K
+[01m[K/usr/include/c++/7/bits/stl_deque.h:446:13:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::_Deque_iterator<ros::CallbackQueue::CallbackInfo, const ros::CallbackQueue::CallbackInfo&, const ros::CallbackQueue::CallbackInfo*>[m[K' changed in GCC 7.1
+[01m[K/usr/include/c++/7/bits/stl_deque.h:446:13:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::_Deque_iterator<ros::CallbackQueue::CallbackInfo, const ros::CallbackQueue::CallbackInfo&, const ros::CallbackQueue::CallbackInfo*>[m[K' changed in GCC 7.1
+[01m[K/usr/include/c++/7/bits/stl_deque.h:[m[K In function '[01m[Kstd::_Deque_iterator<_Tp, _Tp&, _Tp*> std::move(std::_Deque_iterator<_Tp, _Tp&, _Tp*>, std::_Deque_iterator<_Tp, _Tp&, _Tp*>, std::_Deque_iterator<_Tp, _Tp&, _Tp*>) [with _Tp = ros::CallbackQueue::CallbackInfo][m[K':
+[01m[K/usr/include/c++/7/bits/stl_deque.h:429:18:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::_Deque_iterator<ros::CallbackQueue::CallbackInfo, const ros::CallbackQueue::CallbackInfo&, const ros::CallbackQueue::CallbackInfo*>[m[K' changed in GCC 7.1
+          __result[01;36m[K)[m[K; }
+                  [01;36m[K^[m[K
+[01m[K/usr/include/c++/7/bits/stl_deque.h:429:18:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::_Deque_iterator<ros::CallbackQueue::CallbackInfo, const ros::CallbackQueue::CallbackInfo&, const ros::CallbackQueue::CallbackInfo*>[m[K' changed in GCC 7.1
+[01m[K/usr/include/c++/7/bits/stl_deque.h:429:18:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::_Deque_iterator<ros::CallbackQueue::CallbackInfo, const ros::CallbackQueue::CallbackInfo&, const ros::CallbackQueue::CallbackInfo*>[m[K' changed in GCC 7.1
+In file included from [01m[K/usr/include/c++/7/map:60:0[m[K,
+                 from [01m[K/opt/ros/melodic/include/ros/console.h:42[m[K,
+                 from [01m[K/opt/ros/melodic/include/ros/assert.h:35[m[K,
+                 from [01m[K/home/husarion/catkin_ws/devel/.private/roscpp/include/ros/common.h:36[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/include/ros/callback_queue_interface.h:39[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/include/ros/callback_queue.h:38[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/src/libros/callback_queue.cpp:35[m[K:
+[01m[K/usr/include/c++/7/bits/stl_tree.h:[m[K In member function '[01m[Kvoid std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::_M_erase_aux(std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::const_iterator, std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::const_iterator) [with _Key = long long unsigned int; _Val = std::pair<const long long unsigned int, boost::shared_ptr<ros::CallbackQueue::IDInfo> >; _KeyOfValue = std::_Select1st<std::pair<const long long unsigned int, boost::shared_ptr<ros::CallbackQueue::IDInfo> > >; _Compare = std::less<long long unsigned int>; _Alloc = std::allocator<std::pair<const long long unsigned int, boost::shared_ptr<ros::CallbackQueue::IDInfo> > >][m[K':
+[01m[K/usr/include/c++/7/bits/stl_tree.h:2484:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::_Rb_tree<long long unsigned int, std::pair<const long long unsigned int, boost::shared_ptr<ros::CallbackQueue::IDInfo> >, std::_Select1st<std::pair<const long long unsigned int, boost::shared_ptr<ros::CallbackQueue::IDInfo> > >, std::less<long long unsigned int>, std::allocator<std::pair<const long long unsigned int, boost::shared_ptr<ros::CallbackQueue::IDInfo> > > >::const_iterator {aka std::_Rb_tree_const_iterator<std::pair<const long long unsigned int, boost::shared_ptr<ros::CallbackQueue::IDInfo> > >}[m[K' changed in GCC 7.1
+     [01;36m[K_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>[m[K::
+     [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/c++/7/bits/stl_tree.h:2484:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::_Rb_tree<long long unsigned int, std::pair<const long long unsigned int, boost::shared_ptr<ros::CallbackQueue::IDInfo> >, std::_Select1st<std::pair<const long long unsigned int, boost::shared_ptr<ros::CallbackQueue::IDInfo> > >, std::less<long long unsigned int>, std::allocator<std::pair<const long long unsigned int, boost::shared_ptr<ros::CallbackQueue::IDInfo> > > >::const_iterator {aka std::_Rb_tree_const_iterator<std::pair<const long long unsigned int, boost::shared_ptr<ros::CallbackQueue::IDInfo> > >}[m[K' changed in GCC 7.1
+[01m[K/usr/include/c++/7/bits/stl_tree.h:2491:16:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::_Rb_tree_const_iterator<std::pair<const long long unsigned int, boost::shared_ptr<ros::CallbackQueue::IDInfo> > >[m[K' changed in GCC 7.1
+    [01;36m[K_M_erase_aux(__first++)[m[K;
+    [01;36m[K~~~~~~~~~~~~^~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/c++/7/deque:66:0[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/include/ros/callback_queue.h:49[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/src/libros/callback_queue.cpp:35[m[K:
+[01m[K/usr/include/c++/7/bits/deque.tcc:[m[K In function '[01m[Kstd::_Deque_iterator<_Tp, _Tp&, _Tp*> std::move_backward(std::_Deque_iterator<_Tp, const _Tp&, const _Tp*>, std::_Deque_iterator<_Tp, const _Tp&, const _Tp*>, std::_Deque_iterator<_Tp, _Tp&, _Tp*>) [with _Tp = ros::CallbackQueue::CallbackInfo][m[K':
+[01m[K/usr/include/c++/7/bits/deque.tcc:1071:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::_Deque_iterator<ros::CallbackQueue::CallbackInfo, const ros::CallbackQueue::CallbackInfo&, const ros::CallbackQueue::CallbackInfo*>[m[K' changed in GCC 7.1
+     [01;36m[Kmove_backward[m[K(_Deque_iterator<_Tp, const _Tp&, const _Tp*> __first,
+     [01;36m[K^~~~~~~~~~~~~[m[K
+[01m[K/usr/include/c++/7/bits/deque.tcc:1071:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::_Deque_iterator<ros::CallbackQueue::CallbackInfo, const ros::CallbackQueue::CallbackInfo&, const ros::CallbackQueue::CallbackInfo*>[m[K' changed in GCC 7.1
+[01m[K/usr/include/c++/7/bits/deque.tcc:[m[K In function '[01m[Kstd::_Deque_iterator<_Tp, _Tp&, _Tp*> std::move(std::_Deque_iterator<_Tp, const _Tp&, const _Tp*>, std::_Deque_iterator<_Tp, const _Tp&, const _Tp*>, std::_Deque_iterator<_Tp, _Tp&, _Tp*>) [with _Tp = ros::CallbackQueue::CallbackInfo][m[K':
+[01m[K/usr/include/c++/7/bits/deque.tcc:1048:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::_Deque_iterator<ros::CallbackQueue::CallbackInfo, const ros::CallbackQueue::CallbackInfo&, const ros::CallbackQueue::CallbackInfo*>[m[K' changed in GCC 7.1
+     [01;36m[Kmove[m[K(_Deque_iterator<_Tp, const _Tp&, const _Tp*> __first,
+     [01;36m[K^~~~[m[K
+[01m[K/usr/include/c++/7/bits/deque.tcc:1048:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::_Deque_iterator<ros::CallbackQueue::CallbackInfo, const ros::CallbackQueue::CallbackInfo&, const ros::CallbackQueue::CallbackInfo*>[m[K' changed in GCC 7.1
+In file included from [01m[K/usr/include/c++/7/map:60:0[m[K,
+                 from [01m[K/opt/ros/melodic/include/ros/console.h:42[m[K,
+                 from [01m[K/opt/ros/melodic/include/ros/assert.h:35[m[K,
+                 from [01m[K/home/husarion/catkin_ws/devel/.private/roscpp/include/ros/common.h:36[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/include/ros/callback_queue_interface.h:39[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/include/ros/callback_queue.h:38[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/src/libros/callback_queue.cpp:35[m[K:
+[01m[K/usr/include/c++/7/bits/stl_tree.h:[m[K In member function '[01m[Kvoid std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::_M_erase_aux(std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::const_iterator) [with _Key = long long unsigned int; _Val = std::pair<const long long unsigned int, boost::shared_ptr<ros::CallbackQueue::IDInfo> >; _KeyOfValue = std::_Select1st<std::pair<const long long unsigned int, boost::shared_ptr<ros::CallbackQueue::IDInfo> > >; _Compare = std::less<long long unsigned int>; _Alloc = std::allocator<std::pair<const long long unsigned int, boost::shared_ptr<ros::CallbackQueue::IDInfo> > >][m[K':
+[01m[K/usr/include/c++/7/bits/stl_tree.h:2470:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::_Rb_tree<long long unsigned int, std::pair<const long long unsigned int, boost::shared_ptr<ros::CallbackQueue::IDInfo> >, std::_Select1st<std::pair<const long long unsigned int, boost::shared_ptr<ros::CallbackQueue::IDInfo> > >, std::less<long long unsigned int>, std::allocator<std::pair<const long long unsigned int, boost::shared_ptr<ros::CallbackQueue::IDInfo> > > >::const_iterator {aka std::_Rb_tree_const_iterator<std::pair<const long long unsigned int, boost::shared_ptr<ros::CallbackQueue::IDInfo> > >}[m[K' changed in GCC 7.1
+     [01;36m[K_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>[m[K::
+     [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/c++/7/deque:64:0[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/include/ros/callback_queue.h:49[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/src/libros/callback_queue.cpp:35[m[K:
+[01m[K/usr/include/c++/7/bits/stl_deque.h:[m[K In function '[01m[Kstd::_Deque_iterator<_Tp, _Tp&, _Tp*> std::copy(std::_Deque_iterator<_Tp, _Tp&, _Tp*>, std::_Deque_iterator<_Tp, _Tp&, _Tp*>, std::_Deque_iterator<_Tp, _Tp&, _Tp*>) [with _Tp = ros::CallbackQueue::CallbackInfo][m[K':
+[01m[K/usr/include/c++/7/bits/stl_deque.h:396:18:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::_Deque_iterator<ros::CallbackQueue::CallbackInfo, const ros::CallbackQueue::CallbackInfo&, const ros::CallbackQueue::CallbackInfo*>[m[K' changed in GCC 7.1
+          __result[01;36m[K)[m[K; }
+                  [01;36m[K^[m[K
+[01m[K/usr/include/c++/7/bits/stl_deque.h:396:18:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::_Deque_iterator<ros::CallbackQueue::CallbackInfo, const ros::CallbackQueue::CallbackInfo&, const ros::CallbackQueue::CallbackInfo*>[m[K' changed in GCC 7.1
+[01m[K/usr/include/c++/7/bits/stl_deque.h:396:18:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::_Deque_iterator<ros::CallbackQueue::CallbackInfo, const ros::CallbackQueue::CallbackInfo&, const ros::CallbackQueue::CallbackInfo*>[m[K' changed in GCC 7.1
+In file included from [01m[K/usr/include/c++/7/deque:66:0[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/include/ros/callback_queue.h:49[m[K,
+                 from [01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/src/libros/callback_queue.cpp:35[m[K:
+[01m[K/usr/include/c++/7/bits/deque.tcc:[m[K In function '[01m[Kstd::_Deque_iterator<_Tp, _Tp&, _Tp*> std::copy(std::_Deque_iterator<_Tp, const _Tp&, const _Tp*>, std::_Deque_iterator<_Tp, const _Tp&, const _Tp*>, std::_Deque_iterator<_Tp, _Tp&, _Tp*>) [with _Tp = ros::CallbackQueue::CallbackInfo][m[K':
+[01m[K/usr/include/c++/7/bits/deque.tcc:985:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::_Deque_iterator<ros::CallbackQueue::CallbackInfo, const ros::CallbackQueue::CallbackInfo&, const ros::CallbackQueue::CallbackInfo*>[m[K' changed in GCC 7.1
+     [01;36m[Kcopy[m[K(_Deque_iterator<_Tp, const _Tp&, const _Tp*> __first,
+     [01;36m[K^~~~[m[K
+[01m[K/usr/include/c++/7/bits/deque.tcc:985:5:[m[K [01;36m[Knote: [m[Kparameter passing for argument of type '[01m[Kstd::_Deque_iterator<ros::CallbackQueue::CallbackInfo, const ros::CallbackQueue::CallbackInfo&, const ros::CallbackQueue::CallbackInfo*>[m[K' changed in GCC 7.1
+[ 68%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/service_client.cpp.o[0m
+[ 69%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/node_handle.cpp.o[0m
+[ 70%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/connection_manager.cpp.o[0m
+[ 72%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/file_log.cpp.o[0m
+[ 73%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/transport/transport.cpp.o[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/transport/transport_udp.cpp.o[0m
+[ 76%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/transport/transport_tcp.cpp.o[0m
+[01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/src/libros/transport/transport_udp.cpp:[m[K In member function '[01m[Kvirtual int32_t ros::TransportUDP::read(uint8_t*, uint32_t)[m[K':
+[01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/src/libros/transport/transport_udp.cpp:437:28:[m[K [01;35m[Kwarning: [m[Kcomparison between signed and unsigned integer expressions [[01;35m[K-Wsign-compare[m[K]
+         else if ([01;35m[Knum_bytes < (unsigned) sizeof([m[Kheader))
+                  [01;35m[K~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/src/libros/transport/transport_udp.cpp:[m[K In member function '[01m[Kvirtual int32_t ros::TransportUDP::write(uint8_t*, uint32_t)[m[K':
+[01m[K/home/husarion/catkin_ws/src/ros_comm/clients/roscpp/src/libros/transport/transport_udp.cpp:604:24:[m[K [01;35m[Kwarning: [m[Kcomparison between signed and unsigned integer expressions [[01;35m[K-Wsign-compare[m[K]
+     else if ([01;35m[Knum_bytes < (unsigned) sizeof([m[Kheader))
+              [01;35m[K~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~[m[K
+[ 77%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/subscriber_link.cpp.o[0m
+[ 79%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/service_client_link.cpp.o[0m
+[ 80%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/transport_publisher_link.cpp.o[0m
+[ 81%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/transport_subscriber_link.cpp.o[0m
+[ 83%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/service_manager.cpp.o[0m
+[ 84%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/rosout_appender.cpp.o[0m
+[ 86%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/init.cpp.o[0m
+[ 87%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/subscription.cpp.o[0m
+[ 88%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/subscription_queue.cpp.o[0m
+[ 90%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/spinner.cpp.o[0m
+[ 91%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/internal_timer_manager.cpp.o[0m
+[ 93%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/message_deserializer.cpp.o[0m
+[ 94%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/poll_set.cpp.o[0m
+[ 95%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/service.cpp.o[0m
+[ 97%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/this_node.cpp.o[0m
+[ 98%] [32mBuilding CXX object CMakeFiles/roscpp.dir/src/libros/steady_timer.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/husarion/catkin_ws/devel/.private/roscpp/lib/libroscpp.so[0m
+[100%] Built target roscpp

@@ -1,0 +1,8 @@
+prefix=/home/husarion/catkin_ws/devel/.private/rosparam
+
+Name: rosparam
+Description: Description of rosparam
+Version: 1.14.12
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,1 @@
+/home/husarion/catkin_ws/devel/.private/controller_msgs/share/roseus/ros/controller_msgs/manifest.l

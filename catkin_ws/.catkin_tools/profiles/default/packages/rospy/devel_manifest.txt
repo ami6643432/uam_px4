@@ -1,0 +1,8 @@
+ros_comm/clients/rospy
+/home/husarion/catkin_ws/devel/.private/rospy/cmake.lock /home/husarion/catkin_ws/devel/./cmake.lock
+/home/husarion/catkin_ws/devel/.private/rospy/bin/rosconsole /home/husarion/catkin_ws/devel/bin/rosconsole
+/home/husarion/catkin_ws/devel/.private/rospy/bin/cmake.lock /home/husarion/catkin_ws/devel/bin/cmake.lock
+/home/husarion/catkin_ws/devel/.private/rospy/lib/pkgconfig/rospy.pc /home/husarion/catkin_ws/devel/lib/pkgconfig/rospy.pc
+/home/husarion/catkin_ws/devel/.private/rospy/lib/python2.7/dist-packages/rospy/__init__.py /home/husarion/catkin_ws/devel/lib/python2.7/dist-packages/rospy/__init__.py
+/home/husarion/catkin_ws/devel/.private/rospy/share/rospy/cmake/rospyConfig.cmake /home/husarion/catkin_ws/devel/share/rospy/cmake/rospyConfig.cmake
+/home/husarion/catkin_ws/devel/.private/rospy/share/rospy/cmake/rospyConfig-version.cmake /home/husarion/catkin_ws/devel/share/rospy/cmake/rospyConfig-version.cmake

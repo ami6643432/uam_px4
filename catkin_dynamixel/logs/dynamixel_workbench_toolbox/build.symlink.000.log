@@ -1,0 +1,4 @@
+Symlinking /home/husarion/catkin_dynamixel/devel/lib/libdynamixel_workbench_toolbox.so
+Symlinking /home/husarion/catkin_dynamixel/devel/lib/pkgconfig/dynamixel_workbench_toolbox.pc
+Symlinking /home/husarion/catkin_dynamixel/devel/share/dynamixel_workbench_toolbox/cmake/dynamixel_workbench_toolboxConfig.cmake
+Symlinking /home/husarion/catkin_dynamixel/devel/share/dynamixel_workbench_toolbox/cmake/dynamixel_workbench_toolboxConfig-version.cmake

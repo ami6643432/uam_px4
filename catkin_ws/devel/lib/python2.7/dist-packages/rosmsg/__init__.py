@@ -1,0 +1,1 @@
+/home/husarion/catkin_ws/devel/.private/rosmsg/lib/python2.7/dist-packages/rosmsg/__init__.py

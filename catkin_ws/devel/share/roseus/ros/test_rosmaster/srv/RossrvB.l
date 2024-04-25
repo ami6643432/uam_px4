@@ -1,0 +1,1 @@
+/home/husarion/catkin_ws/devel/.private/test_rosmaster/share/roseus/ros/test_rosmaster/srv/RossrvB.l

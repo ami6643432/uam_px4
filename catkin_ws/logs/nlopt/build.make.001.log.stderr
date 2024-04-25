@@ -1,0 +1,9 @@
+--2018-01-28 16:20:41--  https://github.com/ethz-asl/thirdparty_library_binaries/raw/master/nlopt-2.4.2.tar.gz
+Resolving github.com (github.com)... 13.234.176.102
+Connecting to github.com (github.com)|13.234.176.102|:443... connected.
+ERROR: cannot verify github.com's certificate, issued by 'CN=DigiCert TLS Hybrid ECC SHA384 2020 CA1,O=DigiCert Inc,C=US':
+  Issued certificate not yet valid.
+To connect to github.com insecurely, use `--no-check-certificate'.
+make[2]: *** [nlopt_src-prefix/src/nlopt_src-stamp/nlopt_src-download] Error 5
+make[1]: *** [CMakeFiles/nlopt_src.dir/all] Error 2
+make: *** [all] Error 2

@@ -1,0 +1,4 @@
+[ 40%] Built target rosbag
+[ 60%] Built target encrypt
+[ 80%] Built target record
+[100%] Built target play

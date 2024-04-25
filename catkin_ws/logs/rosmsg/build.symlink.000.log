@@ -1,0 +1,7 @@
+Symlinking /home/husarion/catkin_ws/devel/bin/rosmsg-proto
+Symlinking /home/husarion/catkin_ws/devel/bin/rossrv
+Symlinking /home/husarion/catkin_ws/devel/bin/rosmsg
+Symlinking /home/husarion/catkin_ws/devel/lib/pkgconfig/rosmsg.pc
+Symlinking /home/husarion/catkin_ws/devel/lib/python2.7/dist-packages/rosmsg/__init__.py
+Symlinking /home/husarion/catkin_ws/devel/share/rosmsg/cmake/rosmsgConfig.cmake
+Symlinking /home/husarion/catkin_ws/devel/share/rosmsg/cmake/rosmsgConfig-version.cmake

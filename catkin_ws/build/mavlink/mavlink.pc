@@ -1,0 +1,8 @@
+prefix=/home/husarion/catkin_ws/devel
+exec_prefix=/home/husarion/catkin_ws/devel
+includedir=${prefix}/include
+
+Name: mavlink
+Description: MAVLink micro air vehicle marshalling / communication library
+Version: 2021.12.12
+Cflags: -I${includedir}

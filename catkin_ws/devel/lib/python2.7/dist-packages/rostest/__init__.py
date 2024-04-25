@@ -1,0 +1,1 @@
+/home/husarion/catkin_ws/devel/.private/rostest/lib/python2.7/dist-packages/rostest/__init__.py

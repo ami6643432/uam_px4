@@ -1,0 +1,1 @@
+/home/husarion/catkin_ws/devel/.private/roscpp/lib/python2.7/dist-packages/roscpp/msg/_Logger.py

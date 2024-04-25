@@ -1,0 +1,8 @@
+prefix=/home/husarion/catkin_ws/devel/.private/pluginlib
+
+Name: pluginlib
+Description: Description of pluginlib
+Version: 1.13.0
+Cflags: -I/home/husarion/catkin_ws/src/pluginlib/pluginlib/include -I/usr/include
+Libs: -L${prefix}/lib /usr/lib/arm-linux-gnueabihf/libboost_filesystem.so /usr/lib/arm-linux-gnueabihf/libboost_system.so /usr/lib/arm-linux-gnueabihf/libtinyxml2.so
+Requires: class_loader rosconsole roslib

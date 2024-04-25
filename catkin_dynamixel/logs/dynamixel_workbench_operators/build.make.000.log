@@ -1,0 +1,71 @@
+-- Using CATKIN_DEVEL_PREFIX: /home/husarion/catkin_dynamixel/devel/.private/dynamixel_workbench_operators
+-- Using CMAKE_PREFIX_PATH: /home/husarion/catkin_dynamixel/devel;/home/husarion/catkin_ws/devel;/opt/ros/melodic
+-- This workspace overlays: /home/husarion/catkin_dynamixel/devel;/home/husarion/catkin_ws/devel;/opt/ros/melodic
+-- Found PythonInterp: /usr/bin/python2 (found suitable version "2.7.17", minimum required is "2") 
+-- Using PYTHON_EXECUTABLE: /usr/bin/python2
+-- Using Debian Python package layout
+-- Using empy: /usr/bin/empy
+-- Using CATKIN_ENABLE_TESTING: ON
+-- Call enable_testing()
+-- Using CATKIN_TEST_RESULTS_DIR: /home/husarion/catkin_dynamixel/build/dynamixel_workbench_operators/test_results
+-- Found gtest sources under '/usr/src/googletest': gtests will be built
+-- Found gmock sources under '/usr/src/googletest': gmock will be built
+-- Found PythonInterp: /usr/bin/python2 (found version "2.7.17") 
+-- Using Python nosetests: /usr/bin/nosetests-2.7
+-- catkin 0.7.26
+-- BUILD_SHARED_LIBS is on
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/husarion/catkin_dynamixel/build/dynamixel_workbench_operators
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[35m[1mScanning dependencies of target dynamixel_workbench_msgs_generate_messages_lisp[0m
+[  0%] Built target dynamixel_workbench_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target dynamixel_workbench_msgs_generate_messages_eus[0m
+[  0%] Built target dynamixel_workbench_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target dynamixel_workbench_msgs_generate_messages_cpp[0m
+[  0%] Built target dynamixel_workbench_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[  0%] Built target roscpp_generate_messages_eus
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[  0%] Built target roscpp_generate_messages_cpp
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[  0%] Built target roscpp_generate_messages_lisp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[  0%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[  0%] Built target roscpp_generate_messages_nodejs
+[35m[1mScanning dependencies of target dynamixel_workbench_msgs_generate_messages_nodejs[0m
+[  0%] Built target dynamixel_workbench_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[  0%] Built target roscpp_generate_messages_py
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target dynamixel_workbench_msgs_generate_messages_py[0m
+[  0%] Built target dynamixel_workbench_msgs_generate_messages_py
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  0%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target joint_operator[0m
+make[2]: Warning: File '/home/husarion/catkin_ws/devel/.private/roscpp/include/ros/common.h' has modification time 123729025 s in the future
+[ 25%] [32mBuilding CXX object CMakeFiles/joint_operator.dir/src/joint_operator.cpp.o[0m
+[ 50%] [32m[1mLinking CXX executable /home/husarion/catkin_dynamixel/devel/.private/dynamixel_workbench_operators/lib/dynamixel_workbench_operators/joint_operator[0m
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 50%] Built target joint_operator
+[35m[1mScanning dependencies of target wheel_operator[0m
+make[2]: Warning: File '/home/husarion/catkin_ws/devel/.private/roscpp/include/ros/common.h' has modification time 123729019 s in the future
+[ 75%] [32mBuilding CXX object CMakeFiles/wheel_operator.dir/src/wheel_operator.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/husarion/catkin_dynamixel/devel/.private/dynamixel_workbench_operators/lib/dynamixel_workbench_operators/wheel_operator[0m
+make[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[100%] Built target wheel_operator

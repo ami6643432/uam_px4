@@ -1,0 +1,5 @@
+Symlinking /home/husarion/catkin_ws/devel/lib/libmessage_filters.so
+Symlinking /home/husarion/catkin_ws/devel/lib/pkgconfig/message_filters.pc
+Symlinking /home/husarion/catkin_ws/devel/lib/python2.7/dist-packages/message_filters/__init__.py
+Symlinking /home/husarion/catkin_ws/devel/share/message_filters/cmake/message_filtersConfig-version.cmake
+Symlinking /home/husarion/catkin_ws/devel/share/message_filters/cmake/message_filtersConfig.cmake

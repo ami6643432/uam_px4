@@ -1,0 +1,3 @@
+Symlinking /home/husarion/catkin_ws/devel/lib/pkgconfig/test_roslaunch.pc
+Symlinking /home/husarion/catkin_ws/devel/share/test_roslaunch/cmake/test_roslaunchConfig.cmake
+Symlinking /home/husarion/catkin_ws/devel/share/test_roslaunch/cmake/test_roslaunchConfig-version.cmake

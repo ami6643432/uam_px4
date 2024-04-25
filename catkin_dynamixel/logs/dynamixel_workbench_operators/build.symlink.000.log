@@ -1,0 +1,5 @@
+Symlinking /home/husarion/catkin_dynamixel/devel/lib/dynamixel_workbench_operators/wheel_operator
+Symlinking /home/husarion/catkin_dynamixel/devel/lib/dynamixel_workbench_operators/joint_operator
+Symlinking /home/husarion/catkin_dynamixel/devel/lib/pkgconfig/dynamixel_workbench_operators.pc
+Symlinking /home/husarion/catkin_dynamixel/devel/share/dynamixel_workbench_operators/cmake/dynamixel_workbench_operatorsConfig.cmake
+Symlinking /home/husarion/catkin_dynamixel/devel/share/dynamixel_workbench_operators/cmake/dynamixel_workbench_operatorsConfig-version.cmake

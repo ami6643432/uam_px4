@@ -1,0 +1,5 @@
+Symlinking /home/husarion/catkin_ws/devel/bin/rostopic
+Symlinking /home/husarion/catkin_ws/devel/lib/pkgconfig/rostopic.pc
+Symlinking /home/husarion/catkin_ws/devel/lib/python2.7/dist-packages/rostopic/__init__.py
+Symlinking /home/husarion/catkin_ws/devel/share/rostopic/cmake/rostopicConfig.cmake
+Symlinking /home/husarion/catkin_ws/devel/share/rostopic/cmake/rostopicConfig-version.cmake

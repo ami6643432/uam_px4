@@ -1,0 +1,11 @@
+Symlinking /home/husarion/catkin_ws/devel/bin/roslaunch-deps
+Symlinking /home/husarion/catkin_ws/devel/bin/roslaunch-complete
+Symlinking /home/husarion/catkin_ws/devel/bin/roslaunch-logs
+Symlinking /home/husarion/catkin_ws/devel/bin/roscore
+Symlinking /home/husarion/catkin_ws/devel/bin/roslaunch
+Symlinking /home/husarion/catkin_ws/devel/lib/pkgconfig/roslaunch.pc
+Symlinking /home/husarion/catkin_ws/devel/lib/python2.7/dist-packages/roslaunch/__init__.py
+Symlinking /home/husarion/catkin_ws/devel/share/roslaunch/cmake/roslaunchConfig.cmake
+Symlinking /home/husarion/catkin_ws/devel/share/roslaunch/cmake/roslaunch-extras.cmake
+Symlinking /home/husarion/catkin_ws/devel/share/roslaunch/cmake/roslaunchConfig-version.cmake
+Symlinking /home/husarion/catkin_ws/devel/etc/catkin/profile.d/10.roslaunch.sh

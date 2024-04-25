@@ -1,0 +1,6 @@
+devel_space: /home/husarion/catkin_dynamixel/devel
+install: false
+install_space: /home/husarion/catkin_dynamixel/install
+profile: default
+source_space: /home/husarion/catkin_dynamixel/src
+workspace: /home/husarion/catkin_dynamixel

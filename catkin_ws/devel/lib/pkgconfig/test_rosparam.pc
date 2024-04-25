@@ -1,0 +1,1 @@
+/home/husarion/catkin_ws/devel/.private/test_rosparam/lib/pkgconfig/test_rosparam.pc

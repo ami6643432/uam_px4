@@ -1,0 +1,15 @@
+Symlinking /home/husarion/catkin_ws/devel/lib/pkgconfig/offboard_control.pc
+Symlinking /home/husarion/catkin_ws/devel/lib/offboard_control/sine_worm
+Symlinking /home/husarion/catkin_ws/devel/lib/offboard_control/infinity
+Symlinking /home/husarion/catkin_ws/devel/lib/offboard_control/small_circle
+Symlinking /home/husarion/catkin_ws/devel/lib/offboard_control/hysterisis
+Symlinking /home/husarion/catkin_ws/devel/lib/offboard_control/square
+Symlinking /home/husarion/catkin_ws/devel/lib/offboard_control/offboard
+Symlinking /home/husarion/catkin_ws/devel/lib/offboard_control/offboard_att
+Symlinking /home/husarion/catkin_ws/devel/lib/offboard_control/inf2
+Symlinking /home/husarion/catkin_ws/devel/lib/offboard_control/inf3
+Symlinking /home/husarion/catkin_ws/devel/lib/offboard_control/circle_v2
+Symlinking /home/husarion/catkin_ws/devel/lib/offboard_control/offboard_sub
+Symlinking /home/husarion/catkin_ws/devel/lib/offboard_control/flower
+Symlinking /home/husarion/catkin_ws/devel/share/offboard_control/cmake/offboard_controlConfig-version.cmake
+Symlinking /home/husarion/catkin_ws/devel/share/offboard_control/cmake/offboard_controlConfig.cmake

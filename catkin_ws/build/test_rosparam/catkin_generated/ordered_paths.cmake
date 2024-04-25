@@ -1,0 +1,1 @@
+set(ORDERED_PATHS "/home/husarion/catkin_ws/src/ros_comm/tools/rostest/include;/usr/include")

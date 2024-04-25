@@ -1,0 +1,5 @@
+Symlinking /home/husarion/catkin_ws/devel/bin/roswtf
+Symlinking /home/husarion/catkin_ws/devel/lib/pkgconfig/roswtf.pc
+Symlinking /home/husarion/catkin_ws/devel/lib/python2.7/dist-packages/roswtf/__init__.py
+Symlinking /home/husarion/catkin_ws/devel/share/roswtf/cmake/roswtfConfig.cmake
+Symlinking /home/husarion/catkin_ws/devel/share/roswtf/cmake/roswtfConfig-version.cmake

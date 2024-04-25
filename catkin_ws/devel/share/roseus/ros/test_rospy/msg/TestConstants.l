@@ -1,0 +1,1 @@
+/home/husarion/catkin_ws/devel/.private/test_rospy/share/roseus/ros/test_rospy/msg/TestConstants.l

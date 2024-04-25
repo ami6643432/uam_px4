@@ -1,0 +1,5 @@
+Symlinking /home/husarion/catkin_ws/devel/bin/rosconsole
+Symlinking /home/husarion/catkin_ws/devel/lib/pkgconfig/rospy.pc
+Symlinking /home/husarion/catkin_ws/devel/lib/python2.7/dist-packages/rospy/__init__.py
+Symlinking /home/husarion/catkin_ws/devel/share/rospy/cmake/rospyConfig.cmake
+Symlinking /home/husarion/catkin_ws/devel/share/rospy/cmake/rospyConfig-version.cmake

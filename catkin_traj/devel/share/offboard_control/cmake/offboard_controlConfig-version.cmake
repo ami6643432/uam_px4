@@ -1,0 +1,1 @@
+/home/husarion/catkin_traj/devel/.private/offboard_control/share/offboard_control/cmake/offboard_controlConfig-version.cmake

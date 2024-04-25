@@ -1,0 +1,1 @@
+/home/husarion/catkin_ws/devel/.private/roscpp/share/roseus/ros/roscpp/msg/Logger.l

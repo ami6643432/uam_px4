@@ -1,0 +1,4 @@
+Symlinking /home/husarion/catkin_ws/devel/lib/pkgconfig/rosout.pc
+Symlinking /home/husarion/catkin_ws/devel/lib/rosout/rosout
+Symlinking /home/husarion/catkin_ws/devel/share/rosout/cmake/rosoutConfig-version.cmake
+Symlinking /home/husarion/catkin_ws/devel/share/rosout/cmake/rosoutConfig.cmake

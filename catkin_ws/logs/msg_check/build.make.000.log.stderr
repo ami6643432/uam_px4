@@ -1,0 +1,9 @@
+In file included from [01m[K/home/husarion/catkin_ws/src/msg_check/src/library/msg_check.cpp:17:0[m[K:
+[01m[K/home/husarion/catkin_ws/src/msg_check/include/msg_check/msg_check.h:8:10:[m[K [01;31m[Kfatal error: [m[Kmsg_check/PlotDataMsg.h: No such file or directory
+ #include [01;31m[K"msg_check/PlotDataMsg.h"[m[K
+          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+compilation terminated.
+make[2]: *** [CMakeFiles/msg_check.dir/src/library/msg_check.cpp.o] Error 1
+make[1]: *** [CMakeFiles/msg_check.dir/all] Error 2
+make[1]: *** Waiting for unfinished jobs....
+make: *** [all] Error 2
